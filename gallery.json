@@ -1,11 +1,18 @@
 {"digital_art":
         [
-            {"link":"https://postimg.cc/2Lyd74Dc","thumbnail":"https://i.postimg.cc/x8ysYRF2/IMG_2791.jpg",
-            "artist":"CoMo","month":"12","day":"31","year":"2025",
-            "title":"Goodbye Orange",
-            "caption":"A Gladstone branch train of Arrow IIIs leaving Orange station, westbound.",
+            {"link":"https://postimg.cc/w7FwhWXM","thumbnail":"https://i.postimg.cc/wjYnYZ3X/rockyeclipse-fits.png",
+            "artist":"CoMo","month":"01","day":"16","year":"2026",
+            "title":"Fits",
+            "caption":"Rocky and Eclipse switches their clothes.",
             "description":"",
-            "tags":["real"]},
+            "tags":["rocky","eclipse","sribbles"]},
+                
+            {"link":"https://postimg.cc/jwN8PtXB","thumbnail":"https://i.postimg.cc/HxvfGL7W/balldonut-SFW.png",
+            "artist":"CoMo","month":"01","day":"16","year":"2026",
+            "title":"Donut!",
+            "caption":"Ball loves donuts!",
+            "description":"",
+            "tags":["ball","sribbles"]},
                 
             {"link":"https://postimg.cc/t71Q49D6","thumbnail":"https://i.postimg.cc/dQ6qn1y5/nanikabrooklyn.png",
             "artist":"CoMo","month":"01","day":"15","year":"2026",
@@ -5304,3 +5311,4 @@
         ]
 
 }
+

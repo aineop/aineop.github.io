@@ -1,5 +1,19 @@
 {"digital_art":
         [
+            {"link":"https://postimg.cc/sG5svb8w","thumbnail":"https://i.postimg.cc/sG5svb8w/ball-snow.png",
+            "artist":"CoJu","month":"01","day":"17","year":"2026",
+            "title":"Ball And His Boba",
+            "caption":"The moon is bright tonight.",
+            "description":"",
+            "tags":["ball","sribbles"]},
+                
+            {"link":"https://postimg.cc/Kk6mcm9H","thumbnail":"https://i.postimg.cc/Kk6mcm9H/rainfrench.png",
+            "artist":"CoJu","month":"01","day":"16","year":"2026",
+            "title":"Baguette",
+            "caption":"Rain is painting.",
+            "description":"",
+            "tags":["rain","cojuverse"]},
+                
             {"link":"https://postimg.cc/w7FwhWXM","thumbnail":"https://i.postimg.cc/wjYnYZ3X/rockyeclipse-fits.png",
             "artist":"CoJu","month":"01","day":"16","year":"2026",
             "title":"Fits",
@@ -5311,6 +5325,7 @@
         ]
 
 }
+
 
 
 

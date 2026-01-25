@@ -1,5 +1,33 @@
 {"digital_art":
         [
+            {"link":"https://postimg.cc/56B0V8Nz","thumbnail":"https://i.postimg.cc/RV8nwTkg/nanika.png",
+            "artist":"CoJu","month":"01","day":"23","year":"2026",
+            "title":"At The Rave",
+            "caption":"Nanika's havin' fun!",
+            "description":"",
+            "tags":["nanika","sribbles"]},
+                
+            {"link":"https://postimg.cc/8F0kHHwL","thumbnail":"https://i.postimg.cc/HxpJTvyv/nanikamorningwood_SFW.png",
+            "artist":"CoMo","month":"01","day":"23","year":"2026",
+            "title":"Girlboss",
+            "caption":"It's a beautiful morning to be witnessing bullshit.",
+            "description":"",
+            "tags":["nanika","sribbles"]},
+
+            {"link":"https://postimg.cc/RWv0VqNF","thumbnail":"https://i.postimg.cc/htdQsdn9/valeriescary.png",
+            "artist":"CoJu","month":"01","day":"19","year":"2026",
+            "title":"Playground",
+            "caption":"Valerie in a scary place.",
+            "description":"",
+            "tags":["valerie","cojuverse"]},
+                
+            {"link":"https://postimg.cc/jnVxVSpN","thumbnail":"https://i.postimg.cc/T11pDyQk/rockyball.png",
+            "artist":"CoMo","month":"01","day":"18","year":"2026",
+            "title":"Not A Snowball",
+            "caption":"Nolan messes around on Rocky's birthday!",
+            "description":"",
+            "tags":["rocky","nolan","sribbles"]},
+                
             {"link":"https://postimg.cc/sG5svb8w","thumbnail":"https://i.postimg.cc/T14wH6cM/ball_snow.png",
             "artist":"CoJu","month":"01","day":"17","year":"2026",
             "title":"Ball And His Boba",
@@ -706,6 +734,13 @@
             "caption":"Pocky not enjoying a corndog.",
             "description":"",
             "tags":["pocky","sribbles"]},
+
+            {"link":"https://postimg.cc/dZCHNSVr","thumbnail":"https://i.postimg.cc/mkXvDvxX/sage89.png",
+            "artist":"CoMo","month":"08","day":"09","year":"2025",
+            "title":"Sagey",
+            "caption":"Aww, Sage! [CoMo finished this drawing on January 24, 2026]",
+            "description":"",
+            "tags":["sage","sribbles"]},
             
             {"link":"https://64.media.tumblr.com/723a4419a746dae66bf8b914c155b988/ed625575c3591808-9f/s2048x3072/572ddbfc56c74fede2e4bd6e388ba81c9cfc856a.pnj","thumbnail":"https://64.media.tumblr.com/723a4419a746dae66bf8b914c155b988/ed625575c3591808-9f/s2048x3072/572ddbfc56c74fede2e4bd6e388ba81c9cfc856a.pnj",
             "artist":"CoJu","month":"08","day":"09","year":"2025",
@@ -5325,6 +5360,7 @@
         ]
 
 }
+
 
 
 

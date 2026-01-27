@@ -1,5 +1,19 @@
 {"digital_art":
         [
+            {"link":"https://postimg.cc/RNHc5zY4","thumbnail":"https://i.postimg.cc/MKstB6bM/greninja.png",
+            "artist":"CoJu","month":"01","day":"26","year":"2026",
+            "title":"GREENJA",
+            "caption":"Greninja being cool.",
+            "description":"",
+            "tags":["greninja","pokemon","fanart"]},
+                
+            {"link":"https://postimg.cc/xJfRnFzg","thumbnail":"https://i.postimg.cc/qRnZcPMf/mikianchovie.png",
+            "artist":"CoMo","month":"01","day":"26","year":"2026",
+            "title":"Fuck Off",
+            "caption":"Miki wants to enjoy their anchovies in peace.",
+            "description":"",
+            "tags":["miki","sribbles"]},
+                
             {"link":"https://postimg.cc/K3kbGhxH","thumbnail":"https://i.postimg.cc/5yp2mfGb/wayneliftleg.png",
             "artist":"CoMo","month":"01","day":"26","year":"2026",
             "title":"Hey Pretty Boy",
@@ -5409,6 +5423,7 @@
         ]
 
 }
+
 
 
 

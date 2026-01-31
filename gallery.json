@@ -1,5 +1,19 @@
 {"digital_art":
         [
+           {"link":"https://i.postimg.cc/vDwFcQ8b/autumn-dang.png","thumbnail":"https://i.postimg.cc/RJdbYxnD/autumn-dang.png",
+            "artist":"CoJu","month":"01","day":"30","year":"2026",
+            "title":"Right Foot On The Roses",
+            "caption":"Autumn decided to wear red today.",
+            "description":"",
+            "tags":["autumn","sribbles"]},
+
+            {"link":"https://i.postimg.cc/mDNL9LgF/caf-formal.png","thumbnail":"https://i.postimg.cc/gXjbFPRY/caf-formal.png",
+            "artist":"CoJu","month":"01","day":"29","year":"2026",
+            "title":"Out On The Town",
+            "caption":"Counter Attack Force having fun in formalwear. Originally sketched in May 2025.",
+            "description":"",
+            "tags":["rocky","eclipse","peggy","aster","sribbles"]},
+                
             {"link":"https://postimg.cc/RNHc5zY4","thumbnail":"https://i.postimg.cc/MKstB6bM/greninja.png",
             "artist":"CoJu","month":"01","day":"26","year":"2026",
             "title":"GREENJA",
@@ -5423,6 +5437,7 @@
         ]
 
 }
+
 
 
 

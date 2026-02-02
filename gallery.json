@@ -307,6 +307,13 @@
             "caption":"Peggy throws a ball.",
             "description":"",
             "tags":["peggy","sribbles"]},
+
+            {"link":"https://postimg.cc/tZKL60LD","thumbnail":"https://i.postimg.cc/Y00kJM8c/i-require.png",
+            "artist":"CoJu","month":"12","day":"05","year":"2025",
+            "title":"I Require",
+            "caption":"[Lineart-ed by CoJu on November 5, 2024]",
+            "description":"",
+            "tags":["jeremiah","sribbles"]},
             
             {"link":"https://postimg.cc/QVQ8S0Hg","thumbnail":"https://i.postimg.cc/Y2VvrP7P/temhoboken.png",
             "artist":"CoMo","month":"12","day":"05","year":"2025",
@@ -4532,6 +4539,13 @@
         ],
 "references":
         [
+            {"link":"https://postimg.cc/CzGVj1h3","thumbnail":"https://i.postimg.cc/gk5kbXf2/liamref2.png",
+            "artist":"CoJu","month":"02","day":"01","year":"2026",
+            "title":"Liam's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["liam","sribbles"]},
+                
             {"link":"https://postimg.cc/DSWzmrm3","thumbnail":"https://i.postimg.cc/YCRLn8H0/ramref.png",
             "artist":"CoJu","month":"01","day":"24","year":"2026",
             "title":"Ram's Reference",
@@ -5500,6 +5514,7 @@
         ]
 
 }
+
 
 
 

@@ -1,5 +1,12 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/FkyzHLRs","thumbnail":"https://i.postimg.cc/FzqLGbXc/pocky-sad.png",
+            "artist":"CoJu","month":"02","day":"02","year":"2026",
+            "title":"Late Night Text",
+            "caption":"i still love you.",
+            "description":"",
+            "tags":["pocky","sribbles"]},
+                
            {"link":"https://postimg.cc/LnpvfzTh","thumbnail":"https://i.postimg.cc/QxBz2mKg/cedar-animated.gif",
             "artist":"CoJu","month":"01","day":"31","year":"2026",
             "title":"GLACEON",
@@ -609,9 +616,9 @@
             "description":"",
             "tags":["reba", "umbreon", "eeveelution", "pokemon", "cojuverse"]},
 
-            {"link":"https://postimg.cc/wRyzqYgZ","thumbnail":"https://i.postimg.cc/brLwRqMy/cometsbacksack_SFW.png",
+            {"link":"https://postimg.cc/fSNWpRvx","thumbnail":"https://i.postimg.cc/gjwwwwXB/cometsbacksack-SFW.png",
             "artist":"CoMo","month":"10","day":"01","year":"2025",
-            "title":"Ass",
+            "title":"Bioluminesence",
             "caption":"Comet glowing in the dark.",
             "description":"",
             "tags":["comet","sribbles"]},
@@ -5514,6 +5521,7 @@
         ]
 
 }
+
 
 
 

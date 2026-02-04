@@ -1,5 +1,12 @@
 {"digital_art":
         [
+            {"link":"https://postimg.cc/mPy7KKDz","thumbnail":"https://i.postimg.cc/4xrwHgR5/oakwoodhellyeah.png",
+            "artist":"CoMo","month":"02","day":"03","year":"2026",
+            "title":"Hell Yeah",
+            "caption":"HELL YEAH!",
+            "description":"",
+            "tags":["oakwood","sribbles"]},
+                
            {"link":"https://postimg.cc/FkyzHLRs","thumbnail":"https://i.postimg.cc/FzqLGbXc/pocky-sad.png",
             "artist":"CoJu","month":"02","day":"02","year":"2026",
             "title":"Late Night Text",
@@ -5521,6 +5528,7 @@
         ]
 
 }
+
 
 
 

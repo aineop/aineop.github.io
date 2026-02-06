@@ -1,5 +1,26 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/fJfbhC5K","thumbnail":"https://i.postimg.cc/J49HZdk9/cypress_binary2.png",
+            "artist":"CoJu","month":"02","day":"05","year":"2026",
+            "title":"An Old Friend - Page 2",
+            "caption":"i'm in a hurry bye",
+            "description":"",
+            "tags":["esther","rocky","cypress","sribbles"]},
+                
+           {"link":"https://postimg.cc/tYNgHkDz","thumbnail":"https://i.postimg.cc/sDtG70hb/cypress_binary.png",
+            "artist":"CoJu","month":"02","day":"05","year":"2026",
+            "title":"An Old Friend - Page 1",
+            "caption":" Note: the comic was sketched sometime in Fall 2025. <br><a href='https://postimg.cc/hf1GqsM1'>(Cover image)</a> ",
+            "description":"",
+            "tags":["esther","rocky","cypress","sribbles"]},
+                
+            {"link":"https://postimg.cc/RJr0vbj8","thumbnail":"https://i.postimg.cc/gjjLqC4Y/mieorucandle.png",
+            "artist":"CoMo","month":"02","day":"05","year":"2026",
+            "title":"Mieoru's Birthday",
+            "caption":"Sorry.",
+            "description":"",
+            "tags":["mieoru","sribbles"]},
+                
             {"link":"https://postimg.cc/mPy7KKDz","thumbnail":"https://i.postimg.cc/4xrwHgR5/oakwoodhellyeah.png",
             "artist":"CoMo","month":"02","day":"03","year":"2026",
             "title":"Hell Yeah",
@@ -5528,6 +5549,7 @@
         ]
 
 }
+
 
 
 

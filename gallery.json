@@ -1,5 +1,40 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/qNLDPQRp","thumbnail":"https://i.postimg.cc/tgQ0VMGn/rocky_dog.png",
+            "artist":"CoJu","month":"02","day":"07","year":"2026",
+            "title":"Rocky As A Dog",
+            "caption":"Listenin' to Cannibal Corpse!!",
+            "description":"",
+            "tags":["rocky","sribbles"]},
+
+           {"link":"https://postimg.cc/bSk339MW","thumbnail":"https://i.postimg.cc/Y0yZ2Xxr/umbreonnamedvin.png",
+            "artist":"CoMo","month":"02","day":"07","year":"2026",
+            "title":"His Name Is Vin",
+            "caption":"He's too shy to ask you for a snack.",
+            "description":"",
+            "tags":["umbreon","eeveelution","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/ZvpVVx2t","thumbnail":"https://i.postimg.cc/rsY3yh9m/umbreon262.png",
+            "artist":"CoMo","month":"02","day":"07","year":"2026",
+            "title":"Glowing",
+            "caption":"Umbreon wants to show you its glow!",
+            "description":"",
+            "tags":["umbreon","eeveelution","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/XBdQQkhT","thumbnail":"https://i.postimg.cc/j2kmq8hd/umbreon26yearsold2.png",
+            "artist":"CoMo_&_CoJu","month":"02","day":"07","year":"2026",
+            "title":"Floating In The Blue",
+            "caption":"BREAKING NEWS!",
+            "description":"",
+            "tags":["umbreon","eeveelution","pokemon","fanart"]},
+                
+           {"link":"https://postimg.cc/yDPpMndK","thumbnail":"https://i.postimg.cc/pdbNn6Mm/umbreon2026.png",
+            "artist":"CoJu","month":"02","day":"07","year":"2026",
+            "title":"UMBREON",
+            "caption":"An UMBREON is ready to STEAL your PHONE!",
+            "description":"",
+            "tags":["umbreon","eeveelution","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/fJfbhC5K","thumbnail":"https://i.postimg.cc/J49HZdk9/cypress_binary2.png",
             "artist":"CoJu","month":"02","day":"05","year":"2026",
             "title":"An Old Friend - Page 2",
@@ -1609,6 +1644,13 @@
             "caption":"Too many Runchies!",
             "description":"",
             "tags":["runchie","sribbles"]},
+
+            {"link":"https://postimg.cc/mtWdhK17","thumbnail":"https://i.postimg.cc/GhH6gCcg/waynefishing.png",
+            "artist":"CoMo","month":"04","day":"25","year":"2025",
+            "title":"Waynefishing",
+            "caption":"Wayne holding a white cigarette.",
+            "description":"",
+            "tags":["wayne","sribbles"]},
 
             {"link":"https://postimg.cc/Wt3S7NLz","thumbnail":"https://i.postimg.cc/gcy5mjgV/Screenshot-167.png",
             "artist":"CoMo","month":"04","day":"25","year":"2025",
@@ -5549,6 +5591,7 @@
         ]
 
 }
+
 
 
 

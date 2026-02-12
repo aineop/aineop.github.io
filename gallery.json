@@ -1,5 +1,26 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/nCkHMwR8","thumbnail":"https://i.postimg.cc/pLNyGwKd/p260211.png",
+            "artist":"CoMo","month":"02","day":"11","year":"2026",
+            "title":"R211 Guy",
+            "caption":"CoMo says that she has the NYS stripes, he just didn't want to draw them.",
+            "description":"",
+            "tags":["r211guy","sribbles"]},
+                
+           {"link":"https://postimg.cc/zVWgM5Gw","thumbnail":"https://i.postimg.cc/pXcJmLNS/mj.png",
+            "artist":"CoJu","month":"02","day":"11","year":"2026",
+            "title":"Birthday",
+            "caption":"mj on her birthday.",
+            "description":"",
+            "tags":["mj","cojuverse"]},
+                
+           {"link":"https://postimg.cc/RNfH89ZQ","thumbnail":"https://i.postimg.cc/7Ytn5Zvc/axel_food.png",
+            "artist":"CoJu","month":"02","day":"11","year":"2026",
+            "title":"Noodles",
+            "caption":"Axel eating noodle.",
+            "description":"",
+            "tags":["axel","cojuverse"]},
+                
            {"link":"https://postimg.cc/nCJg8qmY","thumbnail":"https://i.postimg.cc/rF0krJFb/eeveeipad.png",
             "artist":"CoMo","month":"02","day":"10","year":"2026",
             "title":"On My iPad",
@@ -2079,10 +2100,10 @@
             "description":"",
             "tags":["liam","kennivari","sribbles"]},
             
-            {"link":"https://files.catbox.moe/1qrdwn.png","thumbnail":"https://files.catbox.moe/1qrdwn.png",
+            {"link":"https://postimg.cc/XBWbYw9K","thumbnail":"https://i.postimg.cc/8cJPw45Y/liamsilly-2.png",
             "artist":"CoMo","month":"01","day":"26","year":"2025",
-            "title":"Liam Being Cute?",
-            "caption":"Liam sitting on the ground looking to the left. This is the first proper digital drawing of Liam that CoMo finished.",
+            "title":"Curious Liam",
+            "caption":"[Modified on Feb 11, 2026. <a href='https://files.catbox.moe/1qrdwn.png'>Original version here.</a>]<br> Fun fact: This is the first proper digital drawing of Liam that CoMo finished.",
             "description":"",
             "tags":["liam","kennivari","sribbles"]},
             
@@ -6036,6 +6057,7 @@
         ]
 
 }
+
 
 
 

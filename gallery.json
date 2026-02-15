@@ -1,5 +1,12 @@
 {"digital_art":
         [
+            {"link":"https://64.media.tumblr.com/547db260e474339843c3a4082af951b1/4a6f72ad95c6de17-39/s2048x3072/b553a623b50744b0c96da46d660488de4ef94f93.png","thumbnail":"https://64.media.tumblr.com/547db260e474339843c3a4082af951b1/4a6f72ad95c6de17-39/s2048x3072/b553a623b50744b0c96da46d660488de4ef94f93.png",
+            "artist":"CoJu","month":"02","day":"13","year":"2026",
+            "title":"The Happiest Couple Ever",
+            "caption":"Pocky and Autumn take a Valentine's Day selfie.",
+            "description":"",
+            "tags":["pocky","autumn","sribbles"]},
+                
            {"link":"https://postimg.cc/nCkHMwR8","thumbnail":"https://i.postimg.cc/pLNyGwKd/p260211.png",
             "artist":"CoMo","month":"02","day":"11","year":"2026",
             "title":"R211 Guy",
@@ -6057,6 +6064,7 @@
         ]
 
 }
+
 
 
 

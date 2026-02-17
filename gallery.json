@@ -1,5 +1,33 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/CZYLFxX5","thumbnail":"https://i.postimg.cc/q76txtGs/ryderkindafine.png",
+            "artist":"CoMo","month":"02","day":"16","year":"2026",
+            "title":"Ryder!",
+            "caption":"Ryder!",
+            "description":"",
+            "tags":["ryder","sribbles"]},
+                
+           {"link":"https://postimg.cc/jw3sQQ5f","thumbnail":"https://i.postimg.cc/cC0rWFGF/blair-prototype.png",
+            "artist":"CoJu","month":"02","day":"16","year":"2026",
+            "title":"Protoblair",
+            "caption":"Blair as a prototype.",
+            "description":"",
+            "tags":["blair","cojuverse"]},
+
+           {"link":"https://postimg.cc/Z9ZKT529","thumbnail":"https://i.postimg.cc/VN0SWSFF/noelove.png",
+            "artist":"CoMo","month":"02","day":"16","year":"2026",
+            "title":"Love Pillow",
+            "caption":"POV: You are his boyfriend.",
+            "description":"",
+            "tags":["noel","sribbles"]},
+
+           {"link":"https://postimg.cc/bG8NzwWd","thumbnail":"https://i.postimg.cc/GpTBxBjP/noelsad.png",
+            "artist":"CoMo","month":"02","day":"16","year":"2026",
+            "title":"Sad",
+            "caption":"It didn't have to be this way.",
+            "description":"",
+            "tags":["noel","sribbles"]},
+                
            {"link":"https://postimg.cc/1fzCb4wy","thumbnail":"https://i.postimg.cc/dt2bky0Z/umbreonstretch.png",
             "artist":"CoMo","month":"02","day":"15","year":"2026",
             "title":"Stretch",
@@ -6134,6 +6162,7 @@
         ]
 
 }
+
 
 
 

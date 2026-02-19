@@ -1,5 +1,33 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/Q9FfLBgZ","thumbnail":"https://i.postimg.cc/xCRhzMc8/litten.png",
+            "artist":"CoMo","month":"02","day":"18","year":"2026",
+            "title":"He's Like A Litten",
+            "caption":"A litten getting threatened.",
+            "description":"",
+            "tags":["litten","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/68QRbkLD","thumbnail":"https://i.postimg.cc/Z58cnZ9K/brooklyn_zealot.png",
+            "artist":"CoJu","month":"02","day":"18","year":"2026",
+            "title":"Harambe",
+            "caption":"Zealot being annoying. Brooklyn is thinking 'wow, he's annoying'.",
+            "description":"",
+            "tags":["brooklyn","zealot","cojuverse"]},
+                
+           {"link":"https://postimg.cc/WFd5RDmP","thumbnail":"https://i.postimg.cc/3RBVvmdW/ryderv.png",
+            "artist":"CoMo","month":"02","day":"17","year":"2026",
+            "title":"He's Like An Adult Litten",
+            "caption":"Ryder sits and looks up.",
+            "description":"",
+            "tags":["ryder","sribbles"]},
+
+           {"link":"https://postimg.cc/yDN9pMXt","thumbnail":"https://i.postimg.cc/Nj64FYys/zealot.png",
+            "artist":"CoJu","month":"02","day":"17","year":"2026",
+            "title":"Zealot",
+            "caption":"Zealot as a Zealot.",
+            "description":"",
+            "tags":["zealot","cojuverse"]},
+                
            {"link":"https://postimg.cc/CZYLFxX5","thumbnail":"https://i.postimg.cc/q76txtGs/ryderkindafine.png",
             "artist":"CoMo","month":"02","day":"16","year":"2026",
             "title":"Ryder!",
@@ -115,7 +143,7 @@
            {"link":"https://postimg.cc/zVWgM5Gw","thumbnail":"https://i.postimg.cc/pXcJmLNS/mj.png",
             "artist":"CoJu","month":"02","day":"11","year":"2026",
             "title":"Birthday",
-            "caption":"mj on her birthday.",
+            "caption":"MJ on her birthday.",
             "description":"",
             "tags":["mj","cojuverse"]},
                 
@@ -6162,6 +6190,7 @@
         ]
 
 }
+
 
 
 

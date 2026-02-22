@@ -1,5 +1,61 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/bs7Q1kRg","thumbnail":"https://i.postimg.cc/bwJ3cRD7/litten3.png",
+            "artist":"CoMo","month":"02","day":"21","year":"2026",
+            "title":"Annoyed",
+            "caption":"Litten is a little annoyed.",
+            "description":"",
+            "tags":["litten","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/Yh51QYx3","thumbnail":"https://i.postimg.cc/vZB3Fvgp/litten2.png",
+            "artist":"CoMo","month":"02","day":"21","year":"2026",
+            "title":"Her Name Is Coco",
+            "caption":">:3",
+            "description":"",
+            "tags":["litten","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/gnCv38K4","thumbnail":"https://i.postimg.cc/kg4f3yRr/sylveonlostinspace.png",
+            "artist":"CoMo","month":"02","day":"21","year":"2026",
+            "title":"Lost",
+            "caption":"Yeah, she's lost in spaaace.",
+            "description":"",
+            "tags":["sylveon","eeveelution","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/QBkk8C1J","thumbnail":"https://i.postimg.cc/nLNd1QLg/sylveon2026.png",
+            "artist":"CoJu","month":"02","day":"21","year":"2026",
+            "title":"Sylveon Day 2026",
+            "caption":">wO",
+            "description":"",
+            "tags":["sylveon","eeveelution","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/ygzY5BVg","thumbnail":"https://i.postimg.cc/50XYXNT3/jolteon.png",
+            "artist":"CoJu","month":"02","day":"20","year":"2026",
+            "title":"Jolteon In 2026",
+            "caption":"ELECTRIC!",
+            "description":"",
+            "tags":["jolteon","eeveelution","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/5jgNPZDF","thumbnail":"https://i.postimg.cc/sDdQ2zcK/jeremiahnewtons.png",
+            "artist":"CoMo","month":"02","day":"20","year":"2026",
+            "title":"The Newtons",
+            "caption":"The Newtons of The Futurists having a blast of a 56th birthday!",
+            "description":"",
+            "tags":["jeremiah","jimmy","sribbles"]},
+
+           {"link":"https://postimg.cc/XXxbrbwt","thumbnail":"https://i.postimg.cc/RVxVbCqC/flareon2.png",
+            "artist":"CoMo","month":"02","day":"19","year":"2026",
+            "title":"Play",
+            "caption":"Flareon wants to play!",
+            "description":"",
+            "tags":["flareon","eeveelution","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/RqGBWB7F","thumbnail":"https://i.postimg.cc/0212H5rp/flareon2026.png",
+            "artist":"CoJu","month":"02","day":"19","year":"2026",
+            "title":"Flareon In 2026",
+            "caption":"FLEUBER!",
+            "description":"",
+            "tags":["flareon","eeveelution","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/Q9FfLBgZ","thumbnail":"https://i.postimg.cc/xCRhzMc8/litten.png",
             "artist":"CoMo","month":"02","day":"18","year":"2026",
             "title":"He's Like A Litten",
@@ -4345,7 +4401,7 @@
             "title":"The Futurists",
             "caption":"Old reference for The Futurists.",
             "description":"",
-            "tags":["raby","sribbles"]},
+            "tags":["raby","jimmy","jeremiah","pad","sribbles"]},
             
             {"link":"https://postimg.cc/yWRT0g7G","thumbnail":"https://i.postimg.cc/xjxFDMh9/mar.png",
             "artist":"CoJu","month":"08","day":"22","year":"2023",
@@ -4493,6 +4549,13 @@
             "caption":"Fucking thick eevee.",
             "description":"",
             "tags":["eevee","pokemon","fanart"]},
+
+            {"link":"https://postimg.cc/DWrZRbL0","thumbnail":"https://i.postimg.cc/ZqgdB8q8/weezer.png",
+            "artist":"CoJu","month":"12","day":"14","year":"2022",
+            "title":"The Futurists",
+            "caption":"Weezer for The Futurists.",
+            "description":"",
+            "tags":["jeck","jimmy","jeremiah","pad","sribbles"]},
             
             {"link":"https://64.media.tumblr.com/46c715b9f37231cb2efc4b53a30587eb/3f2fc9ba4e886106-e2/s1280x1920/c7fb12583457e78fc50c7231e55cdf3b027f66da.png","thumbnail":"https://64.media.tumblr.com/46c715b9f37231cb2efc4b53a30587eb/3f2fc9ba4e886106-e2/s1280x1920/c7fb12583457e78fc50c7231e55cdf3b027f66da.png",
             "artist":"CoJu","month":"12","day":"08","year":"2022",
@@ -5198,6 +5261,13 @@
         ],
 "references":
         [   
+           {"link":"https://postimg.cc/YGrNh7zD","thumbnail":"https://i.postimg.cc/Y9gdDqG7/ryderref1.png",
+            "artist":"CoJu","month":"02","day":"21","year":"2026",
+            "title":"Ryder's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["ryder","sribbles"]},
+                
             {"link":"https://64.media.tumblr.com/a422b07bf16cb2dea61a019c92afbaff/31129a78d3ca1b47-15/s2048x3072/15c177a7bc3d509e43a3819c9aac942393b6a501.png","thumbnail":"https://64.media.tumblr.com/a422b07bf16cb2dea61a019c92afbaff/31129a78d3ca1b47-15/s2048x3072/15c177a7bc3d509e43a3819c9aac942393b6a501.png",
             "artist":"CoJu","month":"09","day":"16","year":"2023",
             "title":"Clementine's Reference",
@@ -6190,6 +6260,7 @@
         ]
 
 }
+
 
 
 

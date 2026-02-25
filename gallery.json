@@ -1,5 +1,33 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/sG7fsZMH","thumbnail":"https://i.postimg.cc/GtS4PFdR/autumnfits.gif",
+            "artist":"CoJu","month":"02","day":"24","year":"2026",
+            "title":"Otter's Fits",
+            "caption":"Autumn wearing various outfits. <a href='https://postimg.cc/dkzQb9V9'>Static version</a>",
+            "description":"",
+            "tags":["autumn","sribbles"]},
+
+           {"link":"https://postimg.cc/xcLqSBHv","thumbnail":"https://i.postimg.cc/3JcG2Txc/littenwithraby.png",
+            "artist":"CoMo","month":"02","day":"24","year":"2026",
+            "title":"Before The Last Battle",
+            "caption":"Raby walking with her litten to the tournament.",
+            "description":"",
+            "tags":["litten","pokemon","fanart","raby","sribbles"]},
+
+           {"link":"https://postimg.cc/ZC60hX3p","thumbnail":"https://i.postimg.cc/VLVtX8kG/litten_TINY.png",
+            "artist":"CoMo","month":"02","day":"24","year":"2026",
+            "title":"Tiny Litten",
+            "caption":"Baby litten loves you!",
+            "description":"",
+            "tags":["litten","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/p9bwM1fF","thumbnail":"https://i.postimg.cc/W4hTrBtX/autumn-silly-moth-123-2026.png",
+            "artist":"silly-moth-123","month":"02","day":"23","year":"2026",
+            "title":"Autumn!",
+            "caption":"",
+            "description":"",
+            "tags":["autumn","sribbles","gift_from"]},
+                
            {"link":"https://postimg.cc/9RGhD7V0","thumbnail":"https://i.postimg.cc/MTLKr7F7/reba-haunt.png",
             "artist":"CoJu","month":"02","day":"23","year":"2026",
             "title":"Rebahaunt",
@@ -6288,6 +6316,7 @@
         ]
 
 }
+
 
 
 

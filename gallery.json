@@ -1,5 +1,26 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/rKTdpdLH","thumbnail":"https://i.postimg.cc/kX6Wf8Y7/reba-axel-50-million-kilohertz-suicide.png",
+            "artist":"CoJu","month":"03","day":"01","year":"2026",
+            "title":"Fifty Million Kilohertz Suicide",
+            "caption":"Reba and Axel about to kill eachother.",
+            "description":"",
+            "tags":["reba","axel","cojuverse"]},
+
+           {"link":"https://postimg.cc/hf4drJ3d","thumbnail":"https://i.postimg.cc/c4wBdwRX/nishawinter.png",
+            "artist":"CoMo","month":"03","day":"01","year":"2026",
+            "title":"Nisha Winter",
+            "caption":"Nisha enjoying their last few weeks of winter.",
+            "description":"",
+            "tags":["nisha","sribbles"]},
+
+           {"link":"https://postimg.cc/fJW9K3gS","thumbnail":"https://i.postimg.cc/YqYztY6R/minccino_THE_MINCH.png",
+            "artist":"CoMo","month":"03","day":"01","year":"2026",
+            "title":"The Minch",
+            "caption":"Minccino being normal.",
+            "description":"",
+            "tags":["minccino","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/N9M6pp4V","thumbnail":"https://i.postimg.cc/W3m5pyJ2/litten-being-funny.png",
             "artist":"CoJu","month":"02","day":"28","year":"2026",
             "title":"Funny Litten",
@@ -6358,6 +6379,7 @@
         ]
 
 }
+
 
 
 

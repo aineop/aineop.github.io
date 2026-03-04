@@ -1,5 +1,19 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/BPP5sVF2","thumbnail":"https://i.postimg.cc/sxwTPFDH/litten5.png",
+            "artist":"CoMo","month":"03","day":"03","year":"2026",
+            "title":"The Litten",
+            "caption":"Something terrible is happening up there.",
+            "description":"",
+            "tags":["litten","pokemon","fanart"]},
+                
+           {"link":"https://postimg.cc/QV68KH3G","thumbnail":"https://i.postimg.cc/3Jhd6vfR/scorbunny.png",
+            "artist":"CoMo","month":"03","day":"02","year":"2026",
+            "title":"The Scorb",
+            "caption":"'WTF are you doing?'",
+            "description":"",
+            "tags":["scorbunny","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/rKTdpdLH","thumbnail":"https://i.postimg.cc/kX6Wf8Y7/reba-axel-50-million-kilohertz-suicide.png",
             "artist":"CoJu","month":"03","day":"01","year":"2026",
             "title":"Fifty Million Kilohertz Suicide",
@@ -17,7 +31,7 @@
            {"link":"https://postimg.cc/fJW9K3gS","thumbnail":"https://i.postimg.cc/YqYztY6R/minccino_THE_MINCH.png",
             "artist":"CoMo","month":"03","day":"01","year":"2026",
             "title":"The Minch",
-            "caption":"Minccino being normal.",
+            "caption":"Minccino being emo.",
             "description":"",
             "tags":["minccino","pokemon","fanart"]},
                 
@@ -6379,6 +6393,7 @@
         ]
 
 }
+
 
 
 

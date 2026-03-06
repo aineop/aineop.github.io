@@ -4898,7 +4898,14 @@
             "title":"The Cooler Martha",
             "caption":"Redraw of a doodle from 2019.",
             "description":"",
-            "tags":["martha*","riolu","sribbles"]},
+            "tags":["martha*","riolu","pokemon","fanart","sribbles"]},
+
+            {"link":"https://postimg.cc/rKtmnFzH","thumbnail":"https://i.postimg.cc/TYtDPKxT/jungle.png",
+            "artist":"CoJu","month":"12","day":"24","year":"2020",
+            "title":"In The Jungle",
+            "caption":"Avery is a brave explorer.",
+            "description":"",
+            "tags":["avery","cojuverse"]},
             
             {"link":"https://files.catbox.moe/iw8w41.png","thumbnail":"https://files.catbox.moe/iw8w41.png",
             "artist":"CoJu","month":"12","day":"23","year":"2020",
@@ -6393,6 +6400,7 @@
         ]
 
 }
+
 
 
 

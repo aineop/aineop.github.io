@@ -1,5 +1,19 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/zyb9m478","thumbnail":"https://i.postimg.cc/52n1zVFY/cedarweady.png",
+            "artist":"CoMo","month":"03","day":"08","year":"2026",
+            "title":"Pickaxe",
+            "caption":"i'm weady!",
+            "description":"",
+            "tags":["cedar","cojuverse"]},
+                
+           {"link":"https://postimg.cc/YvGJcTRp","thumbnail":"https://i.postimg.cc/vZ3Mns66/shinx.png",
+            "artist":"CoMo","month":"03","day":"08","year":"2026",
+            "title":"The Shinx",
+            "caption":"A proud shinx.",
+            "description":"",
+            "tags":["shinx","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/RNfwSCYp","thumbnail":"https://i.postimg.cc/qMDwGzxr/fennekin.png",
             "artist":"CoMo","month":"03","day":"07","year":"2026",
             "title":"The Fennekin",
@@ -5642,6 +5656,13 @@
             "description":"",
             "tags":["ion","riley*","sydney*","cojuverse"]},
 
+            {"link":"https://postimg.cc/QBgYhDWf","thumbnail":"https://i.postimg.cc/k5z0NXMP/greninjarp.png",
+            "artist":"CoJu","month":"12","day":"26","year":"2020",
+            "title":"Greninja",
+            "caption":"Graninja's a morning person.",
+            "description":"",
+            "tags":["greninja","pokemon","fanart"]},
+
             {"link":"https://postimg.cc/PNvThVhq","thumbnail":"https://i.postimg.cc/bY3Jx4B1/burnard.png",
             "artist":"CoJu","month":"12","day":"25","year":"2020",
             "title":"In The Sunrise",
@@ -7163,6 +7184,7 @@
         ]
 
 }
+
 
 
 

@@ -1,5 +1,26 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/LJYkYbMk","thumbnail":"https://i.postimg.cc/mgVmnvXn/popplio.png",
+            "artist":"CoMo_&_CoJu","month":"03","day":"09","year":"2026",
+            "title":"The Popplio",
+            "caption":"A happy popplio!",
+            "description":"",
+            "tags":["popplio","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/GHpxrp7M","thumbnail":"https://i.postimg.cc/gkVSVXvP/oshawott.png",
+            "artist":"CoMo","month":"03","day":"09","year":"2026",
+            "title":"The Oshawott",
+            "caption":"A confident oshawott.",
+            "description":"",
+            "tags":["oshawott","pokemon","fanart"]},
+
+           {"link":"https://postimg.cc/zVfF5ft2","thumbnail":"https://i.postimg.cc/qMsbsh8r/rockruff.png",
+            "artist":"CoMo","month":"03","day":"09","year":"2026",
+            "title":"The Rockruff",
+            "caption":"A pissed off rockruff.",
+            "description":"",
+            "tags":["rockruff","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/zyb9m478","thumbnail":"https://i.postimg.cc/52n1zVFY/cedarweady.png",
             "artist":"CoMo","month":"03","day":"08","year":"2026",
             "title":"Pickaxe",
@@ -7184,6 +7205,7 @@
         ]
 
 }
+
 
 
 

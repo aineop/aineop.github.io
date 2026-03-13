@@ -1,5 +1,19 @@
 {"digital_art":
         [
+           {"link":"https://postimg.cc/141TKFbT","thumbnail":"https://i.postimg.cc/HWrgd4zp/jam_passenger_attempt_2.png",
+            "artist":"CoJu","month":"03","day":"12","year":"2026",
+            "title":"Jam Passenger Attempt 2",
+            "caption":"Jam with a crebbit carb.",
+            "description":"",
+            "tags":["jam","cojuverse"]},
+
+           {"link":"https://postimg.cc/wyqqtr5b","thumbnail":"https://i.postimg.cc/63RyPJ8w/jolteon17pro.png",
+            "artist":"CoMo","month":"03","day":"12","year":"2026",
+            "title":"The Electric Dog",
+            "caption":"A jolteon doesn't know how to charge his new phone.",
+            "description":"",
+            "tags":["jolteon","eeveelution","pokemon","fanart"]},
+                
            {"link":"https://postimg.cc/5j9zMfym","thumbnail":"https://i.postimg.cc/QN1J1trv/snivy.png",
             "artist":"CoMo","month":"03","day":"11","year":"2026",
             "title":"The Smugleaf",
@@ -2295,6 +2309,13 @@
             "caption":"Rain wonders how it all led up to this.",
             "description":"",
             "tags":["rain","gore","cojuverse"]},
+
+           {"link":"https://postimg.cc/jwMsyhv4","thumbnail":"https://i.postimg.cc/cCSry9n2/jolteon.png",
+            "artist":"CoMo","month":"03","day":"12","year":"2025",
+            "title":"Jolteon",
+            "caption":"Grrr, dude!",
+            "description":"",
+            "tags":["jolteon","eeveelution","pokemon","fanart"]},
             
             {"link":"https://files.catbox.moe/acxb0i.png","thumbnail":"https://files.catbox.moe/acxb0i.png",
             "artist":"CoMo","month":"03","day":"10","year":"2025",
@@ -7212,6 +7233,7 @@
         ]
 
 }
+
 
 
 

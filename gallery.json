@@ -1,5 +1,12 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/kV4wdWTT","thumbnail":"https://i.postimg.cc/hG8YTrTR/sugardonut.png",
+            "artist":"CoMo","month":"03","day":"25","year":"2026",
+            "title":"Sugary Donut",
+            "caption":"Sugar stole your donut!",
+            "description":"",
+            "tags":["sugar","sribbles"]},
+                
           {"link":"https://postimg.cc/wy1hXnmT","thumbnail":"https://i.postimg.cc/tT52jjRP/ryderspring.png",
             "artist":"CoMo","month":"03","day":"23","year":"2026",
             "title":"Spryder",
@@ -6027,6 +6034,13 @@
             "description":"",
             "tags":["victini","pokemon","fanart"]},
 
+            {"link":"https://postimg.cc/N9jrzcHV","thumbnail":"https://i.postimg.cc/9MGtzXFW/JPEG_20181101_211051.jpg",
+            "artist":"CoMo","month":"11","day":"01","year":"2018",
+            "title":"!?",
+            "caption":"A dumb jirachi.",
+            "description":"",
+            "tags":["jirachi","pokemon","fanart"]},
+
             {"link":"https://postimg.cc/PpjXmmJB","thumbnail":"https://i.postimg.cc/rmdD2jkF/owojirachi1.png",
             "artist":"CoMo","month":"11","day":"01","year":"2018",
             "title":"OWO Jirachi!?",
@@ -6402,6 +6416,13 @@
         ],
 "references":
         [  
+          {"link":"https://postimg.cc/tnNV0Z7p","thumbnail":"https://i.postimg.cc/cCV7nfSg/nabi1.png",
+            "artist":"CoMo","month":"03","day":"24","year":"2026",
+            "title":"Nabi's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["nabi","sribbles"]},
+                
            {"link":"https://64.media.tumblr.com/943e36a5b001f5621edab7c6160116ee/c4000bb31e0d835c-02/s2048x3072/b16e88c776163b2de526c63122dc3768d4cfef9a.png","thumbnail":"https://64.media.tumblr.com/943e36a5b001f5621edab7c6160116ee/c4000bb31e0d835c-02/s2048x3072/b16e88c776163b2de526c63122dc3768d4cfef9a.png",
             "artist":"CoJu","month":"03","day":"24","year":"2026",
             "title":"Cypress's Reference",

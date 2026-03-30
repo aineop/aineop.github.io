@@ -1,5 +1,19 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/nC6LqqgN","thumbnail":"https://i.postimg.cc/Dwzbkggf/ramdemorgan.png",
+            "artist":"CoMo","month":"03","day":"29","year":"2026",
+            "title":"Ram Logic",
+            "caption":"WTF are they saying?",
+            "description":"",
+            "tags":["ram","sribbles"]},
+                
+          {"link":"https://postimg.cc/jLGjyymG","thumbnail":"https://i.postimg.cc/sg2ZdccD/cometbihday.png",
+            "artist":"CoMo","month":"03","day":"29","year":"2026",
+            "title":"Cocked",
+            "caption":"Comet is shocked that you asked him if he was autistic... on his birthday!",
+            "description":"",
+            "tags":["comet","sribbles"]},
+                
            {"link":"https://postimg.cc/F17FDB9c","thumbnail":"https://i.postimg.cc/fWv3WGpH/bubbles.png",
             "artist":"CoMo","month":"03","day":"28","year":"2026",
             "title":"Bubbles",
@@ -6436,7 +6450,14 @@
          
         ],
 "references":
-        [  
+        [
+          {"link":"https://postimg.cc/v1yHNbQZ","thumbnail":"https://i.postimg.cc/QM99Vdw1/cometref2.png",
+            "artist":"CoMo","month":"03","day":"29","year":"2026",
+            "title":"Comet's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["comet","sribbles"]},
+                
           {"link":"https://postimg.cc/tnNV0Z7p","thumbnail":"https://i.postimg.cc/cCV7nfSg/nabi1.png",
             "artist":"CoMo","month":"03","day":"24","year":"2026",
             "title":"Nabi's Reference",

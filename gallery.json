@@ -1,5 +1,19 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/H8DZ6F46","thumbnail":"https://i.postimg.cc/90z6Qh4H/sage_is_the_name.png",
+            "artist":"CoMo","month":"04","day":"05","year":"2026",
+            "title":"Sage Is The Name",
+            "caption":"This was actually drawn on April 4. I'm so so sorry.",
+            "description":"",
+            "tags":["sage","sribbles"]},
+                
+          {"link":"https://postimg.cc/xNDx6Byx","thumbnail":"https://i.postimg.cc/8cs2zSFS/sylveonspring.png",
+            "artist":"CoMo","month":"04","day":"04","year":"2026",
+            "title":"Spring Sylveon",
+            "caption":"Sylveon in the springtime!",
+            "description":"",
+            "tags":["sylveon","eeveelution","pokemon","fanart"]},
+                
           {"link":"https://postimg.cc/V0CWrrYQ","thumbnail":"https://i.postimg.cc/br6C5kWJ/maureenwhite.png",
             "artist":"CoMo","month":"04","day":"02","year":"2026",
             "title":"White",
@@ -19,7 +33,7 @@
             "title":"Sandwich",
             "caption":"Sandwich.",
             "description":"",
-            "tags":["110","sribbles"]},
+            "tags":["110","njt_lr","sribbles"]},
                 
           {"link":"https://postimg.cc/Zv97H0TK","thumbnail":"https://i.postimg.cc/2yGszBMv/autumn_nolan_tdov.png",
             "artist":"CoJu","month":"03","day":"31","year":"2026",
@@ -2596,13 +2610,6 @@
             "caption":"Esther if she was a Century Child.",
             "description":"",
             "tags":["esther","sribbles"]},
-
-           {"link":"https://files.catbox.moe/lmkptc.png","thumbnail":"https://files.catbox.moe/lmkptc.png",
-            "artist":"CoMo","month":"02","day":"15","year":"2025",
-            "title":"Uh",
-            "caption":"He's very nervous...",
-            "description":"",
-            "tags":["umbreon","eeveelution","pokemon","fanart"]},
             
             {"link":"https://files.catbox.moe/2283m1.png","thumbnail":"https://files.catbox.moe/2283m1.png",
             "artist":"CoMo","month":"02","day":"15","year":"2025",
@@ -2610,13 +2617,6 @@
             "caption":"Soi is celebrating being an incel with the end of Valentine's day.",
             "description":"",
             "tags":["soi","sribbles"]},
-
-           {"link":"https://files.catbox.moe/ug5zaj.png","thumbnail":"https://files.catbox.moe/ug5zaj.png",
-            "artist":"CoMo","month":"02","day":"12","year":"2025",
-            "title":"Blep",
-            "caption":"An umbreon showing you his paws!",
-            "description":"",
-            "tags":["umbreon","eeveelution","pokemon","fanart"]},
             
             {"link":"https://postimg.cc/2VcKmMkz","thumbnail":"https://i.postimg.cc/3xY5jQzD/esthercycle.png",
             "artist":"CoJu","month":"02","day":"12","year":"2025",
@@ -2629,20 +2629,6 @@
             "artist":"CoMo","month":"02","day":"11","year":"2025",
             "title":"Lights Out",
             "caption":"Woahhh!",
-            "description":"",
-            "tags":["umbreon","eeveelution","pokemon","fanart"]},
-
-           {"link":"https://files.catbox.moe/c9bca5.png","thumbnail":"https://files.catbox.moe/c9bca5.png",
-            "artist":"CoMo","month":"02","day":"10","year":"2025",
-            "title":"Acrobat",
-            "caption":"An umbreon doing acrobatics.",
-            "description":"",
-            "tags":["umbreon","eeveelution","pokemon","fanart"]},
-
-           {"link":"https://files.catbox.moe/lo9hyv.png","thumbnail":"https://files.catbox.moe/lo9hyv.png",
-            "artist":"CoMo","month":"02","day":"09","year":"2025",
-            "title":"Smug",
-            "caption":"An umbreon being smug.",
             "description":"",
             "tags":["umbreon","eeveelution","pokemon","fanart"]},
 
@@ -6507,6 +6493,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/JHNTvKpV","thumbnail":"https://i.postimg.cc/1XTLgj6t/cedarref.png",
+            "artist":"CoJu","month":"04","day":"04","year":"2026",
+            "title":"Cedar STWAB's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["cedar","cojuverse"]},
+                
           {"link":"https://postimg.cc/v1yHNbQZ","thumbnail":"https://i.postimg.cc/QM99Vdw1/cometref2.png",
             "artist":"CoMo","month":"03","day":"29","year":"2026",
             "title":"Comet's Reference",

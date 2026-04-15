@@ -1,5 +1,26 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/PNjnHJvr","thumbnail":"https://i.postimg.cc/fW3zx0wX/cocopeppermints.png",
+            "artist":"CoMo","month":"04","day":"14","year":"2026",
+            "title":"Coco's Peppermints",
+            "caption":"Coco offers you some mints.",
+            "description":"",
+            "tags":["coco","sribbles"]},
+
+          {"link":"https://postimg.cc/fSZKr6bC","thumbnail":"https://i.postimg.cc/NF2z5tq3/tem-mink.png",
+            "artist":"CoJu","month":"04","day":"14","year":"2026",
+            "title":"Tem Mink",
+            "caption":"Tem is shining under the moonlight!",
+            "description":"",
+            "tags":["tem","sribbles"]},
+
+          {"link":"https://postimg.cc/xNCmhJnv","thumbnail":"https://i.postimg.cc/mk3ScCn5/shayminn2.png",
+            "artist":"CoMo","month":"04","day":"13","year":"2026",
+            "title":"Shaymin Day",
+            "caption":"Tiny round thing.",
+            "description":"",
+            "tags":["shaymin","pokemon","fanart"]},
+                
           {"link":"https://postimg.cc/14LFj5YM","thumbnail":"https://i.postimg.cc/zXfk3ywm/lexstringcheeseiykwim.png",
             "artist":"CoMo","month":"04","day":"12","year":"2026",
             "title":"Lex",
@@ -22,7 +43,7 @@
             "tags":["oakwood","sribbles"]},
 
           {"link":"https://postimg.cc/9zn5HbNm","thumbnail":"https://i.postimg.cc/QxXX5nQT/shinxy.png",
-            "artist":"CoMo","month":"04","day":"12","year":"2026",
+            "artist":"CoMo","month":"04","day":"10","year":"2026",
             "title":"Shinxy",
             "caption":"He's ready for anything!",
             "description":"",

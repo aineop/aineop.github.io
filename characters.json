@@ -32,7 +32,7 @@
                 "alias":"Oakwood","name":"Oakwood Silva","month":"04","day":"12","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Vulpix","occupation":"Furniture Store Worker","residence":"114 Poryglass St, Norbax, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/pcznmp.png","fullbody":"https://files.catbox.moe/5zs5m5.png","link":"/universe/characters/oakwood.html",
-            "description":"Oakwood is a vulpix. He likes burgers... and playing acoustic guitar. He is annoying. He works at his family's furniture store.",
+            "description":"Oakwood is a vulpix. He likes burgers and playing acoustic guitar. He works at his family's furniture store.",
             "created":"2023/04/11",
             "groups":["ndhs","silva"]
             },
@@ -41,7 +41,7 @@
                 "alias":"Martha","name":"Martha Gunby","month":"05","day":"30","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Asexual","species":"Meowstic","occupation":"Employee for DePonte Parks Department","residence":"1106 Phoenix Av, Phoenix, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/slvo71.png","fullbody":"https://files.catbox.moe/akdtli.png","link":"/universe/characters/martha.html",
-            "description":"Martha is a feline. She was very angry growing up, but now she is a bit silly and crazy. Her favorite foods are pineapple and ice cream. She works at Astorabat Park, picking up trash and managing the wildlife.",
+            "description":"Martha is a meowstic. She was very angry growing up, but now she is a bit silly and crazy. Her favorite foods are pineapple and ice cream. She works at Astorabat Park, picking up trash and managing the wildlife.",
             "created":"2019/05/30",
             "groups":["ndhs","gunby"]
             },
@@ -50,7 +50,7 @@
                 "alias":"Liam","name":"Liam Kennivari","month":"05","day":"30","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Rabbit-dog","occupation":"Employee for Rocky's Records & Guitars","residence":"1106 Phoenix Av, Phoenix, Friendship City, CT","height":"5'0","weight":"100 lbs"
                 },
             "icon":"https://files.catbox.moe/z7z7ts.png","fullbody":"https://files.catbox.moe/7ijmrt.png","link":"/universe/characters/liam.html",
-            "description":"Liam is a funny rabbit dog. He does rap battles with Martha. He works at Rocky's Records and Guitars.",
+            "description":"Liam is a rabbit-dog. He works at Rocky's Records and Guitars.",
             "created":"2019/05/30",
             "groups":["ndhs","kennivari"]
             },
@@ -173,15 +173,6 @@
             },
             
             {"info":{
-                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/Her","gender":"Nonbinary","species":"Oshawott","occupation":"Gamer","residence":"Ebonwood, VG"
-                },
-            "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
-            "description":"Soiette is a silly Oshawott who likes to say \"Dang, bitch!\". He lives in Ebonwood, Evergreen. He plays Terraria.",
-            "created":"2024/12/10",
-            "groups":[]
-            },
-            
-            {"info":{
                 "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/Her","gender":"Fluid","species":"Cat","occupation":"Walm Employee and Bassist for O.C.","residence":"Cannaboun, VG","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/7df3hn.png","fullbody":"https://files.catbox.moe/yyglr1.png","link":"/universe/characters/pocky.html",
@@ -202,8 +193,8 @@
             {"info":{
                 "alias":"York","name":"Marina York","month":"01","day":"01","year":"2004","pronouns":"She/Her","gender":"Female","species":"Glaceon","occupation":"Shrimp Farmer and Electronics Repairer","residence":"1105 Glenbourne Av, Tristantown, CT"
                 },
-            "icon":"https://files.catbox.moe/vziv27.png","fullbody":"https://files.catbox.moe/p7aajh.png","link":"/universe/characters/york.html",
-            "description":"York is a glaceon. She becomes irritated when not in contact with water for long periods of time. She is an investor(?).",
+            "icon":"https://files.catbox.moe/2emnrz.png","fullbody":"https://files.catbox.moe/p7aajh.png","link":"/universe/characters/york.html",
+            "description":"York is a glaceon. She likes to hang out in pools.",
             "created":"2019/06",
             "groups":[]
             },
@@ -223,15 +214,6 @@
             "icon":"https://files.catbox.moe/q6xjq5.png","fullbody":"https://files.catbox.moe/kmray8.png","link":"/universe/characters/miki.html",
             "description":"Miki is a cat. All these damn cats. They are also not one of CoMo's characters. It is serious and likes anchovies and dislikes their anchovies being stolen by Sage and Wayne.",
             "created":"2025/04/12",
-            "groups":["highland_park"]
-            },
-            
-            {"info":{
-                "alias":"Wayne","name":"Wayne Dylan Fischer","month":"06","day":"04","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
-                },
-            "icon":"https://files.catbox.moe/sqzho7.png","fullbody":"https://files.catbox.moe/5f028h.png","link":"/universe/characters/wayne.html",
-            "description":"Wayne is a cat. He lives in Highland Park. He likes to fish with Miki.",
-            "created":"2025/04/05",
             "groups":["highland_park"]
             },
             
@@ -336,6 +318,24 @@
             "description":"Lily is a female meowstic who likes mathematics. She had romantic tension with Ball and Carc. She also may have been a love interest for Lit. She is a model.",
             "created":"2018/12",
             "groups":["ndhs"]
+            },
+
+            {"info":{
+                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/Her","gender":"Nonbinary","species":"Oshawott","occupation":"Gamer","residence":"Ebonwood, VG"
+                },
+            "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
+            "description":"Soiette is a silly Oshawott who likes to say \"Dang, bitch!\". He lives in Ebonwood, Evergreen. He plays Terraria.",
+            "created":"2024/12/10",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"Wayne","name":"Wayne Dylan Fischer","month":"06","day":"04","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
+                },
+            "icon":"https://files.catbox.moe/sqzho7.png","fullbody":"https://files.catbox.moe/5f028h.png","link":"/universe/characters/wayne.html",
+            "description":"Wayne is a cat. He lives in Highland Park. He likes to fish with Miki.",
+            "created":"2025/04/05",
+            "groups":["highland_park"]
             },
             
             {"info":{

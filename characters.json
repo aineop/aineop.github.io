@@ -258,6 +258,15 @@
     "secondary":
         [
             {"info":{
+                "alias":"Joey","name":"Joey Pepperoni","month":"05","day":"22","year":"2002","pronouns":"They/Them","gender":"Nonbinary","species":"Deer","occupation":"Stunt Actor","residence":"Arthur City, NY","height":"4'9"
+                },
+            "icon":"https://files.catbox.moe/e96psm.png","fullbody":"https://files.catbox.moe/sdp5x9.png","link":"/universe/characters/joey.html",
+            "description":"Joey is a deer. They live in Arthur City. They like curly fries.",
+            "created":"2026/05/22",
+            "groups":[]
+            },
+            
+            {"info":{
                 "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Victini","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
                 },
             "icon":"/images/flingyicon.png","fullbody":"https://sribbles.neocities.org/images/flingy.png","link":"",
@@ -908,7 +917,7 @@
             {"info":{
                 "alias":"Mose","name":"Tigna Waterson Mose","month":"11","day":"11","year":"","pronouns":"He/Him","gender":"Male","species":"Alien","occupation":"Professor at Friendship University and Director of Mose's Lab","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/1tphge.png","fullbody":"https://files.catbox.moe/caqdss.png","link":"/universe/characters/mose.html",
+            "icon":"https://files.catbox.moe/b127a0.png","fullbody":"https://files.catbox.moe/r6im2l.png","link":"/universe/characters/mose.html",
             "description":"When he was a baby, he was a nasty naked cat. He made minions and his lab assistant was Comet. He may or may not have done experiments on Comet.",
             "created":"2022/10",
             "groups":["mose_lab","fu"]
@@ -944,7 +953,7 @@
             {"info":{
                 "alias":"Colette","name":"Colette Deveraux","month":"10","day":"22","year":"1983","pronouns":"She/They/It","gender":"Nonbinary","species":"CD Creature","occupation":"Robot Mechanic","residence":"Friendship City, CT","height":"5'0"
                 },
-            "icon":"https://files.catbox.moe/qantza.png","fullbody":"https://files.catbox.moe/4xfiy8.png","link":"/universe/characters/colette.html",
+            "icon":"https://files.catbox.moe/4ke1hz.png","fullbody":"https://files.catbox.moe/254omk.png","link":"/universe/characters/colette.html",
             "description":"Colette is a shiny creature. She works on Mose's army of cats and minions.",
             "created":"2025/09",
             "groups":["mose_lab"]
@@ -1457,7 +1466,7 @@
             {"info":{
                 "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Jersey Arrow Creature"
                 },
-            "icon":"https://files.catbox.moe/qjwr75.png","fullbody":"https://files.catbox.moe/bfyskt.png","link":"/universe/characters/trenton.html",
+            "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
             "description":"Trenton is a Jersey Arrow Cat. Or wolf. I don't know. ",
             "created":"2025/10/09",
             "groups":["mose_lab"]
@@ -1776,7 +1785,7 @@
             {"info":{
                 "alias":"Rain","name":"Rain February-Pulster","month":"12","day":"24","year":"1994","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Lesbian","species":"Espeon","occupation":"Journalist","residence":"Jadebark, VG","height":"5'7","weight":"120 lbs"
                 },
-            "icon":"https://i.postimg.cc/4xwzjfqL/rain-spring.png","fullbody":"https://i.postimg.cc/4xwzjfqL/rain-spring.png","link":"https://aineop.neocities.org/characters/#RAIN",
+            "icon":"https://files.catbox.moe/d32u94.png","fullbody":"https://i.postimg.cc/4xwzjfqL/rain-spring.png","link":"https://aineop.neocities.org/characters/#RAIN",
             "description":"Rain is a tired Espeon journalist who lives with Paige. It teams up with Blair to reunite xem with xer siblings and put Lincoln in prison.",
             "created":"2022/03/22",
             "groups":["cherry_batter"]
@@ -1785,7 +1794,7 @@
             {"info":{
                 "alias":"Blair","name":"Berry Mason Winter","month":"11","day":"24","year":"1993","pronouns":"Xe/Xem","gender":"Nonbinary","orientation":"Trixic","species":"Espeon-Flareon","occupation":"Private Investigator","residence":"Evergreen, USA","height":"5'8","weight":"159 lbs"
                 },
-            "icon":"https://files.catbox.moe/wh8i0w.png","fullbody":"https://files.catbox.moe/wh8i0w.png","link":"https://aineop.neocities.org/characters/#BLAIR",
+            "icon":"https://files.catbox.moe/pg28aj.png","fullbody":"https://files.catbox.moe/wh8i0w.png","link":"https://aineop.neocities.org/characters/#BLAIR",
             "description":"Blair is a shiny Espeon who is very extroverted and optimistic and generally energetic. Xe is a private investigator who suspects xer siblings are doing something they shouldn't be.",
             "created":"2021/06/07",
             "groups":["cherry_batter"]
@@ -1794,7 +1803,7 @@
             {"info":{
                 "alias":"Reba","name":"Reba Allison Winter","month":"06","day":"04","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Espeon-Flareon","occupation":"Criminal","residence":"Evergreen, USA","height":"5'6","weight":"99 lbs"
                 },
-            "icon":"https://i.postimg.cc/0QP2SzxW/reba-when-she-is-drawn-with-glasses-shaved.png","fullbody":"https://i.postimg.cc/0QP2SzxW/reba-when-she-is-drawn-with-glasses-shaved.png","link":"https://aineop.neocities.org/characters/#REBA",
+            "icon":"https://files.catbox.moe/ck0mvb.png","fullbody":"https://i.postimg.cc/0QP2SzxW/reba-when-she-is-drawn-with-glasses-shaved.png","link":"https://aineop.neocities.org/characters/#REBA",
             "description":"Reba is a hybrid between a Flareon and an Espeon. She is assertive. Reba stopped being shy on August 15, 2020.",
             "created":"2020/06/04",
             "groups":["cherry_batter"]
@@ -1803,7 +1812,7 @@
             {"info":{
                 "alias":"Axel","name":"Axel Martin Winter","month":"04","day":"21","year":"2001","pronouns":"He/They","gender":"Male","orientation":"Pansexual","species":"Umbreon-Flareon","occupation":"Criminal","residence":"Evergreen, USA","height":"5'9","weight":"118 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/portrait%20axel.png","fullbody":"https://aineop.neocities.org/images/portrait%20axel.png","link":"https://aineop.neocities.org/characters/#AXEL",
+            "icon":"https://files.catbox.moe/4h6g88.png","fullbody":"https://aineop.neocities.org/images/portrait%20axel.png","link":"https://aineop.neocities.org/characters/#AXEL",
             "description":"Axel is a hybrid between a Flareon and an Umbreon! He hates doing anything. Unless it's for Reba. They also own a casino.",
             "created":"2021/04/20",
             "groups":["cherry_batter"]
@@ -1812,7 +1821,7 @@
             {"info":{
                 "alias":"Crab","name":"Crab Jayden","month":"10","day":"23","year":"1999","pronouns":"He/It","gender":"Male","orientation":"Bisexual","species":"Eevee","occupation":"Hitman","residence":"Evergreen, USA","height":"5'4","weight":"122 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/crabthumb.png","fullbody":"https://aineop.neocities.org/images/crab.png","link":"https://aineop.neocities.org/characters/#CRAB",
+            "icon":"https://files.catbox.moe/7yi5vq.png","fullbody":"https://aineop.neocities.org/images/crab.png","link":"https://aineop.neocities.org/characters/#CRAB",
             "description":"Crab is an Eevee who is friends with Nolan. Not actually cut out for the hitman thing.",
             "created":"2021/10/23",
             "groups":["cherry_batter"]
@@ -1821,7 +1830,7 @@
             {"info":{
                 "alias":"MJ","name":"Mika Juniper Phoenix","month":"02","day":"11","year":"1987","pronouns":"She/Her","gender":"Female","orientation":"Aromantic Asexual","species":"Cat-fox","occupation":"Illicit Weapons Dealer","residence":"Evergreen, USA","height":"5'11","weight":"117 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/mj.png","fullbody":"https://aineop.neocities.org/images/mj.png","link":"https://aineop.neocities.org/characters/#MJ",
+            "icon":"https://files.catbox.moe/lve0ik.png","fullbody":"https://aineop.neocities.org/images/mj.png","link":"https://aineop.neocities.org/characters/#MJ",
             "description":"MJ is a sad and homeless gun dealer who lives in Snowstorm.",
             "created":"2024/03/10",
             "groups":["cherry_batter"]
@@ -1830,7 +1839,7 @@
             {"info":{
                 "alias":"Marianne","name":"Marianne Medvedeva","month":"11","day":"01","year":"1992","pronouns":"She/Her","gender":"Female","orientation":"Panromantic Asexual","species":"Sylveon","occupation":"Hitwoman","residence":"Evergreen, USA","height":"5'10","weight":"171 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/mariannethumb.png","fullbody":"https://aineop.neocities.org/images/mariannethumb.png","link":"https://aineop.neocities.org/characters/#MARIANNE",
+            "icon":"https://files.catbox.moe/b7q9sk.png","fullbody":"https://aineop.neocities.org/images/mariannethumb.png","link":"https://aineop.neocities.org/characters/#MARIANNE",
             "description":"Marianne is a sylveon. She's a tough, energetic leader. Marianne was a professional wrestler before getting involved in the criminal life. In fact, the destruction of her reputation was what made her turn to crime in the first place. Related to Sydney, but she doesn't know it.",
             "created":"2021/11/28",
             "groups":["cherry_batter"]
@@ -1839,7 +1848,7 @@
             {"info":{
                 "alias":"Jam","name":"Jamaica Overbrook","month":"12","day":"24","year":"2003","pronouns":"It/Its","gender":"Nonbinary","orientation":"Bisexual","species":"Espeon-Flareon","occupation":"Pizza Delivery Person","residence":"Evergreen, USA","height":"5'1","weight":"95 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/jamthumb.png","fullbody":"https://aineop.neocities.org/images/jamthumb.png","link":"https://aineop.neocities.org/characters/#JAM",
+            "icon":"https://files.catbox.moe/a43zi3.png","fullbody":"https://aineop.neocities.org/images/jamthumb.png","link":"https://aineop.neocities.org/characters/#JAM",
             "description":"Jam is a hybrid between an Espeon and a Flareon. Jam is very silly. It works at Aitana's, which is its adoptive older sister's pizza place.",
             "created":"2022/07/15",
             "groups":["cherry_batter", "demigod_plot"]
@@ -1848,7 +1857,7 @@
             {"info":{
                 "alias":"October","name":"October Verglas","month":"09","day":"30","year":"2001","pronouns":"She/Void","gender":"Nonbinary","orientation":"Lesbian","species":"Glaceon","occupation":"Baker","residence":"Evergreen, USA","height":"5'10","weight":"125 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/octoberthumb.png","fullbody":"https://aineop.neocities.org/images/octoberthumb.png","link":"https://aineop.neocities.org/characters/#OCTOBER",
+            "icon":"https://files.catbox.moe/hdjfqg.png","fullbody":"https://aineop.neocities.org/images/octoberthumb.png","link":"https://aineop.neocities.org/characters/#OCTOBER",
             "description":"October is a Glaceon. June's younger sister. She used to be born October 11, 2002.",
             "created":"2021/12/13",
             "groups":["cherry_batter"]
@@ -1857,7 +1866,7 @@
             {"info":{
                 "alias":"Paige","name":"Paige Amaryllis Hamilton","month":"01","day":"07","year":"1991","pronouns":"She/Any","gender":"Nonbinary","orientation":"Lesbian","species":"Furret","occupation":"Streamer, Podcaster, and Cook","residence":"Evergreen, USA","height":"5'8","weight":"146 lbs"
                 },
-            "icon":"https://i.postimg.cc/VsBWJV43/paige-headphones.png","fullbody":"https://i.postimg.cc/VsBWJV43/paige-headphones.png","link":"https://aineop.neocities.org/characters/#PAIGE",
+            "icon":"https://files.catbox.moe/suuty6.png","fullbody":"https://i.postimg.cc/VsBWJV43/paige-headphones.png","link":"https://aineop.neocities.org/characters/#PAIGE",
             "description":"OH MY GOD.... HERE SHE COMES... IT'S THE PENNSYLVANIAN! Paige is a Furret! She is sweet and a little quiet. Rain lives with him.",
             "created":"2021/01/03",
             "groups":["cherry_batter"]
@@ -1866,7 +1875,7 @@
             {"info":{
                 "alias":"Sydney","name":"Sydney Medvedev","month":"11","day":"01","year":"1992","pronouns":"He/Him","gender":"Male","orientation":"Aromantic Asexual","species":"Sylveon","occupation":"Bartender and Bank Teller","residence":"Evergreen, USA","height":"5'10","weight":"142 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/sydneythumb.png","fullbody":"https://aineop.neocities.org/images/sydneythumb.png","link":"https://aineop.neocities.org/characters/#SYDNEY",
+            "icon":"https://files.catbox.moe/n58u4h.png","fullbody":"https://aineop.neocities.org/images/sydneythumb.png","link":"https://aineop.neocities.org/characters/#SYDNEY",
             "description":"Sydney is a shiny Sylveon! He is a Russian bartender. Holds down a more stable bank telling job on the side. He is friends with Steel.",
             "created":"2020/09/17",
             "groups":["cherry_batter"]
@@ -1893,7 +1902,7 @@
             {"info":{
                 "alias":"Saccharide","name":"Saccharide Fleuve","month":"06","day":"21","year":"","pronouns":"Any","gender":"Nonbinary","orientation":"Pansexual","species":"Demigod","occupation":"Demigod Of The Solar System","residence":"Solar System","height":"6'5","weight":"190 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/saccharidethumb.png","fullbody":"https://aineop.neocities.org/images/saccharidethumb.png","link":"https://aineop.neocities.org/characters/#SACCHARIDE",
+            "icon":"https://files.catbox.moe/xi6i5f.png","fullbody":"https://aineop.neocities.org/images/saccharidethumb.png","link":"https://aineop.neocities.org/characters/#SACCHARIDE",
             "description":"Saccharide is a Primarina-Azumarill hybrid. He is a manipulative, evil demigod.",
             "created":"2022/06/21",
             "groups":["demigod_plot","demigod"]
@@ -1911,7 +1920,7 @@
             {"info":{
                 "alias":"Lexi","name":"Lexi Fairgrove","month":"03","day":"14","year":"1999","pronouns":"She/Her","gender":"Female","orientation":"Asexual Lesbian","species":"Jolteon","occupation":"Mechanic, Roller Skating Instructor, and Indie Band Vocalist/Keyboardist","residence":"Evergreen, USA","height":"5'4","weight":"135 lbs"
                 },
-            "icon":"https://i.postimg.cc/Y0DvWQN9/lexi.png","fullbody":"https://i.postimg.cc/Y0DvWQN9/lexi.png","link":"https://aineop.neocities.org/characters/#LEXI",
+            "icon":"https://files.catbox.moe/tyt295.png","fullbody":"https://i.postimg.cc/Y0DvWQN9/lexi.png","link":"https://aineop.neocities.org/characters/#LEXI",
             "description":"Lexi is a jolteon. She is an asexual lesbiano. She is very nice and cheerful!",
             "created":"2020/03/14",
             "groups":["the_highschoolers", "offensive_content"]
@@ -1920,7 +1929,7 @@
             {"info":{
                 "alias":"Burnie","name":"Burnie Clayton","month":"08","day":"08","year":"1999","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Flareon","occupation":"Sous Chef","residence":"Evergreen, USA","height":"5'6","weight":"170 lbs"
                 },
-            "icon":"https://i.postimg.cc/c1r5t0B9/burnie.png","fullbody":"https://i.postimg.cc/c1r5t0B9/burnie.png","link":"https://aineop.neocities.org/characters/#BURNIE",
+            "icon":"https://files.catbox.moe/lttsdw.png","fullbody":"https://i.postimg.cc/c1r5t0B9/burnie.png","link":"https://aineop.neocities.org/characters/#BURNIE",
             "description":"Burnie is a flareon. He is big, fat, and pan. He is a chef. He is hyper. You'd think he drinks five cans of Red Bull every morning. Needlessly verbose.",
             "created":"2020/03",
             "groups":["the_highschoolers"]
@@ -1929,7 +1938,7 @@
             {"info":{
                 "alias":"June","name":"June Verglas","month":"11","day":"05","year":"1998","pronouns":"She/Her","gender":"Female","orientation":"Demisexual Lesbian","species":"Glaceon","occupation":"Court Clerk","residence":"Evergreen, USA","height":"5'8","weight":"130 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/junethumb.png","fullbody":"https://aineop.neocities.org/images/junethumb.png","link":"https://aineop.neocities.org/characters/#JUNE",
+            "icon":"https://files.catbox.moe/qu55tg.png","fullbody":"https://aineop.neocities.org/images/junethumb.png","link":"https://aineop.neocities.org/characters/#JUNE",
             "description":"June is a glaceon. She is a demisexual lesbian. She is a perfectionist - which makes her resent herself. Works well under pressure. Pretends to be stoic. June is studying business and medicine at the same time, because she's the prized family overachiever. She has a sister named October who her parents couldn't give half a damn about.",
             "created":"2020/03",
             "groups":["the_highschoolers"]
@@ -1938,7 +1947,7 @@
             {"info":{
                 "alias":"Lincoln","name":"Lincoln Pulster","month":"03","day":"29","year":"1996","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Espeon","occupation":"Museum Director","residence":"United States","height":"5'7","weight":"140 lbs"
                 },
-            "icon":"https://i.postimg.cc/cCx3YsVD/lincoln.png","fullbody":"https://i.postimg.cc/cCx3YsVD/lincoln.png","link":"https://aineop.neocities.org/characters/#LINCOLN",
+            "icon":"https://files.catbox.moe/wvz9a2.png","fullbody":"https://i.postimg.cc/cCx3YsVD/lincoln.png","link":"https://aineop.neocities.org/characters/#LINCOLN",
             "description":"Lincoln is an espeon. He has some anger management issues. A charmer when he isn't screaming at you. He owns a museum, and may have killed his uncle for it.",
             "created":"2020/03",
             "groups":["the_highschoolers"]
@@ -1947,7 +1956,7 @@
             {"info":{
                 "alias":"Ion","name":"Anion Petri","month":"02","day":"09","year":"2003","pronouns":"Any","gender":"Fluid","orientation":"Demisexual Omnisexual","species":"Skuntank","occupation":"Drummer for Offensive Content","residence":"Evergreen, USA","height":"5'3","weight":"119 lbs"
                 },
-            "icon":"https://i.postimg.cc/JhvPQHBv/ion-stern.png","fullbody":"https://i.postimg.cc/JhvPQHBv/ion-stern.png","link":"https://aineop.neocities.org/characters/#ION",
+            "icon":"https://files.catbox.moe/enjbrg.png","fullbody":"https://i.postimg.cc/JhvPQHBv/ion-stern.png","link":"https://aineop.neocities.org/characters/#ION",
             "description":"Ion is A Skuntank! She is a drummer for OFFENSIVE CONTENT.",
             "created":"2020/06/17",
             "groups":["offensive_content"]
@@ -1956,7 +1965,7 @@
             {"info":{
                 "alias":"Ashley","name":"Ashley Audrey Cameron","month":"04","day":"18","year":"2002","pronouns":"She/Vi","gender":"Nonbinary","orientation":"Omnisexual","species":"Absol","occupation":"Guitarist for Offensive Content","residence":"Evergreen, USA","height":"5'11","weight":"195 lbs"
                 },
-            "icon":"https://i.postimg.cc/k4mzHRVg/ashleythumb.png","fullbody":"https://i.postimg.cc/k4mzHRVg/ashleythumb.png","link":"https://aineop.neocities.org/characters/#ASHLEY",
+            "icon":"https://files.catbox.moe/c4yn7g.png","fullbody":"https://i.postimg.cc/k4mzHRVg/ashleythumb.png","link":"https://aineop.neocities.org/characters/#ASHLEY",
             "description":"Ashley is an Absol! Vi is a guitarist for OFFENSIVE CONTENT",
             "created":"2020/05/21",
             "groups":["offensive_content"]
@@ -1965,7 +1974,7 @@
             {"info":{
                 "alias":"Mae","name":"Mae Annabelle Fern","month":"05","day":"09","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Fennekin","occupation":"Farmer","residence":"Connecticut, USA","height":"5'2","weight":"115 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/maethumb.png","fullbody":"https://aineop.neocities.org/images/maethumb.png","link":"https://aineop.neocities.org/characters/#MAE",
+            "icon":"https://files.catbox.moe/5pf88i.png","fullbody":"https://aineop.neocities.org/images/maethumb.png","link":"https://aineop.neocities.org/characters/#MAE",
             "description":"Mae is a 4'9 Fennekin. She is fun and bubbly and cheerful. Mae loves her garden, and plants in general. Apparently, she has a dog.",
             "created":"2021/08/10",
             "groups":[]
@@ -1974,7 +1983,7 @@
             {"info":{
                 "alias":"Amber","name":"Amber Rahway","month":"08","day":"09","year":"1974","pronouns":"She/They","gender":"Female","orientation":"Biromantic Asexual","species":"Meowstic","occupation":"Carpenter and Luthier","residence":"Friendship City, CT","height":"6'0","weight":"159 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/amberthumb.png","fullbody":"https://aineop.neocities.org/images/amberthumb.png","link":"https://aineop.neocities.org/characters/#AMBER",
+            "icon":"https://files.catbox.moe/80wc90.png","fullbody":"https://aineop.neocities.org/images/amberthumb.png","link":"https://aineop.neocities.org/characters/#AMBER",
             "description":"Amber is a Meowstic! They are dating Riley. Carves absurd things out of wood - one time, she made a whole mini-living room. One of Comet's mothers.",
             "created":"2020/07/29",
             "groups":["rahway"]
@@ -1983,7 +1992,7 @@
             {"info":{
                 "alias":"Riley","name":"Riley Corinne","month":"09","day":"26","year":"1974","pronouns":"They/Them","gender":"Female","orientation":"Lesbian","species":"Alien","occupation":"Bomb Technician and Bus Driver","residence":"Friendship City, CT","height":"7'0","weight":"292 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/rileythumb.png","fullbody":"https://aineop.neocities.org/images/rileythumb.png","link":"https://aineop.neocities.org/characters/#RILEY",
+            "icon":"https://files.catbox.moe/elz9ny.png","fullbody":"https://aineop.neocities.org/images/rileythumb.png","link":"https://aineop.neocities.org/characters/#RILEY",
             "description":"Riley is a Hattrem with Slurpuff elements? Apparently? What? Riley is deaf, and dating Amber. They're also fat, and tall. One of Comet's mothers. They are an alien.",
             "created":"2020/09/03",
             "groups":["rahway"]
@@ -1992,7 +2001,7 @@
             {"info":{
                 "alias":"Kory","name":"Kory Cornflower","month":"01","day":"31","year":"2081","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Fox","occupation":"Child","residence":"Earth","height":"4'6","weight":"59 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/korythumb.png","fullbody":"https://aineop.neocities.org/images/korythumb.png","link":"https://aineop.neocities.org/characters/#KORY",
+            "icon":"https://files.catbox.moe/u0fbfw.png","fullbody":"https://aineop.neocities.org/images/korythumb.png","link":"https://aineop.neocities.org/characters/#KORY",
             "description":"Kory is a fallen demigod fox who lives in cyberdystopia.",
             "created":"2021/03/28",
             "groups":["cyberdystopia"]
@@ -2001,7 +2010,7 @@
             {"info":{
                 "alias":"Tessa","name":"Theresa Alastair","month":"02","day":"23","year":"2082","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Child","residence":"Earth","height":"4'5","weight":"90 lbs"
                 },
-            "icon":"https://winter-s.neocities.org/images/tessa1.png","fullbody":"https://winter-s.neocities.org/images/tessa1.png","link":"https://aineop.neocities.org/characters/#TESSA",
+            "icon":"https://files.catbox.moe/e6glaa.png","fullbody":"https://files.catbox.moe/i19wra.png","link":"https://aineop.neocities.org/characters/#TESSA",
             "description":"Tessa is a cat from the future! She is is really interested in crime in the early 21st century. This is because she lives in the year 2092. I MEAN 2090. Also she's chubby. Tessa is friends with Rory, Apollo, and Carter (032023).",
             "created":"2023/02/24",
             "groups":["cyberdystopia"]
@@ -2010,7 +2019,7 @@
             {"info":{
                 "alias":"Val","name":"Valerie Seriean","month":"05","day":"26","year":"1999","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Sylveon","occupation":"Criminal","residence":"Evergreen, USA","height":"5'2","weight":"205 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/val.png","fullbody":"https://aineop.neocities.org/images/val.png","link":"https://aineop.neocities.org/characters/#VAL",
+            "icon":"https://files.catbox.moe/tnewu9.png","fullbody":"https://aineop.neocities.org/images/val.png","link":"https://aineop.neocities.org/characters/#VAL",
             "description":"Val is a laid-back Snowstorm native who handles a lot of the Snowstorm Mares' affairs. Having hit it off with Brooklyn when she arrived back in 2016, they became close friends and built the city's Lavender Mares division from the ground up. When they aren't tending to the Snowstorm Mares, she likes to unwind with trap music and a pack of cigarettes.",
             "created":"2025/12/12",
             "groups":["cherry_batter", "snowstorm_mares"]
@@ -2019,7 +2028,7 @@
             {"info":{
                 "alias":"Brooklyn","name":"Brooklyn Hoarfrost","month":"07","day":"01","year":"1996","pronouns":"She/Her","gender":"Female","orientation":"Pansexual","species":"Glaceon","occupation":"Criminal","residence":"Evergreen, USA","height":"5'6","weight":"139 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/brooklynthumb.png","fullbody":"https://aineop.neocities.org/images/brooklynthumb.png","link":"https://aineop.neocities.org/characters/#BROOKLYN",
+            "icon":"https://files.catbox.moe/cqimw5.png","fullbody":"https://aineop.neocities.org/images/brooklynthumb.png","link":"https://aineop.neocities.org/characters/#BROOKLYN",
             "description":"Brooklyn is a pink glaceon who runs the Snowstorm Mares.",
             "created":"2020/10/24",
             "groups":["cherry_batter", "snowstorm_mares"]
@@ -2028,7 +2037,7 @@
             {"info":{
                 "alias":"Matilda","name":"Matilda","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","height":"5'9"
                 },
-            "icon":"https://files.catbox.moe/7rc4dj.png","fullbody":"https://files.catbox.moe/7rc4dj.png","link":"",
+            "icon":"https://files.catbox.moe/hbl0e5.png","fullbody":"https://files.catbox.moe/7rc4dj.png","link":"",
             "description":"Matilda is Riley's strange cousin. She is crazy and 5'9. She changed her name on Nov 12, 2024.",
             "created":"2020/10/24",
             "groups":[]
@@ -2037,7 +2046,7 @@
             {"info":{
                 "alias":"Sapphire","name":"Sapphire","month":"","day":"","year":"","pronouns":"She/He","gender":"Female","height":"5'7"
                 },
-            "icon":"https://files.catbox.moe/pzhs9t.png","fullbody":"https://files.catbox.moe/pzhs9t.png","link":"",
+            "icon":"https://files.catbox.moe/fnyhv7.png","fullbody":"https://files.catbox.moe/pzhs9t.png","link":"",
             "description":"Sapphire is serious and 5'7.",
             "created":"2020/10/24",
             "groups":[]
@@ -2046,7 +2055,7 @@
             {"info":{
                 "alias":"Rory","name":"Aurora","month":"","day":"","year":"","residence":"Earth"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/gg80kt.png","fullbody":"https://files.catbox.moe/3z5ecr.png","link":"",
             "description":"Tessa's friend.",
             "created":"2023",
             "groups":[]
@@ -2055,25 +2064,25 @@
             {"info":{
                 "alias":"Apollo","name":"Apollo","month":"","day":"","year":"","residence":"Earth"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/17s03f.png","fullbody":"https://files.catbox.moe/s4l5lu.png","link":"",
             "description":"Tessa's friend.",
-            "created":"2023",
+            "created":"2023/03/19",
             "groups":[]
             },
             
             {"info":{
                 "alias":"Carter","name":"Carter","month":"","day":"","year":"","residence":"Earth"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/uf2f4u.png","fullbody":"https://files.catbox.moe/gzg640.png","link":"",
             "description":"Tessa's friend.",
-            "created":"2023",
+            "created":"2023/03/19",
             "groups":[]
             },
             
             {"info":{
                 "alias":"Athena","name":"Athena Hitsuji","month":"10","day":"04","year":"","pronouns":"She/Her","gender":"Female","orientation":"Aromantic Asexual","species":"Wooloo","occupation":"Police Officer","residence":"Evergreen, USA"
                 },
-            "icon":"https://i.postimg.cc/tTjwcn1C/13084740.png","fullbody":"https://i.postimg.cc/tTjwcn1C/13084740.png","link":"",
+            "icon":"https://files.catbox.moe/o1rgf3.png","fullbody":"https://files.catbox.moe/pydeum.png","link":"",
             "description":"Athena is a stern Wooloo who likes bees and archery.",
             "created":"2021/09/08",
             "groups":[]
@@ -2082,7 +2091,7 @@
             {"info":{
                 "alias":"Spice","name":"Spice","month":"05","day":"08","year":"2007","pronouns":"They/Them","gender":"Nonbinary","species":"Flareon","residence":"Evergreen, USA"
                 },
-            "icon":"https://i.postimg.cc/59YmfSRC/SPICEsloppyref.png","fullbody":"https://i.postimg.cc/59YmfSRC/SPICEsloppyref.png","link":"",
+            "icon":"https://files.catbox.moe/oslaaa.png","fullbody":"https://i.postimg.cc/59YmfSRC/SPICEsloppyref.png","link":"",
             "description":"Spice is a flareon who was too hot to die. They died anyway. They were well known for being a supporting character who was often in police chases.",
             "created":"2021/11/10",
             "groups":[]
@@ -2091,7 +2100,7 @@
             {"info":{
                 "alias":"London","name":"London Kill","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Espeon","residence":"Evergreen, USA"
                 },
-            "icon":"https://i.postimg.cc/sXQQpwFd/kimberly-london-lincolns-family.png","fullbody":"https://i.postimg.cc/sXQQpwFd/kimberly-london-lincolns-family.png","link":"",
+            "icon":"https://files.catbox.moe/28wfb9.png","fullbody":"https://files.catbox.moe/bbto2x.png","link":"",
             "description":"London Kill is some dude. He needs meds for mild shitofrenia.",
             "created":"2022/08/27",
             "groups":[]
@@ -2100,7 +2109,7 @@
             {"info":{
                 "alias":"Kimberly","name":"Kimberly Pulster","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Espeon","residence":"Evergreen, USA"
                 },
-            "icon":"https://i.postimg.cc/sXQQpwFd/kimberly-london-lincolns-family.png","fullbody":"https://i.postimg.cc/sXQQpwFd/kimberly-london-lincolns-family.png","link":"",
+            "icon":"https://files.catbox.moe/5vtl51.png","fullbody":"https://files.catbox.moe/6shioo.png","link":"",
             "description":"Kimberly is Lincoln's sister.",
             "created":"2022/08/27",
             "groups":[]
@@ -2109,7 +2118,7 @@
             {"info":{
                 "alias":"Cedar","name":"Cedar Lehigh Strawb","month":"12","day":"24","year":"","pronouns":"Xe/It","gender":"Nonbinary","species":"Glaceon","occupation":"Explorer","residence":"New Jersey, USA","height":"5'1","weight":"90 lbs"
                 },
-            "icon":"https://64.media.tumblr.com/9cf8b3d5e678461bbdb6f105a0b5eb3c/d68a2619ba456969-be/s2048x3072/5ea4b3e555365629249a9d5cf173ea82ba12ecd6.pnj","fullbody":"https://i.postimg.cc/fTtwBPcR/fb_cedar_rain_without_rain.png","link":"https://aineop.neocities.org/characters/#CEDAR",
+            "icon":"https://files.catbox.moe/xl6s0q.png","fullbody":"https://i.postimg.cc/fTtwBPcR/fb_cedar_rain_without_rain.png","link":"https://aineop.neocities.org/characters/#CEDAR",
             "description":"Cedar is a glaceon who looks dumb.",
             "created":"2021/12/24",
             "groups":[]
@@ -2127,7 +2136,7 @@
             {"info":{
                 "alias":"Marisol","name":"Marisol Ximena Serrano","month":"07","day":"16","year":"1995","pronouns":"She/Her","gender":"Female","orientation":"Pansexual","species":"Eevee","occupation":"Pizzaria Owner","residence":"Evergreen, USA","height":"5'11","weight":"160 lbs"
                 },
-            "icon":"https://aineop.neocities.org/images/marisol.png","fullbody":"https://aineop.neocities.org/images/marisol.png","link":"https://aineop.neocities.org/characters/#MARISOL",
+            "icon":"https://files.catbox.moe/cav2xb.png","fullbody":"https://aineop.neocities.org/images/marisol.png","link":"https://aineop.neocities.org/characters/#MARISOL",
             "description":"Marisol seems happy enough running her late mother's business to an outsider, but really, she hates it more than you know. Keeping the restaurant alive ever since she was 11 with no one to help but her adopted sibling, Jam, has completely and utterly crushed her dreams of film school. But, well, it's fine! Not like she can work anywhere else without a diploma! That's just life, baby!",
             "created":"2025/06/25",
             "groups":[]

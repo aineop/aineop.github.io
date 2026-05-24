@@ -1,5 +1,33 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/56PfvvLn","thumbnail":"https://i.postimg.cc/MpwHCmT2/joey2.png",
+            "artist":"CoMo","month":"05","day":"23","year":"2026",
+            "title":"Joey",
+            "caption":"New deer in town!",
+            "description":"",
+            "tags":["joey","sribbles"]},
+                
+          {"link":"https://postimg.cc/vxHpHqqs","thumbnail":"https://i.postimg.cc/T1rG0Bnp/axel-awesome.png",
+            "artist":"CoJu","month":"05","day":"23","year":"2026",
+            "title":"In The Facility",
+            "caption":"Axel with some guns.",
+            "description":"",
+            "tags":["axel","cojuverse"]},
+                
+          {"link":"https://postimg.cc/dDsMB3qZ","thumbnail":"https://i.postimg.cc/59vxfQTg/rain-sweater.png",
+            "artist":"CoJu","month":"05","day":"23","year":"2026",
+            "title":"Glep Sweater",
+            "caption":"As you can see, Rain is quite a big fan of Glep!",
+            "description":"",
+            "tags":["rain","cojuverse"]},
+
+          {"link":"https://postimg.cc/qNz4GRxK","thumbnail":"https://i.postimg.cc/y8Txs3JL/asht.png",
+            "artist":"CoMo","month":"05","day":"23","year":"2026",
+            "title":"Ash",
+            "caption":"eh?",
+            "description":"",
+            "tags":["ash","sribbles"]},
+                
           {"link":"https://postimg.cc/qz0Zbh6c","thumbnail":"https://i.postimg.cc/Ghswpvcf/rocky-nolan-theater-for-real.png",
             "artist":"CoJu","month":"05","day":"22","year":"2026",
             "title":"Rocky",
@@ -7011,6 +7039,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/QFHhqtJp","thumbnail":"https://i.postimg.cc/JzQ0MHyd/joeyref0.png",
+            "artist":"CoMo","month":"05","day":"24","year":"2026",
+            "title":"Joey's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["joey","sribbles"]},
+                
           {"link":"https://postimg.cc/jDjB130m","thumbnail":"https://i.postimg.cc/ht8gfNCD/rebaref5.png",
             "artist":"CoJu","month":"05","day":"10","year":"2026",
             "title":"Reba's Reference",

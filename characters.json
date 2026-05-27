@@ -467,7 +467,7 @@
             {"info":{
                 "alias":"Ray","name":"Raymond Thornkill","month":"10","day":"16","year":"1986","pronouns":"He/Him","gender":"Male","species":"Cat","occupation":"Software Engineer","residence":"Seedwick, CT"
                 },
-            "icon":"https://files.catbox.moe/tgpqow.png","fullbody":"https://files.catbox.moe/u91xcg.png","link":"/universe/characters/ray.html",
+            "icon":"https://files.catbox.moe/tgpqow.png","fullbody":"https://files.catbox.moe/wt5ymx.png","link":"/universe/characters/ray.html",
             "description":"Ray is a cat who has suicidal and self-destructive tendencies. He is friends with Steel and someone else. He likes the song Razor by Foo Fighterds.",
             "created":"2022/10/16",
             "groups":["thornkill","seedwick"]
@@ -1412,7 +1412,7 @@
             {"info":{
                 "alias":"Lydia","name":"Lydia Thornkill","month":"05","day":"26","year":"2012","pronouns":"She/Her","gender":"Female","species":"Cat","residence":"Seedwick, CT"
                 },
-            "icon":"https://files.catbox.moe/mpx9j5.png","fullbody":"https://files.catbox.moe/vs8i0k.png","link":"/universe/characters/lydia.html",
+            "icon":"https://files.catbox.moe/mpx9j5.png","fullbody":"https://files.catbox.moe/7vvxsf.png","link":"/universe/characters/lydia.html",
             "description":"Lydia is a cat who has to partially take care of her mentally ill father.",
             "created":"2025/08/26",
             "groups":["thornkill"]

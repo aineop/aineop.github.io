@@ -1,5 +1,26 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/RqGVbDDc","thumbnail":"https://i.postimg.cc/65x2TsV1/joeypets.png",
+            "artist":"CoMo","month":"05","day":"29","year":"2026",
+            "title":"Pets",
+            "caption":"Joey getting pets!",
+            "description":"",
+            "tags":["joey","sribbles"]},
+
+          {"link":"https://postimg.cc/PLGtwsCd","thumbnail":"https://i.postimg.cc/s2x1b3yG/rain-pride-icon.png",
+            "artist":"CoJu","month":"05","day":"28","year":"2026",
+            "title":"Pride",
+            "caption":"Rain is proud.",
+            "description":"",
+            "tags":["rain","cojuverse"]},
+                
+          {"link":"https://postimg.cc/XGLq1C0r","thumbnail":"https://i.postimg.cc/WzLZ3GWw/joeybeg.png",
+            "artist":"CoMo","month":"05","day":"27","year":"2026",
+            "title":"pls pls pls PLS",
+            "caption":"Joey begging for pets.",
+            "description":"",
+            "tags":["joey","sribbles"]},
+                
           {"link":"https://postimg.cc/RqbRYXwV","thumbnail":"https://i.postimg.cc/dtJxLf1d/lydia14.png",
             "artist":"CoMo","month":"05","day":"26","year":"2026",
             "title":"She's Only Fourteen",
@@ -7200,6 +7221,20 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/ftCZpVBz","thumbnail":"https://i.postimg.cc/5yd0HvzC/marianneref3.png",
+            "artist":"CoJu","month":"05","day":"27","year":"2026",
+            "title":"Marianne's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["marianne","cojuverse"]},
+                
+          {"link":"https://postimg.cc/DJ6FHSBf","thumbnail":"https://i.postimg.cc/yx4dJ9RR/maeref3.png",
+            "artist":"CoJu","month":"05","day":"27","year":"2026",
+            "title":"Mae's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["mae","cojuverse"]},
+                
           {"link":"https://postimg.cc/QFHhqtJp","thumbnail":"https://i.postimg.cc/JzQ0MHyd/joeyref0.png",
             "artist":"CoMo","month":"05","day":"24","year":"2026",
             "title":"Joey's Reference",
@@ -7923,6 +7958,20 @@
             "caption":"Despite the flag on the bottom left, Victor is not from New York City.",
             "description":"",
             "tags":["vick","cojuverse"]},
+
+          {"link":"https://postimg.cc/QBWV4VSx","thumbnail":"https://i.postimg.cc/cJFYJnnY/rory-n-apollo-sloppyref.png",
+            "artist":"CoJu","month":"03","day":"19","year":"2023",
+            "title":"Apollo and Rory's Concept",
+            "caption":"",
+            "description":"",
+            "tags":["apollo","rory","cojuverse"]},
+
+          {"link":"https://postimg.cc/mcFhXhVL","thumbnail":"https://i.postimg.cc/DzxszXXX/carter-n-cleo-sloppyref.png",
+            "artist":"CoJu","month":"03","day":"19","year":"2023",
+            "title":"Carter and Cleo's Concept",
+            "caption":"",
+            "description":"",
+            "tags":["carter","cleo","cojuverse"]},
             
             {"link":"https://64.media.tumblr.com/14beea77431ab99a00df5aa94ec30fc1/17d8601ea18f6a59-b5/s1280x1920/0a1b6ea8b60ed1c0fc11f8fef8d565fd8e2631ad.png","thumbnail":"https://64.media.tumblr.com/14beea77431ab99a00df5aa94ec30fc1/17d8601ea18f6a59-b5/s1280x1920/0a1b6ea8b60ed1c0fc11f8fef8d565fd8e2631ad.png",
             "artist":"CoJu","month":"02","day":"19","year":"2023",

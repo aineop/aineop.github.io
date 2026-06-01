@@ -1,5 +1,19 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/bsJcK69D","thumbnail":"https://i.postimg.cc/rFGVR3dJ/cypress-drive.png",
+            "artist":"CoJu","month":"05","day":"30","year":"2026",
+            "title":"Drive",
+            "caption":"Cypress driving their Jeep.",
+            "description":"",
+            "tags":["cypress","sribbles"]},
+                
+          {"link":"https://postimg.cc/ct1y1Tqh","thumbnail":"https://i.postimg.cc/0jD8fHcT/marthaliam.png",
+            "artist":"CoMo","month":"05","day":"30","year":"2026",
+            "title":"Martha And Liam",
+            "caption":"The duo is back and ready to cause trouble!",
+            "description":"",
+            "tags":["martha","liam","sribbles"]},
+                
           {"link":"https://postimg.cc/RqGVbDDc","thumbnail":"https://i.postimg.cc/65x2TsV1/joeypets.png",
             "artist":"CoMo","month":"05","day":"29","year":"2026",
             "title":"Pets",
@@ -4094,6 +4108,13 @@
             "caption":"Steel's prototype design.",
             "description":"",
             "tags":["steel", "ash","sribbles"]},
+
+            {"link":"https://postimg.cc/jL50G84C","thumbnail":"https://i.postimg.cc/150mV2g0/junenastics.png",
+            "artist":"CoJu","month":"08","day":"14","year":"2024",
+            "title":"Junenastics",
+            "caption":"June heading to work.",
+            "description":"",
+            "tags":["june","cojuverse"]},
             
             {"link":"https://64.media.tumblr.com/e19157b08e70c8596580ab167d361485/942289dc82a4a6ab-13/s2048x3072/703653ae0c13eaeeb30865f150ad393fb1716a9c.png","thumbnail":"https://64.media.tumblr.com/e19157b08e70c8596580ab167d361485/942289dc82a4a6ab-13/s2048x3072/703653ae0c13eaeeb30865f150ad393fb1716a9c.png",
             "artist":"CoJu","month":"08","day":"14","year":"2024",
@@ -7140,6 +7161,27 @@
             "description":"",
             "tags":["reba","axel","cojuverse"]},
 
+           {"link":"https://postimg.cc/GBmz3vDy","thumbnail":"https://i.postimg.cc/3wgqBBJn/tessa3.png",
+            "artist":"CoJu","month":"02","day":"25","year":"2023",
+            "title":"Tessa3",
+            "caption":"Tessa wants to fly!",
+            "description":"",
+            "tags":["tessa","cojuverse"]},
+
+           {"link":"https://postimg.cc/7CZXPSzz","thumbnail":"https://i.postimg.cc/LszWTT6x/tessa2.png",
+            "artist":"CoJu","month":"02","day":"25","year":"2023",
+            "title":"Tessa2",
+            "caption":"Tessa is a bit shy!",
+            "description":"",
+            "tags":["tessa","cojuverse"]},
+
+           {"link":"https://postimg.cc/t14DRF6Z","thumbnail":"https://i.postimg.cc/cJQzmm4m/tessa1.png",
+            "artist":"CoJu","month":"02","day":"25","year":"2023",
+            "title":"Tessa1",
+            "caption":"Tessa saying hi!",
+            "description":"",
+            "tags":["tessa","cojuverse"]},
+
            {"link":"https://postimg.cc/mtYCP8Jj","thumbnail":"https://i.postimg.cc/28JwXtxs/suselle2.png",
             "artist":"CoJu","month":"02","day":"22","year":"2023",
             "title":"Suselle",
@@ -7221,6 +7263,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/VJwjvzjQ","thumbnail":"https://i.postimg.cc/zGbpdBvB/sharyoref2.png",
+            "artist":"CoMo","month":"05","day":"31","year":"2026",
+            "title":"Reference for NJT Newark Light Rail cats.",
+            "caption":"",
+            "description":"",
+            "tags":["sharyo","njt_lr","sribbles"]},
+                
           {"link":"https://postimg.cc/ftCZpVBz","thumbnail":"https://i.postimg.cc/5yd0HvzC/marianneref3.png",
             "artist":"CoJu","month":"05","day":"27","year":"2026",
             "title":"Marianne's Reference",
@@ -7972,6 +8021,13 @@
             "caption":"",
             "description":"",
             "tags":["carter","cleo","cojuverse"]},
+
+            {"link":"https://postimg.cc/njBg3m4B","thumbnail":"https://i.postimg.cc/QtyDxkV4/tessa.png",
+            "artist":"CoJu","month":"02","day":"24","year":"2023",
+            "title":"Tessa's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["tessa","cojuverse"]},
             
             {"link":"https://64.media.tumblr.com/14beea77431ab99a00df5aa94ec30fc1/17d8601ea18f6a59-b5/s1280x1920/0a1b6ea8b60ed1c0fc11f8fef8d565fd8e2631ad.png","thumbnail":"https://64.media.tumblr.com/14beea77431ab99a00df5aa94ec30fc1/17d8601ea18f6a59-b5/s1280x1920/0a1b6ea8b60ed1c0fc11f8fef8d565fd8e2631ad.png",
             "artist":"CoJu","month":"02","day":"19","year":"2023",

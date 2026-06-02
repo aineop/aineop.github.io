@@ -77,7 +77,7 @@
                 "alias":"Sugar","name":"Sugar Oraton","month":"08","day":"16","year":"2004","pronouns":"He/Him","gender":"Male","species":"Eevee","occupation":"College Student","residence":"Evergreen, United States","height":"5'6","weight":"150 lbs"
                 },
             "icon":"https://files.catbox.moe/hvvw5h.png","fullbody":"https://i.postimg.cc/J4YNNpDV/sugar2-1.png","link":"/universe/characters/sugar.html",
-            "description":"Sugar is an Eevee. He likes turkey bologna, computers, and taking pictures. He is part of the class of 2026 at Friendship University.",
+            "description":"Sugar is an eevee. He likes turkey bologna, computers, and taking pictures. He is part of the class of 2026 at Friendship University.",
             "created":"2020/10",
             "groups":["fu","oraton"]
             },
@@ -261,7 +261,7 @@
                 "alias":"Joey","name":"Joey Pepperoni","month":"05","day":"22","year":"2002","pronouns":"They/Them","gender":"Nonbinary","species":"Deer","occupation":"Stunt Actor","residence":"Arthur City, NY","height":"4'9"
                 },
             "icon":"https://files.catbox.moe/e96psm.png","fullbody":"https://files.catbox.moe/sdp5x9.png","link":"/universe/characters/joey.html",
-            "description":"Joey is a deer. They live in Arthur City. They like curly fries.",
+            "description":"Joey is a deer. They like curly fries and puns. They are a stunt actor.",
             "created":"2026/05/22",
             "groups":[]
             },
@@ -270,7 +270,7 @@
                 "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Victini","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
                 },
             "icon":"/images/flingyicon.png","fullbody":"https://sribbles.neocities.org/images/flingy.png","link":"",
-            "description":"Flingy is a victini. She is Lit's sister. She was murdered on October 15, 2019, due to Lit's criminal activities, detailed in It's Been Awhile. Her favorite show was V and Ax.",
+            "description":"Flingy was a victini. Her favorite show was V and Ax. She was Lit's sister.",
             "created":"2022/07",
             "groups":["ndhs","cupcake"]
             },
@@ -279,7 +279,7 @@
                 "alias":"Carc","name":"Carcus Glametal Jr.","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Meowstic","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/rwn3hq.png","fullbody":"https://files.catbox.moe/3bah74.png","link":"",
-            "description":"Carc is a former student at Doubax Highschool and was a bully. He flushed Liam down the toilet. He likes the smell of Spanish's feathers. He dated Lily Flul, and is a friend of SCF.",
+            "description":"Carc is a creature. He was a student at Doubax Highschool and was a bully.",
             "created":"2019/06",
             "groups":["ndhs","scf","glametal"]
             },
@@ -288,7 +288,7 @@
                 "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2006","pronouns":"He/Him","gender":"Male","species":"Popplio","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/jx1eif.png","fullbody":"https://files.catbox.moe/vf7gyo.png","link":"/universe/characters/kyle.html",
-            "description":"Kyle is a socially ignorant popplio. He takes great pride in being an American. He lived in Texas on his family's cube corn farm until the house burned down. He has queer relatives living in northern Florida. He is friends with Umber.",
+            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has queer relatives living in northern Florida. He is friends with Umber.",
             "created":"2021/02",
             "groups":["ndhs"]
             },
@@ -297,7 +297,7 @@
                 "alias":"Flaver","name":"Flaver Full","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pikachu","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/ydYzwW2h/flavericon.png","fullbody":"https://files.catbox.moe/pgmhzv.png","link":"",
-            "description":"Flaver is a fat, nervous Pikachu. She was friends with Flingy, and went on to develop an uneasy acquaintanceship with Lit after Flingy's death.",
+            "description":"Flaver is a pikachu. She is a cautious person. She was friends with Flingy, and went on to develop an uneasy acquaintanceship with Lit after Flingy's death.",
             "created":"2022/07",
             "groups":["ndhs"]
             },
@@ -306,7 +306,7 @@
                 "alias":"Turner","name":"Turner Turmeric","month":"","day":"","year":"2003","pronouns":"He/Him","gender":"Male","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/hbm0yi.png","fullbody":"https://files.catbox.moe/3x3mf0.png","link":"",
-            "description":"Turner is a rabbitoid who is a sociopath. He was the \"leader\" of the NDHS bully group, and went on to do horrible things. He is currently serving a life sentence in prison.",
+            "description":"Turner is a rabbit-like creature. He is a sociopath. He was the de-facto leader of the NDHS bully group, and went on to do horrible things. He is currently serving a life sentence in prison.",
             "created":"2024/06/25",
             "groups":["ndhs"]
             },
@@ -315,7 +315,7 @@
                 "alias":"Dorian","name":"Dorian Jutsja","month":"03","day":"17","year":"2003","pronouns":"He/Him","gender":"Male","species":"Meowstic","occupation":"Electrician","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/qnib6u.png","fullbody":"https://files.catbox.moe/pm1chv.png","link":"/universe/characters/dorian.html",
-            "description":"He is a male meowstic. He works for Friendship City Transit. He was formerly known as \"Methlab\" or, legally, \"Baby Jutsja\". His parents were neglectful meth addicts, but his uncle helped him to become a somewhat successful electrician.",
+            "description":"Dorian is a male meowstic. He was formerly known as \"Methlab\" or, legally, \"Baby Jutsja\". He works for Friendship City Transit as an electrician.",
             "created":"2020/06",
             "groups":["ndhs"]
             },
@@ -324,7 +324,7 @@
                 "alias":"Lily","name":"Beatrice Lily \"Fluffy\" Flul","month":"11","day":"24","year":"2005","pronouns":"She/Her","gender":"Female","species":"Meowstic","occupation":"Model","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/0f184d.png","fullbody":"https://files.catbox.moe/p831dt.png","link":"",
-            "description":"Lily is a female meowstic who likes mathematics. She had romantic tension with Ball and Carc. She also may have been a love interest for Lit. She is a model.",
+            "description":"Lily is a female meowstic. She has an interest mathematics. She had romantic tension with Ball and Carc and may have been a love interest for Lit. She was the popular girl in school. She is a model.",
             "created":"2018/12",
             "groups":["ndhs"]
             },
@@ -333,7 +333,7 @@
                 "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/Her","gender":"Nonbinary","species":"Oshawott","occupation":"Gamer","residence":"Ebonwood, VG"
                 },
             "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
-            "description":"Soiette is a silly Oshawott who likes to say \"Dang, bitch!\". He lives in Ebonwood, Evergreen. He plays Terraria.",
+            "description":"Soiette is an Oshawott. Her signature catchphrase is \"Dang, bitch!\". He lives in Ebonwood, Evergreen. He plays Terraria.",
             "created":"2024/12/10",
             "groups":[]
             },
@@ -342,7 +342,7 @@
                 "alias":"Wayne","name":"Wayne Dylan Fischer","month":"06","day":"04","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
                 },
             "icon":"https://files.catbox.moe/sqzho7.png","fullbody":"https://files.catbox.moe/5f028h.png","link":"/universe/characters/wayne.html",
-            "description":"Wayne is a cat. He lives in Highland Park. He likes to fish with Miki.",
+            "description":"Wayne is a cat. He lives in Highland Park. He likes to fish with Miki. He is part of the class of 2026 at Rutgers University.",
             "created":"2025/04/05",
             "groups":["highland_park"]
             },
@@ -351,7 +351,7 @@
                 "alias":"Pluto","name":"Pluto Butter","month":"05","day":"02","year":"2003","pronouns":"She/They","gender":"Female","species":"Fox","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/jgxe41.png","fullbody":"https://files.catbox.moe/88jw8g.png","link":"/universe/characters/pluto.html",
-            "description":"Pluto is a cream colored fox with touches of chocolate. Mmmmh... Deliciousch. She is Tem's friend-with-benefits, sister of Bowie, best friend of Noel, and... Mmmh... Deliciousch.",
+            "description":"Pluto is a fox. She is Tem's friend-with-benefits, sister of Bowie, and best friend of Noel.",
             "created":"2022/04/22",
             "groups":["butter"]
             },
@@ -360,7 +360,7 @@
                 "alias":"Bowie","name":"Bowie Butter","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Fox","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/y0gm5s.png","fullbody":"https://files.catbox.moe/c1cx3e.png","link":"",
-            "description":"Bowie is a rollerskater fox. He is related to his sister Plubo. This is because they are siblings. It said so on the DNA test.",
+            "description":"Bowie is a fox. He likes rollerskating. He is Pluto's sister.",
             "created":"2023/05",
             "groups":["butter"]
             },
@@ -369,7 +369,7 @@
                 "alias":"Kolumbus","name":"Kolumbus Duzenhavon","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Torracat","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/TY8h9bSk/kolombus.png","fullbody":"https://files.catbox.moe/6xtdcz.png","link":"",
-            "description":"Kolumbus is a torracat, not a litten. He is a devout Christian. He is dating Bowie Butter. He reads Bowie scripture. Bowie does not appreciate this. They rollerskate together.",
+            "description":"Kolumbus is a torracat. He is a devout Christian. He is dating Bowie Butter, and they rollerskate together.",
             "created":"2023/05",
             "groups":[]
             },
@@ -378,7 +378,7 @@
                 "alias":"Ree","name":"Victoria Nyoucmo","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Jirachi","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/QdGZjfRd/reeicon.png","fullbody":"https://files.catbox.moe/lmfvfk.png","link":"",
-            "description":"Ree is a Jirachi. Ree has no headpiece flops, unlike usual Jirachis. She is regularly featured in CoJu's comic series, \"It's Been Awhile\". Ree's family has been bankrupt since at least 2023.",
+            "description":"Ree is a jirachi. Ree has no headpiece flops, unlike usual jirachis. She is regularly featured in CoJu's comic series, \"It's Been Awhile\". Ree's family has been bankrupt since at least 2023.",
             "created":"2022/06",
             "groups":["ndhs","nyoucmo"]
             },
@@ -387,7 +387,7 @@
                 "alias":"Kellie","name":"Kellie Nyoucmo","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Jirachi","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/pha7n1.png","fullbody":"https://files.catbox.moe/otjawh.png","link":"",
-            "description":"She was a gardener Jirachi. He was Ree's sibling.",
+            "description":"Kellie was a gardener jirachi. She was Ree's sister.",
             "created":"2022/07",
             "groups":["ndhs","nyoucmo"]
             },
@@ -396,7 +396,7 @@
                 "alias":"Six","name":"Deilief Nyoucmo","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Jirachi","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/ebct2d.png","fullbody":"https://files.catbox.moe/62y1yz.png","link":"",
-            "description":"Emo Jirachi. Yup. He listened to all them emo bands. He was Ree's brother.",
+            "description":"Six was a jirachi. He was emo. Yup. He listened to all them emo bands. He was Ree's brother.",
             "created":"2022/07",
             "groups":["ndhs","nyoucmo"]
             },
@@ -405,7 +405,7 @@
                 "alias":"Henry","name":"Henry Snyder","month":"","day":"","year":"2004","pronouns":"He/They","gender":"Male","species":"Leafeon","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/ihh4n0.png","fullbody":"https://files.catbox.moe/iv3ci5.png","link":"",
-            "description":"Henry Snyder is a leafeon. He is roommates with Umber.",
+            "description":"Henry is a leafeon. He is roommates with Umber.",
             "created":"2020",
             "groups":["snyder"]
             },
@@ -414,7 +414,7 @@
                 "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Umbreon","occupation":"Internet Troll","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/hyoulb.png","fullbody":"https://files.catbox.moe/jcnhx5.png","link":"/universe/characters/umber.html",
-            "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He had an alt right phase. He is Mar's brother. He never had sexual intercourse with Mar.",
+            "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He is Mar's brother.",
             "created":"2020/03/30",
             "groups":["ndhs","shiffallooley"]
             },
@@ -423,7 +423,7 @@
                 "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Espeon","occupation":"A Lot","residence":"Connecticut, USA"
                 },
             "icon":"https://files.catbox.moe/9e9pv9.png","fullbody":"https://files.catbox.moe/7dxtaf.png","link":"/universe/characters/mar.html",
-            "description":"Mar is a grumpy espeon who suffers from job insecurity. He has a yellow smiley face on his belly and has always been bullied for it, so he wears a striped green shirt to hide it. This doesn't work out, since the face, who was his sibling he absorbed in the womb, eats the shirt. No. He doesn't usually eat the shirt. Mar also has another sibling, Umber. He wasn't absorbed inside of him. He never penetrated inside of him either.",
+            "description":"Mar is an espeon. He likes butterflies and Brussels sprouts. He is often grumpy due to his job insecurity. He doesn't usually eat his shirt.",
             "created":"2023/08/22",
             "groups":["shiffallooley"]
             },
@@ -432,7 +432,7 @@
                 "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Vulpix","occupation":"College Student","residence":"Connecticut, USA"
                 },
             "icon":"https://files.catbox.moe/q4e43d.png","fullbody":"https://files.catbox.moe/5i9k1m.png","link":"/universe/characters/snodie.html",
-            "description":"Snodie is a vulpix. She is a witch and studied animal science at Verr University.",
+            "description":"Snodie is a vulpix. Attached to her hair and tail is Angel, a lost spirit. She is a witch and studied animal science at Verr University.",
             "created":"2022/07",
             "groups":["verr"]
             },
@@ -441,7 +441,7 @@
                 "alias":"River","name":"River CoAlla","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Cinderace","occupation":"Jewelry Store Employee and Comedian","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/4kwop6.png","fullbody":"https://files.catbox.moe/jdyl2p.png","link":"",
-            "description":"River is a cinderace who liked Japanese girls and his girlfriend, big Jodie. He was a stand-up comedian and jewlry store worker. He was killed in January 2020.",
+            "description":"River was a cinderace. He had a thing for Japanese girls, if you know what I mean. But he liked his girlfriend Big Jodie more. He was a stand-up comedian and jewlry store worker. He was killed in January 2020.",
             "created":"2022/07",
             "groups":[]
             },
@@ -450,7 +450,7 @@
                 "alias":"Big Jodie","name":"Jodiah Grande","month":"01","day":"13","year":"1984","pronouns":"She/Her","gender":"Female","species":"Cyclops","occupation":"Teacher","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/rs6btx.png","fullbody":"https://files.catbox.moe/mv9p5g.png","link":"/universe/characters/bigjodie.html",
-            "description":"She is a transgender cyclops. Her boyfriend was River CoAlla.",
+            "description":"Big Jodie is a cyclops. Her boyfriend was River CoAlla. She is transgender. She is a public school teacher.",
             "created":"2022/07",
             "groups":[]
             },
@@ -459,7 +459,7 @@
                 "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Sylveon","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
                 },
             "icon":"https://files.catbox.moe/s5wnfn.png","fullbody":"https://i.postimg.cc/QtjDKQCp/steel2-3.png","link":"/universe/characters/steel.html",
-            "description":"Steel is a mischevious Sylveon. He is a scientist who looks after Ash. She is very impulsive, and has many tattoos that are covered by her fur. They are infertile, and treats Ash like the son he could never conceive.",
+            "description":"Steel is a sylveon. She is mischevious and very impulsive, and has many tattoos that are covered by her fur. He is the scientist who looks after Ash. They are infertile, and treats Ash like the son he could never conceive.",
             "created":"2022/12",
             "groups":["verr","seedwick"]
             },
@@ -468,7 +468,7 @@
                 "alias":"Ray","name":"Raymond Thornkill","month":"10","day":"16","year":"1986","pronouns":"He/Him","gender":"Male","species":"Cat","occupation":"Software Engineer","residence":"Seedwick, CT"
                 },
             "icon":"https://files.catbox.moe/tgpqow.png","fullbody":"https://files.catbox.moe/wt5ymx.png","link":"/universe/characters/ray.html",
-            "description":"Ray is a cat who has suicidal and self-destructive tendencies. He is friends with Steel and someone else. He likes the song Razor by Foo Fighterds.",
+            "description":"Ray is a cat. He has suicidal and self-destructive tendencies. He likes the song Razor by Foo Fighters. He is friends with Steel and someone else. He is a software developer and is possibly affiliated with Verr University.",
             "created":"2022/10/16",
             "groups":["thornkill","seedwick"]
             },
@@ -477,7 +477,7 @@
                 "alias":"Clarissa","name":"Clarissa Harbor","month":"04","day":"10","year":"","pronouns":"She/Her","gender":"Female","species":"Flareon","occupation":"Teacher and Researcher","residence":"Connecticut, USA"
                 },
             "icon":"https://files.catbox.moe/alky7e.png","fullbody":"https://files.catbox.moe/alky7e.png","link":"",
-            "description":"Clarissa is a flareon who wears an elegant hat. This reflects her elegant, haughty personality. She is the counselor for North Doubax High School.",
+            "description":"Clarissa is a flareon. She likes to wear her elegant hat. This reflects her elegant, haughty personality. She is the counselor for North Doubax High School.",
             "created":"2019/06",
             "groups":["ndhs"]
             },
@@ -486,7 +486,7 @@
                 "alias":"Glider","name":"Glider Kawiestmoda","month":"02","day":"23","year":"2010","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Gliscor","occupation":"High School Student","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/krmfzn.png","fullbody":"https://files.catbox.moe/1rdhvv.png","link":"/universe/characters/glider.html",
-            "description":"Glider, a gliscor, is the daughter of Ospra and Eastmode, the owners of Ospra's and K-Club respectively. She wears a Weezer cap, and will be a trucker shen she's older.",
+            "description":"Glider is a gliscor. She is the daughter of Ospra and Eastmode, the owners of Ospra's and K-Club respectively. She wears a Weezer cap, and will be a trucker shen she's older.",
             "created":"2024/02/23",
             "groups":["kawiestmoda"]
             },
@@ -495,7 +495,7 @@
                 "alias":"Lex","name":"Lex Roxbury","month":"04","day":"14","year":"2003","pronouns":"Any","gender":"Female","species":"Meowstic","occupation":"K-Club Employee","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/q7lmah.png","fullbody":"https://files.catbox.moe/q7lmah.png","link":"",
-            "description":"Lex is an intersex meowstic. She used to live in Boston, where her best friend Tem lived, before Tem moved away. A few years later, Lex moved to Arthur City. He works at K-Club.",
+            "description":"Lex is an meowstic. She is intersex. He works at K-Club.",
             "created":"2022/05/11",
             "groups":[]
             },
@@ -513,7 +513,7 @@
                 "alias":"Sandy","name":"Garland Green Day","month":"06","day":"18","year":"2001","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Leafeon","occupation":"Hairdresser","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/jye63f.png","fullbody":"https://files.catbox.moe/o0humo.png","link":"/universe/characters/garland.html",
-            "description":"Garland, commonly known as Sandy, is a mischevious and devious leafeon. She is confident and outgoing. Her brother is Lawrence.",
+            "description":"Garland, or Sandy, is a leafeon. She is confident and outgoing, and mischevious and devious. Her brother is Lawrence.",
             "created":"2025/06/18",
             "groups":["day"]
             },
@@ -522,7 +522,7 @@
                 "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2001","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Leafeon","occupation":"Octopator","residence":"Arthur City, NY","height":"5'2"
                 },
             "icon":"https://files.catbox.moe/gln34z.png","fullbody":"https://files.catbox.moe/06y68z.png","link":"/universe/characters/lawrence.html",
-            "description":"Lawrence is a shy and nervious leafeon. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
+            "description":"Lawrence is a leafeon. He is shy and nervious. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
             "created":"2025/06/20",
             "groups":["day"]
             },
@@ -531,7 +531,7 @@
                 "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"2004","pronouns":"Any","gender":"Nonbinary","species":"Eevee","occupation":"Employee for Ocky's Bakery","residence":"Evergreen, USA"
                 },
             "icon":"https://files.catbox.moe/jm793w.png","fullbody":"https://i.postimg.cc/R0S8NQmk/sprinccles.png","link":"/universe/characters/sprinkles.html",
-            "description":"Sprinkles is an Eevee.",
+            "description":"Sprinkles is an eevee. He works at a cafe.",
             "created":"2023/09",
             "groups":[]
             },
@@ -540,7 +540,7 @@
                 "alias":"Skyler","name":"Kara Oraton","month":"05","day":"13","year":"2000","pronouns":"She/Her","gender":"Female","species":"Glaceon","occupation":"Real Estate Agent and Streamer","residence":"Evergreen, USA"
                 },
             "icon":"https://files.catbox.moe/ad02i0.png","fullbody":"https://files.catbox.moe/pe9jmn.png","link":"",
-            "description":"Skyler is a Glaceon who is a horny bait streamer and a real estate agent. She often collaborates with Paige The Pennsylvanian. She is Sugar's older sister. She goes by @hotglaceon5 on at least one social media. She usually goes by SkylerWearsUnderwear.",
+            "description":"Skyler is a glaceon. She is a streamer and a real estate agent. She often collaborates with Paige The Pennsylvanian. She is Sugar's older sister. She goes by @hotglaceon5 on at least one social media. She usually goes by SkylerWearsUnderwear.",
             "created":"2022/05/13",
             "groups":["oraton"]
             },
@@ -549,7 +549,7 @@
                 "alias":"Vick","name":"Victor Umber","month":"04","day":"03","year":"2000","pronouns":"They/He","gender":"Nonbinary","orientation":"Lesbian","species":"Umbreon","occupation":"Mechanic","residence":"Evergreen, USA"
                 },
             "icon":"https://aineop.neocities.org/images/victorthumb.png","fullbody":"https://files.catbox.moe/bvh7wt.png","link":"/universe/characters/victor.html",
-            "description":"Vick is an Umbreon. They are a mechanic. He lives with Avery.",
+            "description":"Vick is an umbreon. He is Avery's roommate. They are a mechanic.",
             "created":"2023/04/03",
             "groups":[]
             },
@@ -558,7 +558,7 @@
                 "alias":"Avery","name":"Avery Snyder","month":"06","day":"27","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Leafeon","residence":"Evergreen, USA"
                 },
             "icon":"https://aineop.neocities.org/images/averythumb.png","fullbody":"https://files.catbox.moe/p589gf.png","link":"/universe/characters/avery.html",
-            "description":"Avery is a Leafeon. He lives with Victor.",
+            "description":"Avery is a leafeon. He is Victor's roommate.",
             "created":"2020/06/27",
             "groups":["snyder"]
             },
@@ -576,7 +576,7 @@
                 "alias":"Crys","name":"Crystal Sunstone","month":"09","day":"27","year":"","pronouns":"She/They","gender":"Female","species":"Bug-cat","residence":"Evergreen, USA"
                 },
             "icon":"https://files.catbox.moe/9sfcqv.png","fullbody":"https://files.catbox.moe/op4nph.png","link":"/universe/characters/crystal.html",
-            "description":"Crys is half of a cat and half of an unknown type of bug. She is transginger.",
+            "description":"Crys is half of a cat and half of an unknown type of bug. She is transgender.",
             "created":"2024/09/27",
             "groups":[]
             },
@@ -585,7 +585,7 @@
                 "alias":"Maureen","name":"Maureen Willowbrook","month":"04","day":"02","year":"2000","pronouns":"She/They","gender":"Nonbinary","orientation":"Bisexual","species":"Cat","occupation":"Emergency Medical Technician","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/zkqwot.png","fullbody":"https://files.catbox.moe/ktrtmd.png","link":"/universe/characters/maureen.html",
-            "description":"Maureen is a cat.",
+            "description":"Maureen is a cat. She likes white pizza and mocha mint iced coffee. She is an emergency medical technician.",
             "created":"2025/04/02",
             "groups":["willowbrook","radia"]
             },
@@ -594,7 +594,7 @@
                 "alias":"Alice","name":"Alice Willowbrook","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Criminal","residence":"United States"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Alice is Maureen's mother. She is... a cat. She is a notorious criminal in Radia, and she is often referred to as 'Alice The Shooter'.",
+            "description":"Alice is a cat. She was a notorious criminal in Radia, and she is often referred to as 'Alice The Shooter'. She is Maureen's mother.",
             "created":"2025/04/02",
             "groups":["willowbrook","radia"]
             },
@@ -612,7 +612,7 @@
                 "alias":"Flam","name":"Flam Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Cat","occupation":"Pirate","residence":"Succaneer Isles"
                 },
             "icon":"https://files.catbox.moe/29fen1.png","fullbody":"https://files.catbox.moe/29fen1.png","link":"",
-            "description":"Flam is a cat who worked as a captain for pirate ships from the Succaneer Isles. He died by gears grinding in April 1918.",
+            "description":"Flam is a cat. He worked as a captain for pirate ships from the Succaneer Isles. He died by gears grinding in April 1918.",
             "created":"2023/06",
             "groups":[]
             },
@@ -621,7 +621,7 @@
                 "alias":"Rivers","name":"Rivers Bedrock Wida-Es","month":"06","day":"23","year":"1999","pronouns":"He/They","gender":"Male","orientation":"Gay","species":"Dog","occupation":"Slut","residence":"Radia, CT"
                 },
             "icon":"https://files.catbox.moe/tizmyy.png","fullbody":"https://files.catbox.moe/1aq9y5.png","link":"/universe/characters/rivers.html",
-            "description":"Rivers was a pink dog from California, who then moved to Radia, CT. He was killed by Cypress in September 2020.",
+            "description":"Rivers was a pink dog. He was not just man's best friend, but Cypress' best friend. Unfortunately, they killed him in September 2020.",
             "created":"2023/11/23",
             "groups":["radia"]
             },
@@ -630,7 +630,7 @@
                 "alias":"Jeremiah","name":"Jeremiah Newton","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Robot Engineer","residence":"2233 Ouwania Avenue, Friendship City, CT","height":"6'6"
                 },
             "icon":"https://files.catbox.moe/pncwf1.png","fullbody":"https://sribbles.neocities.org/images/jeremiah.png","link":"/universe/characters/jeremiah.html",
-            "description":"Jeremiah is an engineer who builds robots. He takes medication from a local herb store to take care of his mental illness.",
+            "description":"Jeremiah is a human. He is an engineer who builds robots. He takes medication from a local herb store to take care of his mental illness.",
             "created":"2016",
             "groups":["futurists","newton"]
             },
@@ -639,7 +639,7 @@
                 "alias":"Jimmy","name":"Charlie James Newton","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Robot Engineer","residence":"2233 Ouwania Avenue, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/a9ti78.png","fullbody":"https://files.catbox.moe/hjscr5.png","link":"/universe/characters/jimmy.html",
-            "description":"Jimmy is an engineer who builds robots. He loves animals and nature.",
+            "description":"Jimmy is a human. He is an engineer who builds robots. He loves animals and nature.",
             "created":"2016",
             "groups":["futurists","newton"]
             },
@@ -648,7 +648,7 @@
                 "alias":"Raby","name":"Raby Chiz","month":"08","day":"20","year":"1994","pronouns":"She/Her","gender":"Female","species":"Cyborg","occupation":"Robot Engineer and Bus Mechanic","residence":"2233 Ouwania Avenue, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/0e3ujs.png","fullbody":"https://files.catbox.moe/0e3ujs.png","link":"/universe/characters/raby.html",
-            "description":"Raby is a block creature. She used to be a human named Rosalind.",
+            "description":"Raby is a block creature. She used to be a human named Rosalind. She is an engineer.",
             "created":"2022/08",
             "groups":["futurists"]
             },
@@ -657,7 +657,7 @@
                 "alias":"Rocket","name":"Rosalind Orville Aipodo Rondeau","month":"07","day":"02","year":"1970","pronouns":"She/Her","gender":"Female","species":"Human","occupation":"College Student","residence":"Massachusetts, USA"
                 },
             "icon":"https://files.catbox.moe/u7a88b.png","fullbody":"https://files.catbox.moe/u7a88b.png","link":"/universe/characters/raby.html",
-            "description":"Rocket is not a block creature. She was rebuilt into Raby by Jimmy after being charred in a house fire. She didn't join the futurists until after the fire.",
+            "description":"Rocket was a human. She was charred into unrecognizable remains in 1994. She was rebuilt into Raby by Jimmy afterwards, and then joined the Futurists.",
             "created":"2023/08",
             "groups":["futurists"]
             },
@@ -666,7 +666,7 @@
                 "alias":"Pad","name":"Pad","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Menstrual Pad","residence":"2233 Ouwania Avenue, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/xht8qp.png","fullbody":"https://sribbles.neocities.org/images/evilpad.png","link":"",
-            "description":"Pad was once a re-usable pad for Aslarvanillamor, a giant. Once Pad stopped being absorbant, the giant abandoned him in favor of Tampon. He has become enemies with Tampon. In 1659, he was killed in Mount Friday by mega Raby.",
+            "description":"Pad was a pad. He was a re-usable pad for Aslarvanillamor, the queen of Connecticut. Once Pad stopped being absorbant, she abandoned him in favor of Tampon. He has become enemies with Tampon. In 1659, he was killed in Mount Friday by mega Raby.",
             "created":"2022/08/12",
             "groups":["futurists","radia"]
             },
@@ -675,7 +675,7 @@
                 "alias":"Jeck","name":"Jeck Havoc","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Robot","residence":"2233 Ouwania Avenue, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/10zob1.png","fullbody":"https://files.catbox.moe/10zob1.png","link":"",
-            "description":"Jeck is a robot built by Jeremiah and Jimmy. He often gets destroyed in accidents.",
+            "description":"Jeck is a robot. He was built by Jeremiah and Jimmy. He often gets destroyed in accidents.",
             "created":"2020/02",
             "groups":["futurists"]
             },
@@ -684,7 +684,7 @@
                 "alias":"Runchie","name":"Aventi LaReedyrunch","month":"04","day":"17","year":"","pronouns":"He/Him","gender":"Male","species":"Cat","residence":"2233 Ouwania Avenue, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/cnyn68.png","fullbody":"https://files.catbox.moe/mx6nhr.png","link":"",
-            "description":"Runchy, also called Reed and Aventi, is a little cat. He causes many problems due to his insecurities from being unable to skip stones. This is quite embarrasing, since he was born in Stoneskippersville, Dexterchussets.",
+            "description":"Runchie is a cat. He causes many problems due to his insecurities from being unable to skip stones. This is quite embarrasing, since he was born in Stoneskippersville, Dexterchussets.",
             "created":"2025/04/17",
             "groups":["futurists"]
             },
@@ -693,7 +693,7 @@
                 "alias":"Rohr","name":"Rohr Postman","month":"12","day":"17","year":"","pronouns":"He/Him","gender":"Male","species":"Victini","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/qi1xjw.png","fullbody":"https://files.catbox.moe/74trsq.png","link":"",
-            "description":"Rohr is a victini. He is the mechanic and scientist of the group.",
+            "description":"Rohr is a victini. He is the mechanic and scientist of the Pastors.",
             "created":"2022/08",
             "groups":["pastors"]
             },
@@ -711,7 +711,7 @@
                 "alias":"Ned","name":"Ned Spuun","month":"12","day":"25","year":"","pronouns":"He/Him","gender":"Male","species":"Humanoid","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/02hj8y.png","fullbody":"https://files.catbox.moe/q0urt3.png","link":"",
-            "description":"Ned is a person with a ear cleaner shaped head. He is the leader of The Pastors.",
+            "description":"Ned is a humanoid with a ear cleaner shaped head. He is the leader of The Pastors.",
             "created":"2022/08",
             "groups":["pastors"]
             },
@@ -720,7 +720,7 @@
                 "alias":"Jon","name":"Juke Jon","month":"05","day":"15","year":"","pronouns":"He/Him","gender":"Male","species":"Robot","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/jdcvqe.png","fullbody":"https://files.catbox.moe/8lh2hl.png","link":"",
-            "description":"When Ned and Jerry wanted to have a child, they tried turning one of their sperm into a living being. This resulted in Juke Jon and another sperm derived organism who was seen chasing Moh.",
+            "description":"Jon is a robot. When Ned and Jerry wanted to have a child, they tried turning one of their sperm into a living being. This resulted in Juke Jon and another sperm derived organism who was seen chasing Moh.",
             "created":"2022/08",
             "groups":["pastors"]
             },
@@ -729,7 +729,7 @@
                 "alias":"Jerry","name":"Jerry Spuun","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/sqg10z.png","fullbody":"https://files.catbox.moe/5w5d56.png","link":"",
-            "description":"Third triplet of Jeremiah and Jimmy. His husband is Ned Spuun. He studied finance and economics in university.",
+            "description":"Jerry is a human. He is the third triplet of Jeremiah and Jimmy. His husband is Ned Spuun. He studied finance and economics in university.",
             "created":"2023/11/11",
             "groups":["pastors","newton"]
             },
@@ -738,7 +738,7 @@
                 "alias":"Amulet","name":"Amulet Viscera","month":"10","day":"19","year":"1919","pronouns":"Any","gender":"Nonbinary","species":"Cat","occupation":"Mortuitistic Scientist and Funny","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/s08idx.png","fullbody":"https://files.catbox.moe/xndzrh.png","link":"/universe/characters/amulet.html",
-            "description":"Ammie is a gorey creature who is constantly in pain. This is because he was brutally mauled by riot police at a peaceful protest. She likes Rush. In fact, she really likes him - she has a crush on him. Wait, no. I mean, She likes Rush. Rush is her favorite band. You know, the one from Canada. Whew, that was embarrasing!",
+            "description":"Amulet is a cat. Because of her physical condition, she is constantly in pain.",
             "created":"2025/10/19",
             "groups":["pastors"]
             },
@@ -774,7 +774,7 @@
                 "alias":"Mr. Lock","name":"Edward Patrick McMile","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/adhm63.png","fullbody":"https://files.catbox.moe/30xloj.png","link":"",
-            "description":"He is a self proclaimed villain who has a major obsession with keys. He puts keys on omlettes and eats them and then chokes on them. He has a food truck van and a helicopter that's shaped like a key. His goal in life is to move to Southeast Pennsylvania.",
+            "description":"Mr. Lock is a self proclaimed villain who has a major obsession with keys. He puts keys on omlettes and eats them and then chokes on them. He has a food truck van and a helicopter that's shaped like a key. His goal in life is to move to Southeast Pennsylvania.",
             "created":"2012",
             "groups":["scf"]
             },
@@ -783,7 +783,7 @@
                 "alias":"Dave","name":"David Aach","month":"11","day":"08","year":"1978","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Human","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/3b3b8m.png","fullbody":"https://files.catbox.moe/kkheqp.png","link":"",
-            "description":"Dave is a human creature with block features. He was born in Mount Friday. He is Maureen's father",
+            "description":"Dave is a human creature with block features. He was born in Mount Friday. He is Maureen's father. Before becoming a hitman, he was a social activist in northwestern Connecticut.",
             "created":"2016",
             "groups":["scf","radia","willowbrook"]
             },
@@ -801,7 +801,7 @@
                 "alias":"Eddie","name":"Oswald Edibar Jr.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Ralts","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/g4ioki.png","fullbody":"https://files.catbox.moe/7uq5h6.png","link":"",
-            "description":"Edibar Junior is a Ralts with forks for arms. He is Edibar's son. He made Erozon to cope with the absence of his father.",
+            "description":"Edibar Junior is a Ralts. He has forks for arms. He is Edibar's son. He made Erozon to cope with the absence of his father.",
             "created":"2023/12",
             "groups":["scf"]
             },
@@ -810,7 +810,7 @@
                 "alias":"Edibar","name":"Oswald Edibar","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"His left arm is a fork. His SCF outfit is a mushroom. He was taken by a rival group after a battle and was never seen since. SCF is trying to get him back. His wife is a Gardevoir.",
+            "description":"Edibar is a human. His left arm is a fork. His SCF outfit is a mushroom. He was taken by a rival group after a battle and was never seen since. SCF is trying to get him back. His wife is a Gardevoir.",
             "created":"2019/06",
             "groups":["scf"]
             },
@@ -819,7 +819,7 @@
                 "alias":"Bee","name":"Bee Kellap","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Dragonite","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/pomynf.png","fullbody":"https://files.catbox.moe/ecnvxi.png","link":"",
-            "description":"Bee is a dragonite with hair. He is often working out and stuck in traffic. The width of his penis roughly is the same as Sepitina's head.",
+            "description":"Bee is a dragonite. He has hair. He is often working out and stuck in traffic. The width of his penis roughly is the same as Sepitina's head.",
             "created":"2019/06",
             "groups":["scf"]
             },
@@ -828,7 +828,7 @@
                 "alias":"Novic","name":"Novic","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Victini","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/zp6204.png","fullbody":"https://files.catbox.moe/zv8v8p.png","link":"",
-            "description":"He is a deformed victini who was orphaned by his parents as a result... He died on January 13, 2025 due to complications.",
+            "description":"Novic was a victini. Due to his deformed nature, he was orphaned by his parents as a result. He died on January 13, 2025 due to complications.",
             "created":"2019/06",
             "groups":["scf"]
             },
@@ -837,7 +837,7 @@
                 "alias":"Marze","name":"Marze Zozvy","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Springfield, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Marze is a professor at Micheal Spring's Chocolate University. He is known for building robots, including Jeck. He is well known by Bee Kellap. Marze isn't actually part of SCF.",
+            "description":"Marze is currently known to be a human. He is a professor at Micheal Spring's Chocolate University. He is known for building robots, including Jeck. He is well known by Bee Kellap. Marze isn't actually part of SCF.",
             "created":"2025/03/23",
             "groups":["mscu"]
             },
@@ -846,7 +846,7 @@
                 "alias":"Dan","name":"Daniel Glenfruit","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Tiger","residence":"13 Badger St, Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Daniel is a stupid tiger. His name is also stupid.",
+            "description":"Dan is a tiger. He has tentacles coming out of his head. This is because he ate a donut tainted by enemies.",
             "created":"2016",
             "groups":["joesbees"]
             },
@@ -855,7 +855,7 @@
                 "alias":"Rina","name":"Katerina Sinclair","month":"01","day":"09","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","residence":"13 Badger St, Friendship City, CT"
                 },
             "icon":"/images/ico_rina_01.png","fullbody":"https://files.catbox.moe/1dtmwu.png","link":"",
-            "description":"Rina is a white cat who has never been Danny's girlfriend ever since Danny became a Donut Snatcher. She runs the Sharia Lair, where she tries to harness the power of the demigods of the Solar System: Vinnie, Addie, and Sackie.",
+            "description":"Rina is a white cat. She runs the Sharia Lair, where she tries to harness the power of the demigods of the Solar System: Vinnie, Addie, and Sackie.",
             "created":"2016",
             "groups":["joesbees"]
             },
@@ -864,7 +864,7 @@
                 "alias":"Cleveland","name":"Cleveland White","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"He is a rough white male.",
+            "description":"Cleveland is a human. He is rough.",
             "created":"2022/08",
             "groups":["joesbees"]
             },
@@ -873,7 +873,7 @@
                 "alias":"Bin","name":"Bin","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pudd Bunny","residence":"13 Badger St, Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Bin is a poo bunny who was formerly the pet of Terry. There is a replica of Bin made by the Futurists. He is friends with Liam and Martha.",
+            "description":"Bin is a poo bunny. He was formerly the pet of Terry. There is a replica of Bin made by the Futurists. He is friends with Liam and Martha.",
             "created":"2019/11",
             "groups":["joesbees"]
             },
@@ -882,7 +882,7 @@
                 "alias":"Erozon","name":"Erozon","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Monster","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Ezoron is a crosont monster who was once Edibar's pet.",
+            "description":"Ezoron is a crosont monster. He was once Edibar's pet.",
             "created":"2023/11/20",
             "groups":["joesbees"]
             },
@@ -891,7 +891,7 @@
                 "alias":"Aster","name":"Aster Kawiestmoda","month":"02","day":"11","year":"2001","pronouns":"He/Him","gender":"Male","orientation":"Aromantic Asexual","species":"Bat","occupation":"Bassist for CAF and Employee for K-Club","residence":"Arthur City, NY","height":"5'8"
                 },
             "icon":"https://files.catbox.moe/lf6aw4.png","fullbody":"https://files.catbox.moe/mykbmi.png","link":"/universe/characters/aster.html",
-            "description":"Aster is a bat. He is Glider's older brother. He is trans. He is the bassist.",
+            "description":"Aster is a bat. He is Glider's older brother. He is trans. He is the bassist for CAF.",
             "created":"2024/04/08",
             "groups":["caf","kawiestmoda"]
             },
@@ -900,7 +900,7 @@
                 "alias":"Eclipse","name":"Eclipse Faecervine","month":"04","day":"08","year":"1996","pronouns":"She/Her","gender":"Nonbinary","orientation":"Lesbian","species":"Jirachi","occupation":"Vocalist for CAF and Veterinarian Technician","residence":"Arthur City, NY","height":"5'9","weight":"155 lbs"
                 },
             "icon":"https://files.catbox.moe/q6g1yv.png","fullbody":"https://files.catbox.moe/owhdwn.png","link":"/universe/characters/eclipse.html",
-            "description":"Eclipse, a Jirachi, is the frontman of CAF. She is nonbinary.",
+            "description":"Eclipseis a jirachi. She is the frontman of CAF. She is nonbinary.",
             "created":"2024/04/08",
             "groups":["caf"]
             },
@@ -909,7 +909,7 @@
                 "alias":"Peggy","name":"Pegasus Nyukasa","month":"09","day":"06","year":"2000","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Vaporeon","occupation":"Drummer for CAF and Garbage truck driver","residence":"Arthur City, NY","height":"5'5"
                 },
             "icon":"https://files.catbox.moe/xgblad.png","fullbody":"https://files.catbox.moe/ae9ni6.png","link":"/universe/characters/peggy.html",
-            "description":"Peggy is a lesbian vaporeon. She is the drummer.",
+            "description":"Peggy is a vaporeon. She is the drummer for CAF.",
             "created":"2024/04/08",
             "groups":["caf","nyukasa"]
             },
@@ -918,7 +918,7 @@
                 "alias":"Mose","name":"Tigna Waterson Mose","month":"11","day":"11","year":"","pronouns":"He/Him","gender":"Male","species":"Alien","occupation":"Professor at Friendship University and Director of Mose's Lab","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/b127a0.png","fullbody":"https://files.catbox.moe/r6im2l.png","link":"/universe/characters/mose.html",
-            "description":"When he was a baby, he was a nasty naked cat. He made minions and his lab assistant was Comet. He may or may not have done experiments on Comet.",
+            "description":"Mose is an alien from outer space. He currently serves as the director of a lab for Friendship University.",
             "created":"2022/10",
             "groups":["mose_lab","fu"]
             },
@@ -927,7 +927,7 @@
                 "alias":"Gustavo","name":"Gustavo Gatito Gosango","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Gustavo is Mose's general assistant. His last name comes from DanTDM saying \"go sand go\" in Crazy Craft episode 11.",
+            "description":"Gustavo is a human. He is Mose's general assistant. His last name comes from DanTDM saying \"go sand go\" in Crazy Craft episode 11.",
             "created":"2024/07",
             "groups":["mose_lab"]
             },
@@ -936,7 +936,7 @@
                 "alias":"Far","name":"Far","month":"","day":"","year":"","pronouns":"Any","gender":"Nonbinary","species":"Flareon-Espeon","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/prT3P8t2/far.png","fullbody":"https://i.postimg.cc/prT3P8t2/far.png","link":"",
-            "description":"Far is a lab assistant.",
+            "description":"Far is a flareon-espeon hybrid. He is Mose's lab assistant.",
             "created":"2022/12",
             "groups":["mose_lab"]
             },
@@ -945,7 +945,7 @@
                 "alias":"Silver","name":"Silver Stoublare","month":"09","day":"14","year":"1999","pronouns":"He/Him","gender":"Male","species":"Human-Umbreon","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/wjlttg.png","fullbody":"https://files.catbox.moe/vauyos.png","link":"",
-            "description":"Silver is a Lynn shaped umbreon with a Lynn shaped nose. WTF? Yes, you're right. His mother was a 14 year old umbreon who was raped by Piq-Al-Eni, one of Lynn's uncles.",
+            "description":"Silver is an umbreon-human hybrid. His father is Piq-Al-Eni and mother is a poor umbreon. He is affiliated with Mose's Lab.",
             "created":"2022/09/14",
             "groups":["mose_lab"]
             },
@@ -954,7 +954,7 @@
                 "alias":"Colette","name":"Colette Deveraux","month":"10","day":"22","year":"1983","pronouns":"She/They/It","gender":"Nonbinary","species":"CD Creature","occupation":"Robot Mechanic","residence":"Friendship City, CT","height":"5'0"
                 },
             "icon":"https://files.catbox.moe/4ke1hz.png","fullbody":"https://files.catbox.moe/254omk.png","link":"/universe/characters/colette.html",
-            "description":"Colette is a shiny creature. She works on Mose's army of cats and minions.",
+            "description":"Colette is an alien from outer space. She is the general caretaker for Mose's army of cats and minions.",
             "created":"2025/09",
             "groups":["mose_lab"]
             },
@@ -963,7 +963,7 @@
                 "alias":"Gabriel","name":"Gabriel Amassi Kabbi","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Police Officer","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/dyi94v.png","fullbody":"https://files.catbox.moe/t0d3l5.png","link":"",
-            "description":"Gabriel is an FCPD police officer with no collarbone. He is a weeb. He is the de facto police commissioner for the FCPD.",
+            "description":"Gabriel is a human. He was born without a collarbone. He is a weeb. He is the de facto police commissioner for the FCPD.",
             "created":"2022/08",
             "groups":["fcpd"]
             },
@@ -972,7 +972,7 @@
                 "alias":"Sheila","name":"Sheila Gretchen","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Human","occupation":"Police Officer","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/zlimfc.png","fullbody":"https://files.catbox.moe/ht0bba.png","link":"",
-            "description":"Sheila is a plus sized woman.",
+            "description":"Sheila is a human. She is a police officer for the FCPD. She may have the ability to turn into a spider at will.",
             "created":"2022/08",
             "groups":["fcpd"]
             },
@@ -981,7 +981,7 @@
                 "alias":"Cane","name":"Whit Caneyhopter","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Police Officer","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Whitcaneyhopter is an FCPD police officer. His head is shaped like a tampon, and Gabriel makes fun of him for it.",
+            "description":"Whitcaneyhopter is a human. He is a FCPD police officer. His head is shaped like a tampon, and Gabriel makes fun of him for it.",
             "created":"2023",
             "groups":["fcpd"]
             },
@@ -990,7 +990,7 @@
                 "alias":"Hamison","name":"Hamison Arthur","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Vocalist for Jiva Jinotice","residence":"United States"
                 },
             "icon":"https://files.catbox.moe/gjacrv.png","fullbody":"https://files.catbox.moe/k10wdn.png","link":"",
-            "description":"He is the vocalist of Jiva Jinotice. He is bisexual.",
+            "description":"Ham is a human. He is the vocalist of Jiva Jinotice. He is bisexual.",
             "created":"2020",
             "groups":["jiva_jinotice"]
             },
@@ -999,7 +999,7 @@
                 "alias":"Laiah","name":"Laiah Zaiope","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Human","occupation":"Guitarist and Vocalist for Jiva Jinotice","residence":"Seattle, WA"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"She is an Australian trans woman who was born and raised in Atlantic City. She was a guitarist and vocalist for Jiva Jinotice. She moved to Seattle in 2005. She died in her apartment in December 2019. Her death is rumored to be caused by supernatural means.",
+            "description":"Laiah is a human. She is an Australian trans woman who was born and raised in Atlantic City. She was a guitarist and vocalist for Jiva Jinotice. She moved to Seattle in 2005. She died in her apartment in December 2019. Her death is rumored to be caused by supernatural means.",
             "created":"2020",
             "groups":["jiva_jinotice"]
             },
@@ -1008,7 +1008,7 @@
                 "alias":"Beui","name":"Beui Antodaler","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Human","occupation":"Keyboardist and Guitarist for Jiva Jinotice","residence":"United States"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"She is a lesbian keyboardist and guitarist for Jiva Jinotice.",
+            "description":"Beui is a human. She is the keyboardist and guitarist for Jiva Jinotice. She is a lesbian.",
             "created":"2020",
             "groups":["jiva_jinotice"]
             },
@@ -1017,7 +1017,7 @@
                 "alias":"Toon","name":"Toon Palmer","month":"","day":"","year":"","pronouns":"They/Them","gender":"Nonbinary","species":"Human","occupation":"Bassist for Jiva Jinotice","residence":"United States"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"They are a bassist for Jiva Jinotice. They are nonbinary.",
+            "description":"Toon is a human. They are a bassist for Jiva Jinotice. They are nonbinary.",
             "created":"2020",
             "groups":["jiva_jinotice"]
             },
@@ -1044,7 +1044,7 @@
                 "alias":"Jack","name":"Jackson George Newton","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Theoretical Physicist","residence":"Cambridge, MA"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"He is the father of Jeremiah, Jimmy, and Jerry. He has a degree in theoretical physics and the arts. This is why he married a clown.",
+            "description":"Jack is the father of Jeremiah, Jimmy, and Jerry. He has a degree in theoretical physics and the arts. This is why he married a clown.",
             "created":"2023/11",
             "groups":["newton"]
             },
@@ -1080,7 +1080,7 @@
                 "alias":"Fern","name":"Fern Silva","month":"06","day":"16","year":"2007","pronouns":"She/Her","gender":"Female","species":"Vulpix","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Vulpix. She is obsessed with the idea of being a twin, and calls herself Char to be more like Tarr, and she copies everything Tarr does. Tarr hates this.",
+            "description":"Fern is a vulpix. She is obsessed with the idea of being a twin, and calls herself Char to be more like Briar, and she copies everything Briar does. Briar hates this.",
             "created":"2023/11",
             "groups":["silva"]
             },
@@ -1089,7 +1089,7 @@
                 "alias":"Plainwood","name":"Plainwood Hills","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Vulpix","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Plainwood is Pinewood's mother. She has a history of alcohol abuse. She is often drunk and therefore kicked out of the home, and mostly just roams the area woods. She is effectively absent.",
+            "description":"Plainwood is a vulpix. She is Pinewood's mother. She has a history of alcohol abuse. She is often drunk and therefore kicked out of the home, and mostly just roams the area woods. She is effectively absent.",
             "created":"2022/07",
             "groups":["hills"]
             },
@@ -1098,7 +1098,7 @@
                 "alias":"Threetails","name":"Threetails Hills","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Vulpix","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Threetails is Pinewood's father. He is lazy and often neglects Pinewood. He once asked Pinewood to get him a food truck burrito and if she didn't, he wouldn't feed her.",
+            "description":"Threetails is a vulpix. He is Pinewood's father. He is lazy and often neglects Pinewood. He once asked Pinewood to get him a food truck burrito and if she didn't, he wouldn't feed her.",
             "created":"2019/06",
             "groups":["hills"]
             },
@@ -1107,7 +1107,7 @@
                 "alias":"Anna","name":"Anna Gunby","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Meowstic","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269634?1659124047","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Anna is Martha and Murray's mother.",
+            "description":"Anna is a meowstic. She is Martha and Murray's mother.",
             "created":"2019/06",
             "groups":["gunby"]
             },
@@ -1116,7 +1116,7 @@
                 "alias":"Ed","name":"Edward Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Espurr","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269723?1659124537","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Ed is Martha's cousin (Duncan's son). Ed is deaf.",
+            "description":"Ed is an espurr. He is Martha's cousin (Duncan's son). He is deaf.",
             "created":"2019/06",
             "groups":["gunby"]
             },
@@ -1134,7 +1134,7 @@
                 "alias":"Elena","name":"Elena Gunby","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Espurr","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269651?1659124166","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Elena is Martha's little sister. She likes to come with Martha and Liam on recreational trips. Sometimes they'd go with Liam's little brother Leon. Elena may get in trouble.",
+            "description":"Elena is an espurr. She is Martha's little sister. She likes to come with Martha and Liam on recreational trips. Sometimes they'd go with Liam's little brother Leon. Elena may get in trouble.",
             "created":"2019/06",
             "groups":["gunby"]
             },
@@ -1152,7 +1152,7 @@
                 "alias":"Jo","name":"Joshua Kenny","month":"02","day":"02","year":"2003","pronouns":"He/Him","gender":"Male","species":"Vaporeon","occupation":"College Student","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269329?1659122801","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Jo is a horned Vaporeon. He is a chill and nice guy. He reads books and plays on his Switch. He is Liam's brother.",
+            "description":"Jo is a vaporeon. He has horns. He is a chill and nice guy. He reads books and plays on his Switch. He is Liam's brother.",
             "created":"2019/06",
             "groups":["kennivari"]
             },

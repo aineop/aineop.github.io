@@ -1,5 +1,33 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/6TYXthJp","thumbnail":"https://i.postimg.cc/DyKyQCxL/rammstein.png",
+            "artist":"CoMo","month":"06","day":"02","year":"2026",
+            "title":"Sigh",
+            "caption":"What do you want.",
+            "description":"",
+            "tags":["ram","sribbles"]},
+
+          {"link":"https://postimg.cc/MMY8c7ng","thumbnail":"https://i.postimg.cc/4dD4Sws4/cypress-silly-moth-123-2026.png",
+            "artist":"silly-moth-123","month":"06","day":"02","year":"2026",
+            "title":"Cypress",
+            "caption":"Cypress with their umbrella!",
+            "description":"",
+            "tags":["cypress","sribbles","gift_from_others"]},
+                
+          {"link":"https://postimg.cc/PvMxwWjn","thumbnail":"https://i.postimg.cc/GtWs6Kgt/ash127.png",
+            "artist":"CoMo","month":"06","day":"01","year":"2026",
+            "title":"Cat In The Cheese Hat",
+            "caption":"127 and still going strong!",
+            "description":"",
+            "tags":["ash","sribbles"]},
+
+          {"link":"https://artfight.net/~Joy_Wonders","thumbnail":"https://i.postimg.cc/vZL6SWW0/cedar-Joy-Wonders-2026.png",
+            "artist":"Joy_Wonders","month":"06","day":"01","year":"2026",
+            "title":"Cedar",
+            "caption":"Happy pride!",
+            "description":"",
+            "tags":["cedar","cojuverse","gift_from_others"]},
+                
           {"link":"https://postimg.cc/bsJcK69D","thumbnail":"https://i.postimg.cc/rFGVR3dJ/cypress-drive.png",
             "artist":"CoJu","month":"05","day":"30","year":"2026",
             "title":"Drive",

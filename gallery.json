@@ -1,5 +1,33 @@
 {"digital_art":
-        [       
+        [
+          {"link":"https://postimg.cc/0bkSFTFN","thumbnail":"https://i.postimg.cc/J4JQDmQj/waynesagebeingboys.png",
+            "artist":"CoMo","month":"06","day":"04","year":"2026",
+            "title":"Best Birthday Ever",
+            "caption":"Boys being boys.",
+            "description":"",
+            "tags":["sage","wayne","sribbles"]},
+                
+          {"link":"https://postimg.cc/xcfmhwhT","thumbnail":"https://i.postimg.cc/7Y7NGDN7/waynewater.png",
+            "artist":"CoMo","month":"06","day":"04","year":"2026",
+            "title":"Beating The Heat",
+            "caption":"Wayne with a rainbow fan.",
+            "description":"",
+            "tags":["wayne","sribbles"]},
+                
+          {"link":"https://postimg.cc/D8vGH9Hw","thumbnail":"https://i.postimg.cc/VLMFr1Fn/rydercasual.png",
+            "artist":"CoMo","month":"06","day":"04","year":"2026",
+            "title":"Casual",
+            "caption":"Out in the snow in pajamas.",
+            "description":"",
+            "tags":["ryder","sribbles"]},
+                
+          {"link":"https://postimg.cc/LgR9YMLT","thumbnail":"https://i.postimg.cc/yx3kG1Nw/crab-doing-something.png",
+            "artist":"CoJu","month":"06","day":"04","year":"2026",
+            "title":"Oh Crab!",
+            "caption":"Crab doing something.",
+            "description":"",
+            "tags":["crab","cojuverse"]},
+                
           {"link":"https://postimg.cc/DS9WzzP1","thumbnail":"https://i.postimg.cc/JhnjPDyY/reba-birthday.png",
             "artist":"CoJu","month":"06","day":"03","year":"2026",
             "title":"Happy Birthday",
@@ -7452,7 +7480,7 @@
             "description":"",
             "tags":["liam","sribbles"]},
                 
-            {"link":"https://postimg.cc/DSWzmrm3","thumbnail":"https://i.postimg.cc/YCRLn8H0/ramref.png",
+            {"link":"https://postimg.cc/4KxVvpGv","thumbnail":"https://i.postimg.cc/g0vsWKB7/ramref-1.png",
             "artist":"CoJu","month":"01","day":"24","year":"2026",
             "title":"Ram's Reference",
             "caption":"",

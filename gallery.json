@@ -1,5 +1,47 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/qgpLqRQP","thumbnail":"https://i.postimg.cc/FFLnPkSH/joeybathrobe.png",
+            "artist":"CoMo","month":"06","day":"10","year":"2026",
+            "title":"Straight Outta The Shower",
+            "caption":"Joey is moist!",
+            "description":"",
+            "tags":["joey","sribbles"]},
+                
+          {"link":"https://postimg.cc/MfY3cfjw","thumbnail":"https://i.postimg.cc/NF33z1sK/waynepurr.png",
+            "artist":"CoMo","month":"06","day":"10","year":"2026",
+            "title":"Tomato Kitty Purr",
+            "caption":"Wayne is purring and stretching.",
+            "description":"",
+            "tags":["wayne","sribbles"]},
+                
+          {"link":"https://postimg.cc/7bqVh6m8","thumbnail":"https://i.postimg.cc/ryrYhR4m/liambeach.png",
+            "artist":"CoMo","month":"06","day":"09","year":"2026",
+            "title":"Sweaty And Sandy",
+            "caption":"Liam relaxing on the flag that he hangs in his room.",
+            "description":"",
+            "tags":["liam","sribbles"]},
+                
+          {"link":"https://postimg.cc/Yjt309bc","thumbnail":"https://i.postimg.cc/VsCH70tN/sagepride.png",
+            "artist":"CoMo","month":"06","day":"08","year":"2026",
+            "title":"I'm Not Afraid",
+            "caption":"Sage holds his flags!",
+            "description":"",
+            "tags":["sage","sribbles"]},
+                
+          {"link":"https://postimg.cc/GB1MjjPg","thumbnail":"https://i.postimg.cc/Bvjd4Yj3/paige-rain-periphery.png",
+            "artist":"CoJu","month":"06","day":"07","year":"2026",
+            "title":"Reptile",
+            "caption":"Paige tries to get Rain's attention.",
+            "description":"",
+            "tags":["rain","paige","cojuverse"]},
+
+          {"link":"https://postimg.cc/CdwN51JW","thumbnail":"https://i.postimg.cc/BZKwhPFQ/lydia67.png",
+            "artist":"CoMo","month":"06","day":"07","year":"2026",
+            "title":"Stupid Child",
+            "caption":"Lydia doing a weird hand gesture.",
+            "description":"",
+            "tags":["lydia","sribbles"]},
+                
           {"link":"https://postimg.cc/N5M8yNWJ","thumbnail":"https://i.postimg.cc/ncK3PgTJ/joey-be-sweet-to-me.png",
             "artist":"CoJu","month":"06","day":"06","year":"2026",
             "title":"Be Sweet To Joey",
@@ -42,7 +84,7 @@
             "description":"",
             "tags":["wayne","sribbles"]},
                 
-          {"link":"https://postimg.cc/D8vGH9Hw","thumbnail":"https://i.postimg.cc/VLMFr1Fn/rydercasual.png",
+          {"link":"https://postimg.cc/5jf3y0nW","thumbnail":"https://i.postimg.cc/59CkPQzy/rydercasual.png",
             "artist":"CoMo","month":"06","day":"04","year":"2026",
             "title":"Casual",
             "caption":"Out in the snow in pajamas.",
@@ -7382,6 +7424,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/dLsw586h","thumbnail":"https://i.postimg.cc/jdN2dcJ4/noelr2.png",
+            "artist":"CoMo","month":"06","day":"10","year":"2026",
+            "title":"Reference for Noel.",
+            "caption":"Note: the lineart was partially made in January 2025.",
+            "description":"",
+            "tags":["noel","sribbles"]},
+                
           {"link":"https://postimg.cc/LhvB8d0X","thumbnail":"https://i.postimg.cc/tCGrDp3h/nolanref2.png",
             "artist":"CoJu","month":"06","day":"06","year":"2026",
             "title":"Nolan's Reference",

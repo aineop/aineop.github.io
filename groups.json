@@ -1,0 +1,242 @@
+{
+    "informal":
+        [
+            {"name":"The AM","tag":"am","icon":"","link":"",
+            "description":"<p>The AM, short for Alcoholic Minors but it's actually not, is the main friend group from North Doubax Highschool.</p>"
+            },
+
+            {"name":"Seedwickers","tag":"seedwick","icon":"","link":"",
+            "description":"<p>People who live in Seedwick, CT. Mainly in and around Steel's house.</p>"
+            },
+
+            {"name":"The Radians","tag":"radia","icon":"","link":"",
+            "description":"<p>People who live or lived in or around Radia, CT.</p>"
+            },
+
+            {"name":"Counter Attack Force","tag":"caf",
+            "description":"<p>Counter Attack Force, often shortened to CAF, is a rock band from Arthur City.</p>"
+            },
+
+            {"name":"Offensive Content","tag":"offensive_content","icon":"","link":"",
+            "description":"<p>Offensive Content is a band from Amwulshiner, Evergreen.</p>"
+            },
+
+            {"name":"Jiva Jinotice","tag":"jiva_jinotice","icon":"","link":"",
+            "description":"<p>Jiva Jinotice is a band.</p>"
+            },
+
+            {"name":"Hoe Ambulance","tag":"hoe_ambulance","icon":"","link":"",
+            "description":"<p>Hoe Ambulance is a band. They released 'Super Big Nasty' on May 24, 1999 via Yoolahoohooboola Records.</p>"
+            },
+
+            {"name":"Lopsided Keyboard","tag":"lopsided_keyboard","icon":"","link":"",
+            "description":"<p>LSK is a band that consists of bunnies.</p>"
+            },
+
+            {"name":"Nobany","tag":"nobany","icon":"","link":"",
+            "description":"<p>Nobany is a band from Florida that released its critically aclaimed album 'It's How The Game Works' in 2012.</p>"
+            },
+
+            {"name":"North Doubax Highschoolers","tag":"ndhs","icon":"","link":"",
+            "description":"<p>Those who attend or attended North Doubax Highschool.</p>"
+            },
+
+            {"name":"Verr University","tag":"verr","icon":"","link":"",
+            "description":"<p>Those who are affiliated with Verr University.</p>"
+            },
+
+            {"name":"Friendship University","tag":"fu","icon":"","link":"",
+            "description":"<p>Those who are affiliated with Friendship University.</p>"
+            },
+
+            {"name":"Micheal Spring's Chocolate University","tag":"mscu","icon":"","link":"",
+            "description":"<p>Those who are affiliated with MSCU.</p>"
+            },
+
+            {"name":"Amwulshiner University","tag":"amwulshiner_university","icon":"","link":"",
+            "description":"<p>Those who are affiliated with Amwulshiner University.</p>"
+            },
+
+            {"name":"Princeton University","tag":"trois","icon":"","link":"",
+            "description":"<p>Those who are affiliated with Princeton University.</p>"
+            },
+
+            {"name":"Mose's Lab","tag":"mose_lab","icon":"","link":"",
+            "description":"<p>Mose, a professor at Friendship University, runs a lab.</p>"
+            },
+
+            {"name":"The Highland Park Crew","tag":"highland_park","icon":"","link":"",
+            "description":"<p>Those who live in Highland Park, NJ.</p>"
+            },
+
+            {"name":"New Jersey Transit Light Rail","tag":"njt_lr","icon":"","link":"",
+            "description":"<p>Creatures who resemble the light rail trains that run in New Jersey.</p>"
+            },
+
+            {"name":"Demigod Plot","tag":"demigod_plot","icon":"","link":"",
+            "description":"<p>Ten Man, Beryl, the Protectors, and the demigods.</p>"
+            },
+
+            {"name":"Demigods","tag":"demigod","icon":"","link":"",
+            "description":"<p>Those who are demigods.</p>"
+            },
+
+            {"name":"Joe's Bees","tag":"joesbees","icon":"","link":"",
+            "description":"<p>Joe's Bees is a group run by Nanika and Rina.</p>"
+            },
+
+            {"name":"Sepitina Chemotherapy Fund","tag":"scf","icon":"","link":"",
+            "description":"<p>SCF is a hitman group run by Sepitina and Kelp.</p>"
+            },
+
+            {"name":"The Futurists","tag":"futurists","icon":"","link":"",
+            "description":"<p>The Futurists is a robotics group run by Jeremiah and Jimmy.</p>"
+            },
+
+            {"name":"The Pastors","tag":"pastors","icon":"","link":"",
+            "description":"<p>The Pastors are an antitheist group run by Ned.</p>"
+            },
+
+            {"name":"Friendship City Police Department","tag":"fcpd","icon":"","link":"",
+            "description":"<p>Those who work for the FCPD.</p>"
+            },
+
+            {"name":"Legacy","tag":"legacy","icon":"","link":"",
+            "description":"<p>Characters who were made in 2010-2016.</p>"
+            },
+
+            {"name":"United States Government","tag":"us_gov","icon":"","link":"",
+            "description":"<p>Those who are politicians in the United States.</p>"
+            },
+
+            {"name":"Cherry Batter","tag":"cherry_batter","icon":"","link":"",
+            "description":"<p>Those who are involved in CoJu's up and coming webcomic, formerly known as Frigid Blood.</p>"
+            },
+
+            {"name":"The Highschoolers","tag":"the_highschoolers","icon":"","link":"",
+            "description":"<p>The Highschoolers, who were never known as The Fab Four, are four prominent characters who attended Anaica Highschool.</p>"
+            },
+
+            {"name":"Cyberdystopia","tag":"cyberdystopia","icon":"","link":"",
+            "description":"<p>Those who are involved in CoJu's other up and coming webcomic.</p>"
+            },
+
+            {"name":"The Snowstorm Mares","tag":"snowstorm_mares","icon":"","link":"",
+            "description":"<p>The Snowstorm Mares is a criminal gang based in Snowstorm.</p>"
+            }
+        ],
+    "family":
+        [
+            {"name":"The Albalury Family","tag":"albalury","icon":"","link":"",
+            "description":"<p>Nolan's family.</p>"
+            },
+
+            {"name":"The Ballston Family","tag":"ballston","icon":"","link":"",
+            "description":"<p>Ball's family.</p>"
+            },
+
+            {"name":"The Cupcake Family","tag":"cupcake","icon":"","link":"",
+            "description":"<p>Lit and Flingy's family.</p>"
+            },
+
+            {"name":"The Hills Family","tag":"hills","icon":"","link":"",
+            "description":"<p>Pinewood's family.</p>"
+            },
+
+            {"name":"The Silva Family","tag":"silva","icon":"","link":"",
+            "description":"<p>Oakwood's family.</p>"
+            },
+
+            {"name":"The Gunby Family","tag":"gunby","icon":"","link":"",
+            "description":"<p>Martha's family.</p>"
+            },
+
+            {"name":"The Kennivari Family","tag":"kennivari","icon":"","link":"",
+            "description":"<p>Liam's family.</p>"
+            },
+
+            {"name":"The Rahway Family","tag":"rahway","icon":"","link":"",
+            "description":"<p>Comet's family.</p>"
+            },
+
+            {"name":"The Trois Family","tag":"trois","icon":"","link":"",
+            "description":"<p>Arrow's family.</p>"
+            },
+
+            {"name":"The Oraton Family","tag":"oraton","icon":"","link":"",
+            "description":"<p>Sugar's family.</p>"
+            },
+
+            {"name":"The Culver Family","tag":"culver","icon":"","link":"",
+            "description":"<p>Rocky's family.</p>"
+            },
+
+            {"name":"The Mukherjee Family","tag":"mukherjee","icon":"","link":"",
+            "description":"<p>Nisha's family.</p>"
+            },
+
+            {"name":"The Glametal Family","tag":"glametal","icon":"","link":"",
+            "description":"<p>Carc's family.</p>"
+            },
+
+            {"name":"The Nyoucmo Family","tag":"nyoucmo","icon":"","link":"",
+            "description":"<p>Ree's family.</p>"
+            },
+
+            {"name":"The Butter Family","tag":"butter","icon":"","link":"",
+            "description":"<p>Pluto's family.</p>"
+            },
+
+            {"name":"The Shiffallooley Family","tag":"shiffallooley","icon":"","link":"",
+            "description":"<p>Umber and Mar's family.</p>"
+            },
+
+            {"name":"The Day Family","tag":"day","icon":"","link":"",
+            "description":"<p>Sandy and Lawrence's family.</p>"
+            },
+
+            {"name":"The Willowbrook Family","tag":"willowbrook","icon":"","link":"",
+            "description":"<p>Maureen's family.</p>"
+            },
+
+            {"name":"The Newton Family","tag":"newton","icon":"","link":"",
+            "description":"<p>Jeremiah and Jimmy's family.</p>"
+            },
+
+            {"name":"The Thornkill Family","tag":"thornkill","icon":"","link":"",
+            "description":"<p>Lydia's family.</p>"
+            },
+
+            {"name":"The Kawiestmoda Family","tag":"kawiestmoda","icon":"","link":"",
+            "description":"<p>Aster and Glider's family.</p>"
+            },
+
+            {"name":"The Nyukasa Family","tag":"nyukasa","icon":"","link":"",
+            "description":"<p>Peggy and Mieoru's family.</p>"
+            },
+
+            {"name":"The Snyder Family","tag":"snyder","icon":"","link":"",
+            "description":"<p>SNYDER? DUDE?</p>"
+            },
+
+            {"name":"The Caswell Family","tag":"caswell","icon":"","link":"",
+            "description":"<p>Jam's family.</p>"
+            },
+
+            {"name":"The Winter Family","tag":"winter","icon":"","link":"",
+            "description":"<p>Blair's family.</p>"
+            },
+
+            {"name":"The Pulster Family","tag":"pulster","icon":"","link":"",
+            "description":"<p>London's family.</p>"
+            },
+
+            {"name":"The Verglas Family","tag":"verglas","icon":"","link":"",
+            "description":"<p>Brooklyn's family.</p>"
+            },
+
+            {"name":"The Medvedev Family","tag":"medvedev","icon":"","link":"",
+            "description":"<p>Sid's family.</p>"
+            }
+        ]
+}

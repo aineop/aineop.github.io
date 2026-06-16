@@ -10,11 +10,15 @@
             },
 
             {"name":"The Radians","tag":"radia","icon":"","link":"",
-            "description":"<p>People who live or lived in or around Radia, CT.</p>"
+            "description":"<p>The Radians are characters who lived or grew up in and around Radia, CT. Radia is a former quarry. It was contaminated with a glowing green sauce of unknown properties. It was demolished by the Government of the United States in September 2025. Nearby are the towns of Neopreston and Terror, the latter of which is the home to Terror University. The area is west of Springfield, CT, home to Micheal's Chocolate Spring University.</p>"
+            },
+
+            {"name":"Lavallet","tag":"lavallet","icon":"","link":"",
+            "description":"<p>People who lived in Lavallet, VG.</p>"
             },
 
             {"name":"Counter Attack Force","tag":"caf",
-            "description":"<p>Counter Attack Force, often shortened to CAF, is a rock band from Arthur City.</p>"
+            "description":"<p>Counter Attack Force, often shortened to CAF, is a rock band from the neighborhood of Arlington in Arthur City, NY. It consists of Rocky on guitar, Peggy on drums, Eclipse on vocals, and Aster on bass. Eclipse has a crush on Rocky. Unfortunately, Rocky is taken.</p>"
             },
 
             {"name":"Offensive Content","tag":"offensive_content","icon":"","link":"",
@@ -38,7 +42,11 @@
             },
 
             {"name":"North Doubax Highschoolers","tag":"ndhs","icon":"","link":"",
-            "description":"<p>Those who attend or attended North Doubax Highschool.</p>"
+            "description":"<p>Those who are students of, gratuated from, or work at North Doubax Highschool.</p>"
+            },
+
+            {"name":"South Loxy Highschoolers","tag":"slhs","icon":"","link":"",
+            "description":"<p>Those who are students of, gratuated from, or work at South Loxy Highschool.</p>"
             },
 
             {"name":"Verr University","tag":"verr","icon":"","link":"",
@@ -57,8 +65,12 @@
             "description":"<p>Those who are affiliated with Amwulshiner University.</p>"
             },
 
-            {"name":"Princeton University","tag":"trois","icon":"","link":"",
+            {"name":"Princeton University","tag":"princeton","icon":"","link":"",
             "description":"<p>Those who are affiliated with Princeton University.</p>"
+            },
+
+            {"name":"Terror University","tag":"terror","icon":"","link":"",
+            "description":"<p>Those who are affiliated with Terror University.</p>"
             },
 
             {"name":"Mose's Lab","tag":"mose_lab","icon":"","link":"",
@@ -114,7 +126,7 @@
             },
 
             {"name":"The Highschoolers","tag":"the_highschoolers","icon":"","link":"",
-            "description":"<p>The Highschoolers, who were never known as The Fab Four, are four prominent characters who attended Anaica Highschool.</p>"
+            "description":"<p>The Highschoolers was a friend group consisting of Lexi, Burnie, Lincoln, and June. They attended Anaica Highschool in Anaica, Orchid County, Evergreen. They were never known as the Fab Four. Linclon was largely cut off after he killed his uncle to inherit his museum. Lincoln would eventually kill himself after it became all too much.</p>"
             },
 
             {"name":"Cyberdystopia","tag":"cyberdystopia","icon":"","link":"",
@@ -123,6 +135,10 @@
 
             {"name":"The Snowstorm Mares","tag":"snowstorm_mares","icon":"","link":"",
             "description":"<p>The Snowstorm Mares is a criminal gang based in Snowstorm.</p>"
+            },
+
+            {"name":"The Magic Trio","tag":"magic_trio","icon":"","link":"",
+            "description":"<p>The Magic Trio are the demigods that were sent to govern the Solar System.</p>"
             }
         ],
     "family":
@@ -237,6 +253,24 @@
 
             {"name":"The Medvedev Family","tag":"medvedev","icon":"","link":"",
             "description":"<p>Sid's family.</p>"
+            }
+        ],
+    "meta":
+        [
+            {"name":"MAIN CHARACTERS","tag":"main","icon":"","link":"",
+            "description":""
+            },
+
+            {"name":"SECONDARY CHARACTERS","tag":"secondary","icon":"","link":"",
+            "description":""
+            },
+
+            {"name":"TERTIARY CHARACTERS","tag":"tertiary","icon":"","link":"",
+            "description":""
+            },
+
+            {"name":"COJU'S CHARACTERS","tag":"cojuverse","icon":"","link":"",
+            "description":""
             }
         ]
 }

@@ -2,7 +2,7 @@
     "main":
         [
             {"info":{
-                "alias":"Ball","name":"Arsler Newport Ballston","month":"01","day":"17","year":"2006","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Meowstic","occupation":"College Student","residence":"116 Blair St, Friendship City, CT","height":"5'3"
+                "alias":"Ball","name":"Arsler Newport Ballston","month":"01","day":"17","year":"2006","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Meowstic)","occupation":"College Student","residence":"116 Blair St, Friendship City, CT","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/vrjdjy.png","fullbody":"https://files.catbox.moe/rzlf1c.png","link":"/universe/characters/ball.html",
             "description":"Ball is a male meowstic. He likes trains and Weezer. He is part of the class of 2027 at Verr University.",
@@ -11,7 +11,7 @@
             },
             
             {"info":{
-                "alias":"Lit","name":"Lit Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Victini","occupation":"College Student","residence":"3 Ebiglepton Ct, Friendship City, CT","height":"5'2"
+                "alias":"Lit","name":"Lit Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Pokemon (Victini)","occupation":"College Student","residence":"3 Ebiglepton Ct, Friendship City, CT","height":"5'2"
                 },
             "icon":"https://files.catbox.moe/ebic4t.png","fullbody":"https://files.catbox.moe/t7xznf.png","link":"/universe/characters/lit.html",
             "description":"Lit is a victini. She likes spaghetti and post grunge music. She is the main character in It's Been Awhile, a comic about the death of her sister Flingy due to Lit's criminal activity, and all that entails. She is part of the class of 2027 at Verr University.",
@@ -20,7 +20,7 @@
             },
             
             {"info":{
-                "alias":"Pinewood","name":"Pinewood Hills","month":"04","day":"28","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Vulpix","occupation":"Furniture Store Worker","residence":"Friendship City, CT"
+                "alias":"Pinewood","name":"Pinewood Hills","month":"04","day":"28","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/g6fnqx.png","fullbody":"https://files.catbox.moe/xvzj9o.png","link":"/universe/characters/pinewood.html",
             "description":"Pinewood is a vulpix. She likes graphic T-shirts and The Offspring. She works at her uncle's furniture store.",
@@ -29,7 +29,7 @@
             },
             
             {"info":{
-                "alias":"Oakwood","name":"Oakwood Silva","month":"04","day":"12","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Vulpix","occupation":"Furniture Store Worker","residence":"114 Poryglass St, Friendship City, CT"
+                "alias":"Oakwood","name":"Oakwood Silva","month":"04","day":"12","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"114 Poryglass St, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/3ngdxg.png","fullbody":"https://files.catbox.moe/5zs5m5.png","link":"/universe/characters/oakwood.html",
             "description":"Oakwood is a vulpix. He likes burgers and playing acoustic guitar. He works at his family's furniture store.",
@@ -38,7 +38,7 @@
             },
             
             {"info":{
-                "alias":"Martha","name":"Martha Gunby","month":"05","day":"30","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Asexual","species":"Meowstic","occupation":"Employee for DePonte Parks Department","residence":"1106 Phoenix Av, Friendship City, CT"
+                "alias":"Martha","name":"Martha Gunby","month":"05","day":"30","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Asexual","species":"Pokemon (Meowstic)","occupation":"Employee for DePonte Parks Department","residence":"1106 Phoenix Av, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/slvo71.png","fullbody":"https://files.catbox.moe/akdtli.png","link":"/universe/characters/martha.html",
             "description":"Martha is a meowstic. Her favorite foods are pineapple and ice cream. She works at Astorabat Park, picking up trash and managing the wildlife.",
@@ -56,7 +56,7 @@
             },
             
             {"info":{
-                "alias":"Comet","name":"Comet Polaris Rahway","month":"03","day":"29","year":"2004","pronouns":"He/Him","gender":"Male","species":"Meowstic","occupation":"College Student and Lab Assistant","residence":"118 Blair St, Friendship City, CT","height":"5'9"
+                "alias":"Comet","name":"Comet Polaris Rahway","month":"03","day":"29","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","occupation":"College Student and Lab Assistant","residence":"118 Blair St, Friendship City, CT","height":"5'9"
                 },
             "icon":"https://files.catbox.moe/8q4xa7.png","fullbody":"https://files.catbox.moe/gayvse.png","link":"/universe/characters/comet.html",
             "description":"Comet is a male meowstic. He likes chocolate chip cookies and BeamNG drive. He is a lab assistant for the mad scientist Mose. He is part of the class of 2026 at Friendship University.",
@@ -65,7 +65,7 @@
             },
             
             {"info":{
-                "alias":"Arrow","name":"Arrow Compass Trois","month":"07","day":"08","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Buizel","occupation":"College Student","residence":"VG","height":"5'6"
+                "alias":"Arrow","name":"Arrow Compass Trois","month":"07","day":"08","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Buizel)","occupation":"College Student","residence":"VG","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/3ohw1d.png","fullbody":"https://files.catbox.moe/98zc02.png","link":"/universe/characters/arrow.html",
             "description":"Arrow is a buizel. He is bisexual and likes Green Day. He is insecure about his poor swimming abilities. He is an author of travel books. He is part of the class of 2026 at Friendship University.",
@@ -74,7 +74,7 @@
             },
             
             {"info":{
-                "alias":"Sugar","name":"Sugar Oraton","month":"08","day":"16","year":"2004","pronouns":"He/Him","gender":"Male","species":"Eevee","occupation":"College Student","residence":"VG","height":"5'6","weight":"150 lbs"
+                "alias":"Sugar","name":"Sugar Oraton","month":"08","day":"16","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Eevee)","occupation":"College Student","residence":"VG","height":"5'6","weight":"150 lbs"
                 },
             "icon":"https://files.catbox.moe/hvvw5h.png","fullbody":"https://files.catbox.moe/us6fso.png","link":"/universe/characters/sugar.html",
             "description":"Sugar is an eevee. He likes turkey bologna, computers, and taking pictures. He is part of the class of 2026 at Friendship University.",
@@ -92,7 +92,7 @@
             },
             
             {"info":{
-                "alias":"Teri","name":"Teri Sunnyside","month":"07","day":"29","year":"2002","pronouns":"He/They","gender":"Nonbinary","orientation":"Pansexual","species":"Cat-dragon","occupation":"Animal Daycare Worker and FOSS Developer","residence":"1105 Glenbourne Av, Tristantown, CT","height":"5'3"
+                "alias":"Teri","name":"Teri Sunnyside","month":"07","day":"29","year":"2002","pronouns":"He/They","gender":"Nonbinary","orientation":"Pansexual","species":"Cat-dragon","occupation":"Animal Daycare Worker","residence":"1105 Glenbourne Av, Tristantown, CT","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/3r7z1u.png","fullbody":"https://files.catbox.moe/u4leck.png","link":"/universe/characters/teri.html",
             "description":"Teri is a cat dragon. He likes computers. They are very laid back, friendly, and silly. They are York's roommate! He works at an animal daycare.",
@@ -101,7 +101,7 @@
             },
 
             {"info":{
-                "alias":"York","name":"Marina York","month":"01","day":"01","year":"2004","pronouns":"She/Her","gender":"Female","species":"Glaceon","occupation":"Shrimp Farmer and Electronics Repairer","residence":"1105 Glenbourne Av, Tristantown, CT"
+                "alias":"York","name":"Marina York","month":"01","day":"01","year":"2004","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","occupation":"Shrimp Farmer and Electronics Repairer","residence":"1105 Glenbourne Av, Tristantown, CT"
                 },
             "icon":"https://files.catbox.moe/2emnrz.png","fullbody":"https://files.catbox.moe/p7aajh.png","link":"/universe/characters/york.html",
             "description":"York is a glaceon. She likes to hang out in pools.",
@@ -146,7 +146,7 @@
             },
             
             {"info":{
-                "alias":"Noel","name":"Noel Sequoia","month":"03","day":"01","year":"2003","pronouns":"He/Him","gender":"Male","species":"Sprigatito","occupation":"Housewife","residence":"706 Tediland St, Sotelo, VG","height":"5'3"
+                "alias":"Noel","name":"Noel Sequoia","month":"03","day":"01","year":"2003","pronouns":"He/Him","gender":"Male","species":"Pokemon (Sprigatito)","occupation":"Housewife","residence":"706 Tediland St, Sotelo, VG","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/0eskhs.png","fullbody":"https://files.catbox.moe/025rp4.png","link":"/universe/characters/noel.html",
             "description":"Noel is a sprigatito. This means he likes weed. He is Pluto's best friend, and Ryder's boyfriend. He is Ryder's housewife.",
@@ -173,7 +173,7 @@
             },
             
             {"info":{
-                "alias":"Nisha","name":"Nisha Mukherjee","month":"09","day":"30","year":"2004","pronouns":"They/Them","gender":"Nonbinary","orientation":"Bisexual Lesbian","species":"Shaymin","occupation":"College Student","residence":"Bellthorne, CT"
+                "alias":"Nisha","name":"Nisha Mukherjee","month":"09","day":"30","year":"2004","pronouns":"They/Them","gender":"Nonbinary","orientation":"Bisexual Lesbian","species":"Pokemon (Shaymin)","occupation":"College Student","residence":"Bellthorne, CT"
                 },
             "icon":"https://files.catbox.moe/ubmc29.png","fullbody":"https://i.postimg.cc/VN6nygcq/fb-nisha.png","link":"/universe/characters/nisha.html",
             "description":"Nisha is a Shaymin. They care deeply about what other people think of them. They go to Friendship University.",
@@ -259,7 +259,7 @@
         [
             
             {"info":{
-                "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Victini","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
+                "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Pokemon (Victini)","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
                 },
             "icon":"/images/flingyicon.png","fullbody":"https://sribbles.neocities.org/images/flingy.png","link":"",
             "description":"Flingy was a victini. Her favorite show was V and Ax. She was Lit's sister.",
@@ -268,7 +268,7 @@
             },
             
             {"info":{
-                "alias":"Carc","name":"Carcus Glametal Jr.","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Carc","name":"Carcus Glametal Jr.","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/rwn3hq.png","fullbody":"https://files.catbox.moe/3bah74.png","link":"",
             "description":"Carc is a meowstic. He was a student at Doubax Highschool and was a bully.",
@@ -277,7 +277,7 @@
             },
 
             {"info":{
-                "alias":"Glametal","name":"Carcus Glametal","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Mad Scientist","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Glametal","name":"Carcus Glametal","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Mad Scientist","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/cto6iv.png","fullbody":"https://files.catbox.moe/tvo24n.png","link":"",
             "description":"Glametal is a meowstic. He does commissions for evil villains. This includes making bioweapons and monsters. Carc Jr. is his son. He is yet another negligent father.",
@@ -286,7 +286,7 @@
             },
 
             {"info":{
-                "alias":"Florence","name":"Florence Fullerton","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pikachu","residence":"Friendship City, CT"
+                "alias":"Florence","name":"Florence Fullerton","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Pikachu)","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/ydYzwW2h/flavericon.png","fullbody":"https://files.catbox.moe/pgmhzv.png","link":"",
             "description":"Florence is a pikachu. She is a cautious person. She was friends with Flingy, and went on to develop an uneasy acquaintanceship with Lit after Flingy's death.",
@@ -295,7 +295,7 @@
             },
 
             {"info":{
-                "alias":"Ree","name":"Victoria Nyoucmo","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Jirachi","residence":"Friendship City, CT"
+                "alias":"Ree","name":"Victoria Nyoucmo","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Jirachi)","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/QdGZjfRd/reeicon.png","fullbody":"https://files.catbox.moe/lmfvfk.png","link":"",
             "description":"Ree is a jirachi. She is regularly featured in CoJu's comic series, \"It's Been Awhile\". Ree's family has been bankrupt since at least 2023.",
@@ -322,7 +322,7 @@
             },
 
             {"info":{
-                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/She","gender":"Nonbinary","species":"Oshawott","occupation":"Gamer","residence":"Ebonwood, VG"
+                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/She","gender":"Nonbinary","species":"Pokemon (Oshawott)","occupation":"Gamer","residence":"Ebonwood, VG"
                 },
             "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
             "description":"Soiette is an Oshawott. He likes playing games in the basement. Her signature catchphrase is \"Dang, bitch!\".",
@@ -340,7 +340,7 @@
             },
 
             {"info":{
-                "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Umbreon","occupation":"Internet Troll","residence":"Friendship City, CT"
+                "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Umbreon)","occupation":"Internet Troll","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/hyoulb.png","fullbody":"https://files.catbox.moe/jcnhx5.png","link":"/universe/characters/umber.html",
             "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He is Mar's brother.",
@@ -349,7 +349,7 @@
             },
             
             {"info":{
-                "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Espeon","occupation":"A Lot","residence":"CT"
+                "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Pokemon (Espeon)","occupation":"A Lot","residence":"CT"
                 },
             "icon":"https://files.catbox.moe/9e9pv9.png","fullbody":"https://files.catbox.moe/7dxtaf.png","link":"/universe/characters/mar.html",
             "description":"Mar is an espeon. He likes butterflies and Brussels sprouts. He is often grumpy due to his job insecurity. He doesn't usually eat his shirt.",
@@ -358,7 +358,7 @@
             },
             
             {"info":{
-                "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Vulpix","occupation":"College Student","residence":"CT"
+                "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","occupation":"College Student","residence":"CT"
                 },
             "icon":"https://files.catbox.moe/q4e43d.png","fullbody":"https://files.catbox.moe/5i9k1m.png","link":"/universe/characters/snodie.html",
             "description":"Snodie is a vulpix. Attached to her hair and tail is Angel, a lost spirit. She is a witch and studied animal science at Verr University.",
@@ -367,7 +367,7 @@
             },
 
             {"info":{
-                "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Sylveon","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
+                "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Pokemon (Sylveon)","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
                 },
             "icon":"https://files.catbox.moe/s5wnfn.png","fullbody":"https://i.postimg.cc/QtjDKQCp/steel2-3.png","link":"/universe/characters/steel.html",
             "description":"Steel is a sylveon. She is mischevious and very impulsive, and has many tattoos that are covered by her fur. He is the scientist who looks after Ash. They are infertile, and treats Ash like the son he could never conceive.",
@@ -376,7 +376,7 @@
             },
 
             {"info":{
-                "alias":"Garland","name":"Garland Green Day","month":"06","day":"18","year":"2002","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Leafeon","occupation":"Hairdresser","residence":"Arthur City, NY"
+                "alias":"Garland","name":"Garland Green Day","month":"06","day":"18","year":"2002","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Hairdresser","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/jye63f.png","fullbody":"https://files.catbox.moe/o0humo.png","link":"/universe/characters/garland.html",
             "description":"Garland, or Sandy, is a leafeon. She is confident and outgoing, and mischevious and devious. Her brother is Lawrence.",
@@ -385,7 +385,7 @@
             },
             
             {"info":{
-                "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2002","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Leafeon","occupation":"Octopator","residence":"Arthur City, NY","height":"5'2"
+                "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2002","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Octopator","residence":"Arthur City, NY","height":"5'2"
                 },
             "icon":"https://files.catbox.moe/gln34z.png","fullbody":"https://files.catbox.moe/06y68z.png","link":"/universe/characters/lawrence.html",
             "description":"Lawrence is a leafeon. He is shy and nervious. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
@@ -457,7 +457,7 @@
             },
 
             {"info":{
-                "alias":"Glider","name":"Glider Kawiestmoda","month":"02","day":"23","year":"2010","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Gliscor","occupation":"High School Student","residence":"Arthur City, NY"
+                "alias":"Glider","name":"Glider Kawiestmoda","month":"02","day":"23","year":"2010","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Pokemon (Gliscor)","occupation":"High School Student","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/krmfzn.png","fullbody":"https://files.catbox.moe/1rdhvv.png","link":"/universe/characters/glider.html",
             "description":"Glider is a gliscor. She likes Weezer. She is the daughter of Ospra and Eastmode, the owners of Ospra's and K-Club respectively. She will be a trucker shen she's older.",
@@ -475,7 +475,7 @@
             },
             
             {"info":{
-                "alias":"Eclipse","name":"Eclipse Faecervine","month":"04","day":"08","year":"1996","pronouns":"She/Her","gender":"Nonbinary","orientation":"Lesbian","species":"Jirachi","occupation":"Vocalist for CAF and Veterinarian Technician","residence":"Arthur City, NY","height":"5'9","weight":"155 lbs"
+                "alias":"Eclipse","name":"Eclipse Faecervine","month":"04","day":"08","year":"1996","pronouns":"She/Her","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Jirachi)","occupation":"Vocalist for CAF and Veterinarian Technician","residence":"Arthur City, NY","height":"5'9","weight":"155 lbs"
                 },
             "icon":"https://files.catbox.moe/q6g1yv.png","fullbody":"https://files.catbox.moe/owhdwn.png","link":"/universe/characters/eclipse.html",
             "description":"Eclipse is a jirachi-deer hybrid. She is the frontman of CAF. She is nonbinary.",
@@ -484,7 +484,7 @@
             },
             
             {"info":{
-                "alias":"Peggy","name":"Pegasus Nyukasa","month":"09","day":"06","year":"2000","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Vaporeon","occupation":"Drummer for CAF and Garbage truck driver","residence":"Arthur City, NY","height":"5'5"
+                "alias":"Peggy","name":"Pegasus Nyukasa","month":"09","day":"06","year":"2000","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Vaporeon)","occupation":"Drummer for CAF and Garbage truck driver","residence":"Arthur City, NY","height":"5'5"
                 },
             "icon":"https://files.catbox.moe/xgblad.png","fullbody":"https://files.catbox.moe/ae9ni6.png","link":"/universe/characters/peggy.html",
             "description":"Peggy is a vaporeon. She is the drummer for CAF. She is Mieoru's sister.",
@@ -493,7 +493,7 @@
             },
 
             {"info":{
-                "alias":"Mieoru","name":"Mieoru Nyukasa","month":"02","day":"05","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Heterosexual","occupation":"College Student","species":"Vaporeon"
+                "alias":"Mieoru","name":"Mieoru Nyukasa","month":"02","day":"05","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Heterosexual","occupation":"College Student","species":"Pokemon (Vaporeon)"
                 },
             "icon":"https://files.catbox.moe/hq96po.png","fullbody":"https://files.catbox.moe/i7lu1r.png","link":"/universe/characters/mieoru.html",
             "description":"Mieoru is a vaporeon.",
@@ -538,7 +538,7 @@
             },
 
             {"info":{
-                "alias":"Dorian","name":"Dorian Jutsja","month":"03","day":"17","year":"2003","pronouns":"He/Him","gender":"Male","species":"Meowstic","occupation":"Electrician","residence":"Friendship City, CT"
+                "alias":"Dorian","name":"Dorian Jutsja","month":"03","day":"17","year":"2003","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","occupation":"Electrician","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/qnib6u.png","fullbody":"https://files.catbox.moe/pm1chv.png","link":"/universe/characters/dorian.html",
             "description":"Dorian is a male meowstic. He was formerly known as \"Methlab\" or, legally, \"Baby Jutsja\". He works for Friendship City Transit as an electrician.",
@@ -547,7 +547,7 @@
             },
 
             {"info":{
-                "alias":"Skyler","name":"Kara Oraton","month":"05","day":"13","year":"2000","pronouns":"She/Her","gender":"Female","species":"Glaceon","occupation":"Real Estate Agent and Streamer","residence":"VG"
+                "alias":"Skyler","name":"Kara Oraton","month":"05","day":"13","year":"2000","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","occupation":"Real Estate Agent and Streamer","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/ad02i0.png","fullbody":"https://files.catbox.moe/pe9jmn.png","link":"",
             "description":"Skyler is a glaceon. She is a streamer and a real estate agent. She used to collaborate with Paige The Pennsylvanian. She is Sugar's older sister. She goes by @hotglaceon5 on at least one social media. She usually goes by SkylerWearsUnderwear.",
@@ -556,7 +556,7 @@
             },
 
             {"info":{
-                "alias":"Lex","name":"Lex Roxbury","month":"04","day":"14","year":"2003","pronouns":"Any","gender":"Female","species":"Meowstic","occupation":"K-Club Employee","residence":"Arthur City, NY"
+                "alias":"Lex","name":"Lex Roxbury","month":"04","day":"14","year":"2003","pronouns":"Any","gender":"Female","species":"Pokemon (Meowstic)","occupation":"K-Club Employee","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/3j2pnx.png","fullbody":"https://files.catbox.moe/q7lmah.png","link":"",
             "description":"Lex is a meowstic. She is intersex. He works at K-Club.",
@@ -565,10 +565,10 @@
             },
 
             {"info":{
-                "alias":"Flam","name":"Flam Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles"
+                "alias":"Flan","name":"Flan Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles"
                 },
-            "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"",
-            "description":"Flam is a fox. He worked as a captain for pirate ships from the Succaneer Isles. He died by gears grinding in April 1918.",
+            "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"/universe/characters/flan.html",
+            "description":"Flan is a fox. He worked as a captain for pirate ships from the Succaneer Isles. He was chronically depressed and missed his family. He died by gears grinding in April 1918.",
             "created":"2023/06",
             "groups":[]
             },
@@ -587,7 +587,7 @@
         [
             
             {"info":{
-                "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2006","pronouns":"He/Him","gender":"Male","species":"Popplio","residence":"Friendship City, CT"
+                "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2006","pronouns":"He/Him","gender":"Male","species":"Pokemon (Popplio)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/jx1eif.png","fullbody":"https://files.catbox.moe/vf7gyo.png","link":"/universe/characters/kyle.html",
             "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has queer relatives living in northern Florida. He is friends with Umber.",
@@ -596,7 +596,7 @@
             },
 
             {"info":{
-                "alias":"Lily","name":"Beatrice Lily \"Fluffy\" Flul","month":"11","day":"24","year":"2005","pronouns":"She/Her","gender":"Female","species":"Meowstic","occupation":"Model","residence":"Friendship City, CT"
+                "alias":"Lily","name":"Beatrice Lily \"Fluffy\" Flul","month":"11","day":"24","year":"2005","pronouns":"She/Her","gender":"Female","species":"Pokemon (Meowstic)","occupation":"Model","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/0f184d.png","fullbody":"https://files.catbox.moe/p831dt.png","link":"",
             "description":"Lily is a female meowstic. She has an interest mathematics. She had romantic tension with Ball and Carc and may have been a love interest for Lit. She was the popular girl in school. She is a model.",
@@ -605,7 +605,7 @@
             },
 
             {"info":{
-                "alias":"Far","name":"Far","month":"","day":"","year":"","pronouns":"Any","gender":"Nonbinary","species":"Flareon-Espeon","residence":"Friendship City, CT"
+                "alias":"Far","name":"Far","month":"","day":"","year":"","pronouns":"Any","gender":"Nonbinary","species":"Pokemon Hybrid (Espeon-Flareon)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/u39jlf.png","fullbody":"https://files.catbox.moe/3xnw8r.png","link":"",
             "description":"Far is a flareon-espeon hybrid. He is Mose's lab assistant.",
@@ -632,7 +632,7 @@
             },
 
             {"info":{
-                "alias":"River","name":"River CoAlla","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Cinderace","occupation":"Jewelry Store Employee and Comedian","residence":"Friendship City, CT"
+                "alias":"River","name":"River CoAlla","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Cinderace)","occupation":"Jewelry Store Employee and Comedian","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/4kwop6.png","fullbody":"https://files.catbox.moe/jdyl2p.png","link":"",
             "description":"River was a cinderace. He had a thing for Japanese girls, if you know what I mean. But he liked his girlfriend Big Jodie more. He was a stand-up comedian and jewlry store worker. He was killed in January 2020.",
@@ -650,7 +650,7 @@
             },
 
             {"info":{
-                "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"2004","pronouns":"Any","gender":"Nonbinary","species":"Eevee","occupation":"Employee for Ocky's Bakery","residence":"VG"
+                "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"2004","pronouns":"Any","gender":"Nonbinary","species":"Pokemon (Eevee)","occupation":"Employee for Ocky's Bakery","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/jm793w.png","fullbody":"https://i.postimg.cc/R0S8NQmk/sprinccles.png","link":"/universe/characters/sprinkles.html",
             "description":"Sprinkles is an eevee. He works at a cafe.",
@@ -659,7 +659,7 @@
             },
 
             {"info":{
-                "alias":"Kellie","name":"Kellie Nyoucmo","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Jirachi","residence":"Friendship City, CT"
+                "alias":"Kellie","name":"Kellie Nyoucmo","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Jirachi)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/pha7n1.png","fullbody":"https://files.catbox.moe/otjawh.png","link":"",
             "description":"Kellie was a gardener jirachi. She was Ree's sister.",
@@ -668,7 +668,7 @@
             },
             
             {"info":{
-                "alias":"Six","name":"Deilief Nyoucmo","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Jirachi","residence":"Friendship City, CT"
+                "alias":"Six","name":"Deilief Nyoucmo","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Jirachi)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/ebct2d.png","fullbody":"https://files.catbox.moe/62y1yz.png","link":"",
             "description":"Six was a jirachi. He was emo. Yup. He listened to all them emo bands. He was Ree's brother.",
@@ -677,7 +677,7 @@
             },
             
             {"info":{
-                "alias":"Henry","name":"Henry Snyder","month":"","day":"","year":"2004","pronouns":"He/They","gender":"Male","species":"Leafeon","residence":"Friendship City, CT"
+                "alias":"Henry","name":"Henry Snyder","month":"","day":"","year":"2004","pronouns":"He/They","gender":"Male","species":"Pokemon (Leafeon)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/ihh4n0.png","fullbody":"https://files.catbox.moe/iv3ci5.png","link":"",
             "description":"Henry is a leafeon. He is roommates with Umber.",
@@ -686,7 +686,7 @@
             },
 
             {"info":{
-                "alias":"Vick","name":"Victor Umber","month":"04","day":"03","year":"2000","pronouns":"They/He","gender":"Nonbinary","orientation":"Lesbian","species":"Umbreon","occupation":"Mechanic","residence":"VG"
+                "alias":"Vick","name":"Victor Umber","month":"04","day":"03","year":"2000","pronouns":"They/He","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Umbreon)","occupation":"Mechanic","residence":"VG"
                 },
             "icon":"https://aineop.neocities.org/images/victorthumb.png","fullbody":"https://files.catbox.moe/bvh7wt.png","link":"/universe/characters/victor.html",
             "description":"Vick is an umbreon. He is Avery's roommate. They are a mechanic.",
@@ -695,7 +695,7 @@
             },
             
             {"info":{
-                "alias":"Avery","name":"Avery Snyder","month":"06","day":"27","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Leafeon","residence":"VG"
+                "alias":"Avery","name":"Avery Snyder","month":"06","day":"27","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Pokemon (Leafeon)","residence":"VG"
                 },
             "icon":"https://aineop.neocities.org/images/averythumb.png","fullbody":"https://files.catbox.moe/p589gf.png","link":"/universe/characters/avery.html",
             "description":"Avery is a leafeon. He is Victor's roommate.",
@@ -785,7 +785,7 @@
             },
 
             {"info":{
-                "alias":"Tymmi","name":"Tymmi","month":"11","day":"30","year":"","pronouns":"She/Her","gender":"Female","species":"Eevee","residence":"Friendship City, CT"
+                "alias":"Tymmi","name":"Tymmi","month":"11","day":"30","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Eevee)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/bhdtvv.png","fullbody":"https://files.catbox.moe/4czbku.png","link":"",
             "description":"Tymmi is a shiny eevee. She had a sibling who died from an infection. They escaped from somewhere via sewer pipes. She is still in shock.",
@@ -812,7 +812,7 @@
             },
             
             {"info":{
-                "alias":"Kolumbus","name":"Kolumbus Duzenhavon","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Torracat","residence":"Friendship City, CT"
+                "alias":"Kolumbus","name":"Kolumbus Duzenhavon","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Torracat)","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/TY8h9bSk/kolombus.png","fullbody":"https://files.catbox.moe/6xtdcz.png","link":"",
             "description":"Kolumbus is a torracat. He is a devout Christian. He is dating Bowie Butter, and they rollerskate together.",
@@ -821,7 +821,7 @@
             },
             
             {"info":{
-                "alias":"Clarissa","name":"Clarissa Harbor","month":"04","day":"10","year":"","pronouns":"She/Her","gender":"Female","species":"Flareon","occupation":"Teacher and Researcher","residence":"CT"
+                "alias":"Clarissa","name":"Clarissa Harbor","month":"04","day":"10","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Flareon)","occupation":"Teacher and Researcher","residence":"CT"
                 },
             "icon":"https://files.catbox.moe/3oijgo.png","fullbody":"https://files.catbox.moe/08io1u.png","link":"",
             "description":"Clarissa is a flareon. She likes to wear her elegant hat. This reflects her elegant, haughty personality. She is the counselor for North Doubax High School.",
@@ -830,16 +830,7 @@
             },
             
             {"info":{
-                "alias":"Alice","name":"Alice Willowbrook","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Criminal","residence":"United States"
-                },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Alice is a cat. She was a notorious criminal in Radia, and she is often referred to as 'Alice The Shooter'. She is Maureen's mother.",
-            "created":"2025/04/02",
-            "groups":["willowbrook","radia"]
-            },
-            
-            {"info":{
-                "alias":"Carlos","name":"Carlos","month":"07","day":"23","year":"2002","pronouns":"He/Him","gender":"Male","species":"Lycanroc","residence":"United States"
+                "alias":"Carlos","name":"Carlos","month":"07","day":"23","year":"2002","pronouns":"He/Him","gender":"Male","species":"Pokemon (Lycanroc)","residence":"United States"
                 },
             "icon":"https://files.catbox.moe/hz044l.png","fullbody":"https://files.catbox.moe/f8fdr3.png","link":"/universe/characters/carlos.html",
             "description":"Carlos is a midnight lycanroc.",
@@ -848,7 +839,7 @@
             },
             
             {"info":{
-                "alias":"Rohr","name":"Rohr Postman","month":"12","day":"17","year":"","pronouns":"He/Him","gender":"Male","species":"Victini","residence":"Friendship City, CT"
+                "alias":"Rohr","name":"Rohr Postman","month":"12","day":"17","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Victini)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/qi1xjw.png","fullbody":"https://files.catbox.moe/74trsq.png","link":"",
             "description":"Rohr is a victini. He is the mechanic and scientist of the Pastors.",
@@ -929,7 +920,7 @@
             },
             
             {"info":{
-                "alias":"Eddie","name":"Oswald Edibar Jr.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Ralts","residence":"Friendship City, CT"
+                "alias":"Eddie","name":"Oswald Edibar Jr.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Ralts)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/g4ioki.png","fullbody":"https://files.catbox.moe/7uq5h6.png","link":"",
             "description":"Edibar Junior is a Ralts. He has forks for arms. He is Edibar's son. He made Erozon to cope with the absence of his father.",
@@ -947,7 +938,7 @@
             },
             
             {"info":{
-                "alias":"Bee","name":"Bee Kellap","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Dragonite","residence":"Friendship City, CT"
+                "alias":"Bee","name":"Bee Kellap","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Dragonite)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/pomynf.png","fullbody":"https://files.catbox.moe/ecnvxi.png","link":"",
             "description":"Bee is a dragonite. He has hair. He is often working out and stuck in traffic. The width of his penis roughly is the same as Sepitina's head.",
@@ -956,7 +947,7 @@
             },
             
             {"info":{
-                "alias":"Novic","name":"Novic","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Victini","residence":"Friendship City, CT"
+                "alias":"Novic","name":"Novic","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Victini)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/zp6204.png","fullbody":"https://files.catbox.moe/zv8v8p.png","link":"",
             "description":"Novic was a victini. Due to his deformed nature, he was orphaned by his parents as a result. He died on January 13, 2025 due to complications.",
@@ -1019,7 +1010,7 @@
             },
             
             {"info":{
-                "alias":"Silver","name":"Silver Stoublare","month":"09","day":"14","year":"1999","pronouns":"He/Him","gender":"Male","species":"Human-Umbreon","residence":"Friendship City, CT"
+                "alias":"Silver","name":"Silver Stoublare","month":"09","day":"14","year":"1999","pronouns":"He/Him","gender":"Male","species":"Pokemon Hybrid (Human-Umbreon)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/wjlttg.png","fullbody":"https://files.catbox.moe/vauyos.png","link":"",
             "description":"Silver is an umbreon-human hybrid. His father is Piq-Al-Eni and mother is a poor umbreon. He is affiliated with Mose's Lab.",
@@ -1028,7 +1019,7 @@
             },
             
             {"info":{
-                "alias":"Willow","name":"Willow Silva","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Vulpix","residence":"Friendship City, CT"
+                "alias":"Willow","name":"Willow Silva","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/6a35fs.png","fullbody":"https://files.catbox.moe/8xjfkf.png","link":"",
             "description":"Willow is a vulpix. She is one of Oakwood's sisters.",
@@ -1037,7 +1028,7 @@
             },
             
             {"info":{
-                "alias":"Briar","name":"Briar Silva","month":"06","day":"18","year":"1999","pronouns":"She/Her","gender":"Female","species":"Vulpix","occupation":"Therapist","residence":"Friendship City, CT"
+                "alias":"Briar","name":"Briar Silva","month":"06","day":"18","year":"1999","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","occupation":"Therapist","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/xlkhmy.png","fullbody":"https://files.catbox.moe/1vj3co.png","link":"",
             "description":"<p>Briar is a vulpix. She is a therapist. She is one of Oakwood's sisters.</p> <p>[known as Tarr until a long time before Oct 7, 2025]</p>",
@@ -1046,7 +1037,7 @@
             },
             
             {"info":{
-                "alias":"Fern","name":"Fern Silva","month":"06","day":"16","year":"2007","pronouns":"She/Her","gender":"Female","species":"Vulpix","residence":"Friendship City, CT"
+                "alias":"Fern","name":"Fern Silva","month":"06","day":"16","year":"2007","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/hxgjak.png","fullbody":"https://files.catbox.moe/8xjfkf.png","link":"",
             "description":"Fern is a vulpix. She is one of Oakwood's sisters. She is obsessed with the idea of being a twin, and calls herself Char to be more like Briar, and she copies everything Briar does. Briar hates this.",
@@ -1055,7 +1046,7 @@
             },
             
             {"info":{
-                "alias":"Plainwood","name":"Plainwood Hills","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Vulpix","residence":"Friendship City, CT"
+                "alias":"Plainwood","name":"Plainwood Hills","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Plainwood is a vulpix. She is Pinewood's mother. She has a history of alcohol abuse. She is often drunk and therefore kicked out of the home, and mostly just roams the area woods. She is effectively absent.",
@@ -1064,7 +1055,7 @@
             },
             
             {"info":{
-                "alias":"Threetails","name":"Threetails Hills","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Vulpix","residence":"Friendship City, CT"
+                "alias":"Threetails","name":"Threetails Hills","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Vulpix)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/su06ht.png","fullbody":"https://files.catbox.moe/ve1z0v.png","link":"",
             "description":"Threetails is a vulpix. He is Pinewood's father. He is a lazy deadbeat father and often neglects Pinewood. He once asked Pinewood to get him a food truck burrito and if she didn't, he wouldn't feed her.",
@@ -1073,7 +1064,7 @@
             },
             
             {"info":{
-                "alias":"Anna","name":"Anna Gunby","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Anna","name":"Anna Gunby","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269634?1659124047","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Anna is a meowstic. She is Martha and Murray's mother.",
@@ -1091,7 +1082,7 @@
             },
             
             {"info":{
-                "alias":"Duncan","name":"Duncan Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Duncan","name":"Duncan Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269680?1659124322","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Duncan is a meoswtic. He is Martha's uncle (Anna's brother).",
@@ -1109,7 +1100,7 @@
             },
             
             {"info":{
-                "alias":"Murray","name":"Murray Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Murray","name":"Murray Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269594?1659123875","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Murray is a meowstic. He is Martha's brother.",
@@ -1118,7 +1109,7 @@
             },
             
             {"info":{
-                "alias":"Jo","name":"Joshua Kenny","month":"02","day":"02","year":"2003","pronouns":"He/Him","gender":"Male","species":"Vaporeon","occupation":"College Student","residence":"Friendship City, CT"
+                "alias":"Jo","name":"Joshua Kenny","month":"02","day":"02","year":"2003","pronouns":"He/Him","gender":"Male","species":"Pokemon (Vaporeon)","occupation":"College Student","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269329?1659122801","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Jo is a vaporeon. He has horns. He is a chill and nice guy. He reads books and plays on his Switch. He is Liam's brother.",
@@ -1127,7 +1118,7 @@
             },
             
             {"info":{
-                "alias":"T","name":"Timothy Vari","month":"04","day":"14","year":"2004","pronouns":"He/Him","gender":"Male","species":"Jolteon","residence":"Friendship City, CT"
+                "alias":"T","name":"Timothy Vari","month":"04","day":"14","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Jolteon)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269364?1659122901","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Timothy, or The Big T, or T, is a Jolteon. He is Liam's brother-in-law.",
@@ -1136,7 +1127,7 @@
             },
             
             {"info":{
-                "alias":"Tony","name":"Anthony","month":"07","day":"06","year":"2000","pronouns":"He/Him","gender":"Male","species":"Flareon","residence":"Friendship City, CT"
+                "alias":"Tony","name":"Anthony","month":"07","day":"06","year":"2000","pronouns":"He/Him","gender":"Male","species":"Pokemon (Flareon)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269263?1659122544","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Anthony (also known as Tony or Cool Flareon) is a very cool Flareon. He is often found at festivals and fairs, displaying himself as a Cool Flareon. He is Liam's cousin. He is big.",
@@ -1145,7 +1136,7 @@
             },
             
             {"info":{
-                "alias":"Diamond","name":"Diamond G.","month":"02","day":"25","year":"1981","pronouns":"She/Her","gender":"Female","species":"Glaceon","residence":"Friendship City, CT"
+                "alias":"Diamond","name":"Diamond G.","month":"02","day":"25","year":"1981","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"https://f2.toyhou.se/file/f2-toyhou-se/images/52747902_WGOBO4fKfHoaxgr.jpg","link":"",
             "description":"Diamond is a glaceon. She is Liam and his siblings' mother.",
@@ -1154,7 +1145,7 @@
             },
             
             {"info":{
-                "alias":"Elle","name":"Elle","month":"06","day":"18","year":"2001","pronouns":"She/Her","gender":"Female","species":"Leafeon","occupation":"Employee for Pulster Art Museum","residence":"VG"
+                "alias":"Elle","name":"Elle","month":"06","day":"18","year":"2001","pronouns":"She/Her","gender":"Female","species":"Pokemon (Leafeon)","occupation":"Employee for Pulster Art Museum","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/wqn9xs.png","fullbody":"https://files.catbox.moe/6yaas9.png","link":"",
             "description":"Elle is a leafeon. She is Liam's cousin. She works at the Pulster Art Museum in Eirmandol. She is smug and has a superiority complex.",
@@ -1163,7 +1154,7 @@
             },
             
             {"info":{
-                "alias":"Leon","name":"Leon Kennivari","month":"01","day":"31","year":"2007","pronouns":"He/They","gender":"Male","species":"Umbreon","occupation":"College Student","residence":"Transonia, Friendship City, CT","height":"5'4","weight":"120 lbs"
+                "alias":"Leon","name":"Leon Kennivari","month":"01","day":"31","year":"2007","pronouns":"He/They","gender":"Male","species":"Pokemon (Umbreon)","occupation":"College Student","residence":"Transonia, Friendship City, CT","height":"5'4","weight":"120 lbs"
                 },
             "icon":"https://files.catbox.moe/kp8mmd.png","fullbody":"https://files.catbox.moe/7idw29.png","link":"",
             "description":"Leon is an umbreon. He is Liam's little brother.",
@@ -1172,7 +1163,7 @@
             },
             
             {"info":{
-                "alias":"Michelle","name":"Michelle Kenny","month":"11","day":"05","year":"2002","pronouns":"She/Her","gender":"Female","species":"Espeon","residence":"Friendship City, CT"
+                "alias":"Michelle","name":"Michelle Kenny","month":"11","day":"05","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Espeon)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269407?1659123089","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Michelle is an espeon. She is Liam's sister.",
@@ -1181,7 +1172,7 @@
             },
             
             {"info":{
-                "alias":"Noelle","name":"Noelle Kenny","month":"12","day":"02","year":"2001","pronouns":"She/Her","gender":"Female","species":"Sylveon","residence":"Friendship City, CT"
+                "alias":"Noelle","name":"Noelle Kenny","month":"12","day":"02","year":"2001","pronouns":"She/Her","gender":"Female","species":"Pokemon (Sylveon)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269430?1659123187","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Noelle is a sylveon. She is Liam's sister. She has no bows or ribbons.",
@@ -1190,7 +1181,7 @@
             },
             
             {"info":{
-                "alias":"Pearl","name":"Rebecca Pearl Vari","month":"03","day":"31","year":"2003","pronouns":"She/Her","gender":"Female","species":"Sylveon","residence":"Friendship City, CT"
+                "alias":"Pearl","name":"Rebecca Pearl Vari","month":"03","day":"31","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Sylveon)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269448?1659123267","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Pearl is a sylveon. She is Liam's stepsister. She is insecure about her ribbon length.",
@@ -1199,7 +1190,7 @@
             },
             
             {"info":{
-                "alias":"Coco","name":"Coco Coriander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Litten","residence":"Friendship City, CT"
+                "alias":"Coco","name":"Coco Coriander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
             "description":"Coco is a litten. She is dating Pearl.",
@@ -1235,7 +1226,7 @@
             },
             
             {"info":{
-                "alias":"Les","name":"Lesvester G.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Leafeon","residence":"Friendship City, CT"
+                "alias":"Les","name":"Lesvester G.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Leafeon)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Les was a leafeon. He was Diamond's father.",
@@ -1253,7 +1244,7 @@
             },
             
             {"info":{
-                "alias":"Emerald","name":"Emerald G.","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Glaceon","residence":"Friendship City, CT"
+                "alias":"Emerald","name":"Emerald G.","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Emerald is a glaceon. She is Diamond's sister.",
@@ -1262,7 +1253,7 @@
             },
             
             {"info":{
-                "alias":"Seb","name":"Sebastian Amodulphusdrumbergcupcake","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Victini","occupation":"Director of Spy Corporation","residence":"Friendship City, CT"
+                "alias":"Seb","name":"Sebastian Amodulphusdrumbergcupcake","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Victini)","occupation":"Director of Spy Corporation","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/CK29L8qS/sebthumb.png","fullbody":"https://files.catbox.moe/5oiuzd.png","link":"",
             "description":"Seb is a victini. He was once the husband to Katie Cupcake. He is Lit and Flingy's biological father. He has a secret affair with Bel Cupcake.",
@@ -1271,7 +1262,7 @@
             },
             
             {"info":{
-                "alias":"Gus","name":"Gus Cupcake","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Victini","residence":"Friendship City, CT"
+                "alias":"Gus","name":"Gus Cupcake","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Victini)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/x5a3ch.png","fullbody":"https://files.catbox.moe/vbmpe2.png","link":"",
             "description":"Gus is a victini. He is Lit and Flingy's stepfather.",
@@ -1280,7 +1271,7 @@
             },
             
             {"info":{
-                "alias":"Katie","name":"Katie Cupcake","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Victini","residence":"Friendship City, CT"
+                "alias":"Katie","name":"Katie Cupcake","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Victini)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/okz6aa.png","fullbody":"https://files.catbox.moe/gxu1sk.png","link":"",
             "description":"Katie is a victini. She is Lit and Flingy's mother.",
@@ -1289,7 +1280,7 @@
             },
             
             {"info":{
-                "alias":"Bel","name":"Bel Cupcake","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Victini","residence":"Friendship City, CT"
+                "alias":"Bel","name":"Bel Cupcake","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Victini)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Bel is a victini. She is Katie's sister. She has an affair with Seb.",
@@ -1298,7 +1289,7 @@
             },
             
             {"info":{
-                "alias":"Morgan","name":"Morgan Ballston","month":"","day":"","year":"1977","pronouns":"He/Him","gender":"Male","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Morgan","name":"Morgan Ballston","month":"","day":"","year":"1977","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/na7y4t.png","fullbody":"https://files.catbox.moe/d5oigg.png","link":"",
             "description":"Morgan is a male meowstic. He has a hidden illness which is expensive to treat. He is regularly away from home due to business trips.",
@@ -1307,7 +1298,7 @@
             },
             
             {"info":{
-                "alias":"Frankie","name":"Francesca Ballston","month":"11","day":"18","year":"1976","pronouns":"She/Her","gender":"Female","species":"Meowstic","occupation":"House Painter","residence":"Friendship City, CT"
+                "alias":"Frankie","name":"Francesca Ballston","month":"11","day":"18","year":"1976","pronouns":"She/Her","gender":"Female","species":"Pokemon (Meowstic)","occupation":"House Painter","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/8ccljx.png","fullbody":"https://files.catbox.moe/kz9bks.png","link":"",
             "description":"Frankie is a female meowstic. She is Ball's mother. Born Francesca Meeneymore. [name changed night of Oct 6, 2025. also given birthday]. Friends with Amber.",
@@ -1316,7 +1307,7 @@
             },
             
             {"info":{
-                "alias":"Penny","name":"Penelope Rahway","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Meowstic","residence":"Friendship City, CT"
+                "alias":"Penny","name":"Penelope Rahway","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Penelope is a meowstic! She is Amber's sister, and is Amber's child's biological mother. She carries around a bag of truffles.",
@@ -1325,7 +1316,7 @@
             },
             
             {"info":{
-                "alias":"Ardenna","name":"Ardenna Trois","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Buizel","occupation":"Lawyer","residence":"Arthur City, NY"
+                "alias":"Ardenna","name":"Ardenna Trois","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Buizel)","occupation":"Lawyer","residence":"Arthur City, NY"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Ardenna is a buizel. She was born sometime between 1986-1994. She is Arrow's sister.",
@@ -1334,7 +1325,7 @@
             },
             
             {"info":{
-                "alias":"Emel","name":"Emel Trois","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Buizel","residence":"Arthur City, NY"
+                "alias":"Emel","name":"Emel Trois","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Buizel)","residence":"Arthur City, NY"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Em is a buizel. He was once a punk rocker who got a lot of girls. He is Arrow and Ardenna's father.",
@@ -1376,6 +1367,15 @@
             "description":"Juxis is a wolf. He is Democratic party politician from NY. His campaign slogan is: \"I'm Juxis Cant, and I can't.\" He is Nolan's father. Oh, poor Nolan.",
             "created":"2024/07",
             "groups":["albalury"]
+            },
+
+            {"info":{
+                "alias":"Alice","name":"Alice Willowbrook","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Criminal","residence":"United States"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"Alice is a cat. She was a notorious criminal in Radia, and she is often referred to as 'Alice The Shooter'. She is Maureen's mother.",
+            "created":"2025/04/02",
+            "groups":["willowbrook","radia"]
             },
             
             {"info":{
@@ -1676,7 +1676,7 @@
             },
             
             {"info":{
-                "alias":"Buince","name":"Buincent Elmer Terry","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Buizel","occupation":"Baker","residence":"Arthur City, NY"
+                "alias":"Buince","name":"Buincent Elmer Terry","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Buizel)","occupation":"Baker","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/97licg.png","fullbody":"https://files.catbox.moe/03f1i8.png","link":"",
             "description":"Buince is a buizel. He enjoys photos of celestial objects which temperatures are above 5000 Celsius. He is a railfan and busfan. He has or had a pet poo bunny named Bin. His parents divorced and he lives with his uncle in Arthur City. Terry runs a bakery. More of his backstory is documented in CoJu's \"Don't Call Me Terry\" (2019) He eats sticks of butter as a snack.",
@@ -1788,7 +1788,7 @@
     "cojuverse":
         [
             {"info":{
-                "alias":"Rain","name":"Rain February-Pulster","month":"12","day":"24","year":"1994","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Lesbian","species":"Espeon","occupation":"Journalist","residence":"Jadebark, VG","height":"5'7","weight":"120 lbs"
+                "alias":"Rain","name":"Rain February-Pulster","month":"12","day":"24","year":"1994","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Espeon)","occupation":"Journalist","residence":"Jadebark, VG","height":"5'7","weight":"120 lbs"
                 },
             "icon":"https://files.catbox.moe/d32u94.png","fullbody":"https://files.catbox.moe/satxs9.png","link":"https://aineop.neocities.org/characters/#RAIN",
             "description":"Rain is a tired Espeon journalist who lives with Paige. It teams up with Blair to reunite xem with xer siblings and put Lincoln in prison.",
@@ -1797,7 +1797,7 @@
             },
 
             {"info":{
-                "alias":"Blair","name":"Berry Mason Winter","month":"11","day":"24","year":"1993","pronouns":"Xe/Xem","gender":"Nonbinary","orientation":"Trixic","species":"Espeon-Flareon","occupation":"Private Investigator","residence":"VG","height":"5'8","weight":"159 lbs"
+                "alias":"Blair","name":"Berry Mason Winter","month":"11","day":"24","year":"1993","pronouns":"Xe/Xem","gender":"Nonbinary","orientation":"Trixic","species":"Pokemon Hybrid (Espeon-Flareon)","occupation":"Private Investigator","residence":"VG","height":"5'8","weight":"159 lbs"
                 },
             "icon":"https://files.catbox.moe/pg28aj.png","fullbody":"https://files.catbox.moe/if25n7.png","link":"https://aineop.neocities.org/characters/#BLAIR",
             "description":"Blair is a shiny Espeon who is very extroverted and optimistic and generally energetic. Xe is a private investigator who suspects xer siblings are doing something they shouldn't be.",
@@ -1806,7 +1806,7 @@
             },
             
             {"info":{
-                "alias":"Reba","name":"Reba Allison Winter","month":"06","day":"04","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Espeon-Flareon","occupation":"Criminal","residence":"VG","height":"5'6","weight":"99 lbs"
+                "alias":"Reba","name":"Reba Allison Winter","month":"06","day":"04","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Pokemon Hybrid (Espeon-Flareon)","occupation":"Criminal","residence":"VG","height":"5'6","weight":"99 lbs"
                 },
             "icon":"https://files.catbox.moe/ck0mvb.png","fullbody":"https://files.catbox.moe/ruqoxh.png","link":"https://aineop.neocities.org/characters/#REBA",
             "description":"Reba is a hybrid between a Flareon and an Espeon. She is assertive. Reba stopped being shy on August 15, 2020.",
@@ -1815,7 +1815,7 @@
             },
             
             {"info":{
-                "alias":"Axel","name":"Axel Martin Winter","month":"04","day":"21","year":"2001","pronouns":"He/They","gender":"Male","orientation":"Pansexual","species":"Umbreon-Flareon","occupation":"Criminal","residence":"VG","height":"5'9","weight":"118 lbs"
+                "alias":"Axel","name":"Axel Martin Winter","month":"04","day":"21","year":"2001","pronouns":"He/They","gender":"Male","orientation":"Pansexual","species":"Pokemon Hybrid (Umbreon-Flareon)","occupation":"Criminal","residence":"VG","height":"5'9","weight":"118 lbs"
                 },
             "icon":"https://files.catbox.moe/4h6g88.png","fullbody":"https://files.catbox.moe/yqai81.png","link":"https://aineop.neocities.org/characters/#AXEL",
             "description":"Axel is a hybrid between a Flareon and an Umbreon! He hates doing anything. Unless it's for Reba. They also own a casino.",
@@ -1824,7 +1824,7 @@
             },
             
             {"info":{
-                "alias":"Crab","name":"Crab Jayden","month":"10","day":"23","year":"1999","pronouns":"He/It","gender":"Male","orientation":"Bisexual","species":"Eevee","occupation":"Hitman","residence":"VG","height":"5'4","weight":"122 lbs"
+                "alias":"Crab","name":"Crab Jayden","month":"10","day":"23","year":"1999","pronouns":"He/It","gender":"Male","orientation":"Bisexual","species":"Pokemon (Eevee)","occupation":"Hitman","residence":"VG","height":"5'4","weight":"122 lbs"
                 },
             "icon":"https://files.catbox.moe/7yi5vq.png","fullbody":"https://aineop.neocities.org/images/crab.png","link":"https://aineop.neocities.org/characters/#CRAB",
             "description":"Crab is an Eevee who is friends with Nolan. Not actually cut out for the hitman thing.",
@@ -1842,7 +1842,7 @@
             },
             
             {"info":{
-                "alias":"Marianne","name":"Marianne Medvedeva","month":"11","day":"01","year":"1992","pronouns":"She/Her","gender":"Female","orientation":"Panromantic Asexual","species":"Sylveon","occupation":"Hitwoman","residence":"VG","height":"5'10","weight":"171 lbs"
+                "alias":"Marianne","name":"Marianne Medvedeva","month":"11","day":"01","year":"1992","pronouns":"She/Her","gender":"Female","orientation":"Panromantic Asexual","species":"Pokemon (Sylveon)","occupation":"Hitwoman","residence":"VG","height":"5'10","weight":"171 lbs"
                 },
             "icon":"https://files.catbox.moe/b7q9sk.png","fullbody":"https://files.catbox.moe/xk1q7z.png","link":"https://aineop.neocities.org/characters/#MARIANNE",
             "description":"Marianne is a sylveon. She's a tough, energetic leader. Marianne was a professional wrestler before getting involved in the criminal life. In fact, the destruction of her reputation was what made her turn to crime in the first place. Related to Sydney, but she doesn't know it.",
@@ -1851,7 +1851,7 @@
             },
             
             {"info":{
-                "alias":"Jam","name":"Jamaica Overbrook","month":"12","day":"24","year":"2003","pronouns":"It/Its","gender":"Nonbinary","orientation":"Bisexual","species":"Espeon-Flareon","occupation":"Pizza Delivery Person","residence":"VG","height":"5'1","weight":"95 lbs"
+                "alias":"Jam","name":"Jamaica Overbrook","month":"12","day":"24","year":"2003","pronouns":"It/Its","gender":"Nonbinary","orientation":"Bisexual","species":"Pokemon Hybrid (Espeon-Flareon)","occupation":"Pizza Delivery Person","residence":"VG","height":"5'1","weight":"95 lbs"
                 },
             "icon":"https://files.catbox.moe/a43zi3.png","fullbody":"https://files.catbox.moe/6tsv4e.png","link":"https://aineop.neocities.org/characters/#JAM",
             "description":"Jam is a hybrid between an Espeon and a Flareon. Jam is very silly. It works at Aitana's, which is its adoptive older sister's pizza place.",
@@ -1860,7 +1860,7 @@
             },
             
             {"info":{
-                "alias":"October","name":"October Verglas","month":"09","day":"30","year":"2001","pronouns":"She/Void","gender":"Nonbinary","orientation":"Lesbian","species":"Glaceon","occupation":"Baker","residence":"VG","height":"5'10","weight":"125 lbs"
+                "alias":"October","name":"October Verglas","month":"09","day":"30","year":"2001","pronouns":"She/Void","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Glaceon)","occupation":"Baker","residence":"VG","height":"5'10","weight":"125 lbs"
                 },
             "icon":"https://files.catbox.moe/hdjfqg.png","fullbody":"https://files.catbox.moe/ie0iez.png","link":"https://aineop.neocities.org/characters/#OCTOBER",
             "description":"October is a Glaceon. June's younger sister. She used to be born October 11, 2002.",
@@ -1869,7 +1869,7 @@
             },
             
             {"info":{
-                "alias":"Paige","name":"Paige Amaryllis Hamilton","month":"01","day":"07","year":"1991","pronouns":"She/Any","gender":"Nonbinary","orientation":"Lesbian","species":"Furret","occupation":"Streamer, Podcaster, and Cook","residence":"VG","height":"5'8","weight":"146 lbs"
+                "alias":"Paige","name":"Paige Amaryllis Hamilton","month":"01","day":"07","year":"1991","pronouns":"She/Any","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Furret)","occupation":"Streamer, Podcaster, and Cook","residence":"VG","height":"5'8","weight":"146 lbs"
                 },
             "icon":"https://files.catbox.moe/suuty6.png","fullbody":"https://files.catbox.moe/icf734.png","link":"https://aineop.neocities.org/characters/#PAIGE",
             "description":"OH MY GOD.... HERE SHE COMES... IT'S THE PENNSYLVANIAN! Paige is a Furret! She is sweet and a little quiet. Rain lives with him.",
@@ -1878,7 +1878,7 @@
             },
             
             {"info":{
-                "alias":"Sydney","name":"Sydney Medvedev","month":"11","day":"01","year":"1992","pronouns":"He/Him","gender":"Male","orientation":"Aromantic Asexual","species":"Sylveon","occupation":"Bartender and Bank Teller","residence":"VG","height":"5'10","weight":"142 lbs"
+                "alias":"Sydney","name":"Sydney Medvedev","month":"11","day":"01","year":"1992","pronouns":"He/Him","gender":"Male","orientation":"Aromantic Asexual","species":"Pokemon (Sylveon)","occupation":"Bartender and Bank Teller","residence":"VG","height":"5'10","weight":"142 lbs"
                 },
             "icon":"https://files.catbox.moe/n58u4h.png","fullbody":"https://files.catbox.moe/7qbc1b.png","link":"https://aineop.neocities.org/characters/#SYDNEY",
             "description":"Sydney is a shiny Sylveon! He is a Russian bartender. Holds down a more stable bank telling job on the side. He is friends with Steel.",
@@ -1914,7 +1914,7 @@
             },
             
             {"info":{
-                "alias":"Clementine","name":"Clementine Caswell","month":"01","day":"30","year":"1975","pronouns":"She/They","gender":"Female","orientation":"Lesbian","species":"Flareon","occupation":"Mystic Scientist","residence":"VG","height":"5'7","weight":"140 lbs"
+                "alias":"Clementine","name":"Clementine Caswell","month":"01","day":"30","year":"1975","pronouns":"She/They","gender":"Female","orientation":"Lesbian","species":"Pokemon (Flareon)","occupation":"Mystic Scientist","residence":"VG","height":"5'7","weight":"140 lbs"
                 },
             "icon":"https://aineop.neocities.org/images/clementinethumb.png","fullbody":"https://files.catbox.moe/7lmcw9.png","link":"https://aineop.neocities.org/characters/#CLEMENTINE",
             "description":"Clementine is a flareon. She is a mystic scientist, and Jam and Marisol's unwilling adoptive mother.",
@@ -1923,7 +1923,7 @@
             },
             
             {"info":{
-                "alias":"Lexi","name":"Lexi Fairgrove","month":"03","day":"14","year":"1999","pronouns":"She/Her","gender":"Female","orientation":"Asexual Lesbian","species":"Jolteon","occupation":"Mechanic, Roller Skating Instructor, and Indie Band Vocalist/Keyboardist","residence":"VG","height":"5'4","weight":"135 lbs"
+                "alias":"Lexi","name":"Lexi Fairgrove","month":"03","day":"14","year":"1999","pronouns":"She/Her","gender":"Female","orientation":"Asexual Lesbian","species":"Pokemon (Jolteon)","occupation":"Mechanic, Roller Skating Instructor, and Indie Band Vocalist/Keyboardist","residence":"VG","height":"5'4","weight":"135 lbs"
                 },
             "icon":"https://files.catbox.moe/tyt295.png","fullbody":"https://i.postimg.cc/Y0DvWQN9/lexi.png","link":"https://aineop.neocities.org/characters/#LEXI",
             "description":"Lexi is a jolteon. She is an asexual lesbiano. She is very nice and cheerful!",
@@ -1932,7 +1932,7 @@
             },
             
             {"info":{
-                "alias":"Burnie","name":"Burnie Clayton","month":"08","day":"08","year":"1999","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Flareon","occupation":"Sous Chef","residence":"VG","height":"5'6","weight":"170 lbs"
+                "alias":"Burnie","name":"Burnie Clayton","month":"08","day":"08","year":"1999","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Pokemon (Flareon)","occupation":"Sous Chef","residence":"VG","height":"5'6","weight":"170 lbs"
                 },
             "icon":"https://files.catbox.moe/lttsdw.png","fullbody":"https://i.postimg.cc/c1r5t0B9/burnie.png","link":"https://aineop.neocities.org/characters/#BURNIE",
             "description":"Burnie is a flareon. He is big, fat, and pan. He is a chef. He is hyper. You'd think he drinks five cans of Red Bull every morning. Needlessly verbose.",
@@ -1941,7 +1941,7 @@
             },
             
             {"info":{
-                "alias":"June","name":"June Verglas","month":"11","day":"05","year":"1998","pronouns":"She/Her","gender":"Female","orientation":"Demisexual Lesbian","species":"Glaceon","occupation":"Court Clerk","residence":"VG","height":"5'8","weight":"130 lbs"
+                "alias":"June","name":"June Verglas","month":"11","day":"05","year":"1998","pronouns":"She/Her","gender":"Female","orientation":"Demisexual Lesbian","species":"Pokemon (Glaceon)","occupation":"Court Clerk","residence":"VG","height":"5'8","weight":"130 lbs"
                 },
             "icon":"https://files.catbox.moe/qu55tg.png","fullbody":"https://files.catbox.moe/w8buyv.png","link":"https://aineop.neocities.org/characters/#JUNE",
             "description":"June is a glaceon. She is a demisexual lesbian. She is a perfectionist - which makes her resent herself. Works well under pressure. Pretends to be stoic. June is studying business and medicine at the same time, because she's the prized family overachiever. She has a sister named October who her parents couldn't give half a damn about.",
@@ -1950,7 +1950,7 @@
             },
             
             {"info":{
-                "alias":"Lincoln","name":"Lincoln Pulster","month":"03","day":"29","year":"1996","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Espeon","occupation":"Museum Director","residence":"United States","height":"5'7","weight":"140 lbs"
+                "alias":"Lincoln","name":"Lincoln Pulster","month":"03","day":"29","year":"1996","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Espeon)","occupation":"Museum Director","residence":"United States","height":"5'7","weight":"140 lbs"
                 },
             "icon":"https://files.catbox.moe/wvz9a2.png","fullbody":"https://i.postimg.cc/cCx3YsVD/lincoln.png","link":"https://aineop.neocities.org/characters/#LINCOLN",
             "description":"Lincoln is an espeon. He has some anger management issues. A charmer when he isn't screaming at you. He owns a museum, and may have killed his uncle for it.",
@@ -1959,7 +1959,7 @@
             },
             
             {"info":{
-                "alias":"Ion","name":"Anion Petri","month":"02","day":"09","year":"2003","pronouns":"Any","gender":"Fluid","orientation":"Demisexual Omnisexual","species":"Skuntank","occupation":"Drummer for Offensive Content","residence":"VG","height":"5'3","weight":"119 lbs"
+                "alias":"Ion","name":"Anion Petri","month":"02","day":"09","year":"2003","pronouns":"Any","gender":"Fluid","orientation":"Demisexual Omnisexual","species":"Pokemon (Skuntank)","occupation":"Drummer for Offensive Content","residence":"VG","height":"5'3","weight":"119 lbs"
                 },
             "icon":"https://files.catbox.moe/enjbrg.png","fullbody":"https://files.catbox.moe/yzegi2.png","link":"https://aineop.neocities.org/characters/#ION",
             "description":"Ion is A Skuntank! She is a drummer for OFFENSIVE CONTENT.",
@@ -1968,7 +1968,7 @@
             },
             
             {"info":{
-                "alias":"Ashley","name":"Ashley Audrey Cameron","month":"04","day":"18","year":"2002","pronouns":"She/Vi","gender":"Nonbinary","orientation":"Omnisexual","species":"Absol","occupation":"Guitarist for Offensive Content","residence":"VG","height":"5'11","weight":"195 lbs"
+                "alias":"Ashley","name":"Ashley Audrey Cameron","month":"04","day":"18","year":"2002","pronouns":"She/Vi","gender":"Nonbinary","orientation":"Omnisexual","species":"Pokemon (Absol)","occupation":"Guitarist for Offensive Content","residence":"VG","height":"5'11","weight":"195 lbs"
                 },
             "icon":"https://files.catbox.moe/c4yn7g.png","fullbody":"https://files.catbox.moe/fvsn9y.png","link":"https://aineop.neocities.org/characters/#ASHLEY",
             "description":"Ashley is an Absol! Vi is a guitarist for OFFENSIVE CONTENT",
@@ -1977,7 +1977,7 @@
             },
             
             {"info":{
-                "alias":"Mae","name":"Mae Annabelle Fern","month":"05","day":"09","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Fennekin","occupation":"Farmer","residence":"CT","height":"5'2","weight":"115 lbs"
+                "alias":"Mae","name":"Mae Annabelle Fern","month":"05","day":"09","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Pokemon (Fennekin)","occupation":"Farmer","residence":"CT","height":"5'2","weight":"115 lbs"
                 },
             "icon":"https://files.catbox.moe/5pf88i.png","fullbody":"https://files.catbox.moe/fmigr4.png","link":"https://aineop.neocities.org/characters/#MAE",
             "description":"Mae is a 4'9 Fennekin. She is fun and bubbly and cheerful. Mae loves her garden, and plants in general. Apparently, she has a dog.",
@@ -1986,7 +1986,7 @@
             },
             
             {"info":{
-                "alias":"Amber","name":"Amber Rahway","month":"08","day":"09","year":"1974","pronouns":"She/They","gender":"Female","orientation":"Biromantic Asexual","species":"Meowstic","occupation":"Carpenter and Luthier","residence":"Friendship City, CT","height":"6'0","weight":"159 lbs"
+                "alias":"Amber","name":"Amber Rahway","month":"08","day":"09","year":"1974","pronouns":"She/They","gender":"Female","orientation":"Biromantic Asexual","species":"Pokemon (Meowstic)","occupation":"Carpenter and Luthier","residence":"Friendship City, CT","height":"6'0","weight":"159 lbs"
                 },
             "icon":"https://files.catbox.moe/80wc90.png","fullbody":"https://files.catbox.moe/00yp2b.png","link":"https://aineop.neocities.org/characters/#AMBER",
             "description":"Amber is a Meowstic! They are dating Riley. Carves absurd things out of wood - one time, she made a whole mini-living room. One of Comet's mothers.",
@@ -2004,7 +2004,7 @@
             },
 
             {"info":{
-                "alias":"Cedar","name":"Cedar Lehigh Strawb","month":"12","day":"24","year":"","pronouns":"Xe/It","gender":"Nonbinary","species":"Glaceon","occupation":"Explorer","height":"5'1","weight":"90 lbs"
+                "alias":"Cedar","name":"Cedar Lehigh Strawb","month":"12","day":"24","year":"","pronouns":"Xe/It","gender":"Nonbinary","species":"Pokemon (Glaceon)","occupation":"Explorer","height":"5'1","weight":"90 lbs"
                 },
             "icon":"https://files.catbox.moe/xl6s0q.png","fullbody":"https://i.postimg.cc/fTtwBPcR/fb_cedar_rain_without_rain.png","link":"https://aineop.neocities.org/characters/#CEDAR",
             "description":"Cedar is a glaceon who looks dumb.",
@@ -2013,7 +2013,7 @@
             },
 
             {"info":{
-                "alias":"Marisol","name":"Marisol Ximena Serrano","month":"07","day":"16","year":"1995","pronouns":"She/Her","gender":"Female","orientation":"Pansexual","species":"Eevee","occupation":"Pizzaria Owner","residence":"VG","height":"5'11","weight":"160 lbs"
+                "alias":"Marisol","name":"Marisol Ximena Serrano","month":"07","day":"16","year":"1995","pronouns":"She/Her","gender":"Female","orientation":"Pansexual","species":"Pokemon (Eevee)","occupation":"Pizzaria Owner","residence":"VG","height":"5'11","weight":"160 lbs"
                 },
             "icon":"https://files.catbox.moe/cav2xb.png","fullbody":"https://files.catbox.moe/bm2gg8.png","link":"https://aineop.neocities.org/characters/#MARISOL",
             "description":"Marisol seems happy enough running her late mother's business to an outsider, but really, she hates it more than you know. Keeping the restaurant alive ever since she was 11 with no one to help but her adopted sibling, Jam, has completely and utterly crushed her dreams of film school. But, well, it's fine! Not like she can work anywhere else without a diploma! That's just life, baby!",
@@ -2031,7 +2031,7 @@
             },
             
             {"info":{
-                "alias":"Tessa","name":"Theresa Alastair","month":"02","day":"23","year":"2082","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Child","residence":"Earth","height":"4'5","weight":"90 lbs"
+                "alias":"Tessa","name":"Theresa Alastair","month":"02","day":"23","year":"2082","pronouns":"She/Her","gender":"Female","species":"Cat (modified)","occupation":"Child","residence":"Earth","height":"4'5","weight":"90 lbs"
                 },
             "icon":"https://files.catbox.moe/e6glaa.png","fullbody":"https://files.catbox.moe/i19wra.png","link":"https://aineop.neocities.org/characters/#TESSA",
             "description":"Tessa is a cat from the future! She is is really interested in crime in the early 21st century. This is because she lives in the year 2092. I MEAN 2090. Also she's chubby. Tessa is friends with Rory, Apollo, and Carter (032023).",
@@ -2040,7 +2040,7 @@
             },
             
             {"info":{
-                "alias":"Val","name":"Valerie Seriean","month":"05","day":"26","year":"1999","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Sylveon","occupation":"Criminal","residence":"VG","height":"5'2","weight":"205 lbs"
+                "alias":"Val","name":"Valerie Seriean","month":"05","day":"26","year":"1999","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Sylveon)","occupation":"Criminal","residence":"VG","height":"5'2","weight":"205 lbs"
                 },
             "icon":"https://files.catbox.moe/tnewu9.png","fullbody":"https://aineop.neocities.org/images/val.png","link":"https://aineop.neocities.org/characters/#VAL",
             "description":"Val is a laid-back Snowstorm native who handles a lot of the Snowstorm Mares' affairs. Having hit it off with Brooklyn when she arrived back in 2016, they became close friends and built the city's Lavender Mares division from the ground up. When they aren't tending to the Snowstorm Mares, she likes to unwind with trap music and a pack of cigarettes.",
@@ -2049,7 +2049,7 @@
             },
             
             {"info":{
-                "alias":"Brooklyn","name":"Brooklyn Hoarfrost","month":"07","day":"01","year":"1996","pronouns":"She/Her","gender":"Female","orientation":"Pansexual","species":"Glaceon","occupation":"Criminal","residence":"VG","height":"5'6","weight":"139 lbs"
+                "alias":"Brooklyn","name":"Brooklyn Hoarfrost","month":"07","day":"01","year":"1996","pronouns":"She/Her","gender":"Female","orientation":"Pansexual","species":"Pokemon (Glaceon)","occupation":"Criminal","residence":"VG","height":"5'6","weight":"139 lbs"
                 },
             "icon":"https://files.catbox.moe/cqimw5.png","fullbody":"https://files.catbox.moe/zt1e4j.png","link":"https://aineop.neocities.org/characters/#BROOKLYN",
             "description":"Brooklyn is a pink glaceon who runs the Snowstorm Mares.",
@@ -2103,7 +2103,7 @@
             },
             
             {"info":{
-                "alias":"Athena","name":"Athena Hitsuji","month":"10","day":"04","year":"","pronouns":"She/Her","gender":"Female","orientation":"Aromantic Asexual","species":"Wooloo","occupation":"Police Officer","residence":"VG"
+                "alias":"Athena","name":"Athena Hitsuji","month":"10","day":"04","year":"","pronouns":"She/Her","gender":"Female","orientation":"Aromantic Asexual","species":"Pokemon (Wooloo)","occupation":"Police Officer","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/o1rgf3.png","fullbody":"https://files.catbox.moe/pydeum.png","link":"",
             "description":"Athena is a stern Wooloo who likes bees and archery.",
@@ -2112,7 +2112,7 @@
             },
             
             {"info":{
-                "alias":"Spice","name":"Spice","month":"05","day":"08","year":"2007","pronouns":"They/Them","gender":"Nonbinary","species":"Flareon","residence":"VG"
+                "alias":"Spice","name":"Spice","month":"05","day":"08","year":"2007","pronouns":"They/Them","gender":"Nonbinary","species":"Pokemon (Flareon)","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/oslaaa.png","fullbody":"https://files.catbox.moe/uwdz2z.png","link":"",
             "description":"Spice is a flareon who was too hot to die. They died anyway. They were well known for being a supporting character who was often in police chases.",
@@ -2121,7 +2121,7 @@
             },
             
             {"info":{
-                "alias":"London","name":"London Kill","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Espeon","residence":"VG"
+                "alias":"London","name":"London Kill","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Espeon)","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/28wfb9.png","fullbody":"https://files.catbox.moe/bbto2x.png","link":"",
             "description":"London Kill is some dude. He needs meds for mild shitofrenia. Nevermind. He was the owner of the Pulster Art Museum until he died in 2016. [251016 (11)]",
@@ -2130,7 +2130,7 @@
             },
             
             {"info":{
-                "alias":"Kimberly","name":"Kimberly Pulster","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Espeon","residence":"VG"
+                "alias":"Kimberly","name":"Kimberly Pulster","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Espeon)","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/5vtl51.png","fullbody":"https://files.catbox.moe/6shioo.png","link":"",
             "description":"Kimberly is Lincoln's sister.",

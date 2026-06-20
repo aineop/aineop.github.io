@@ -191,7 +191,7 @@
             },
             
             {"info":{
-                "alias":"Sage","name":"Sage Rem Wallflower","month":"04","day":"05","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pickle Cat","occupation":"College Student","residence":"Highland Park, NJ"
+                "alias":"Sage","name":"Sage Rem Wallflower","month":"04","day":"05","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
                 },
             "icon":"https://files.catbox.moe/xfww9m.png","fullbody":"https://files.catbox.moe/ojn5tr.png","link":"/universe/characters/sage.html",
             "description":"Sage is a cat. He likes hoagies. He is Miki's brother. He is part of the class of 2026 at Rutgers University.",
@@ -200,7 +200,7 @@
             },
             
             {"info":{
-                "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"LRV-Cat"
+                "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
                 },
             "icon":"https://files.catbox.moe/zvjcxn.png","fullbody":"https://files.catbox.moe/az6d7r.png","link":"/universe/characters/sharyo.html",
             "description":"Sharyo is an LRV-cat. She was born/manufactured in Japan. She likes California rolls and candy.",
@@ -327,7 +327,7 @@
             "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
             "description":"Soiette is an Oshawott. He likes playing games in the basement. Her signature catchphrase is \"Dang, bitch!\".",
             "created":"2024/12/10",
-            "groups":[]
+            "groups":["slhs"]
             },
             
             {"info":{
@@ -502,7 +502,7 @@
             },
 
             {"info":{
-                "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Jersey Arrow Creature"
+                "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU"
                 },
             "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
             "description":"Trenton is a Jersey Arrow Cat. She is old and tired.",
@@ -565,7 +565,7 @@
             },
 
             {"info":{
-                "alias":"Flan","name":"Flan Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles"
+                "alias":"Flan","name":"Flan Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles, France"
                 },
             "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"/universe/characters/flan.html",
             "description":"Flan is a fox. He worked as a captain for pirate ships from the Succaneer Isles. He was chronically depressed and missed his family. He died by gears grinding in April 1918.",
@@ -713,7 +713,7 @@
             },
             
             {"info":{
-                "alias":"Crys","name":"Crystal Sunstone","month":"09","day":"27","year":"","pronouns":"She/They","gender":"Female","species":"Bug-cat","residence":"VG"
+                "alias":"Crys","name":"Crystal Sunstone","month":"09","day":"27","year":"","pronouns":"She/They","gender":"Female","species":"Cat-bug","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/9sfcqv.png","fullbody":"https://files.catbox.moe/op4nph.png","link":"/universe/characters/crystal.html",
             "description":"Crys is half of a cat and half of an unknown type of bug. She is transgender.",
@@ -830,7 +830,7 @@
             },
             
             {"info":{
-                "alias":"Carlos","name":"Carlos","month":"07","day":"23","year":"2002","pronouns":"He/Him","gender":"Male","species":"Pokemon (Lycanroc)","residence":"United States"
+                "alias":"Carlos","name":"Carlos","month":"07","day":"23","year":"2002","pronouns":"He/Him","gender":"Male","species":"Pokemon (Lycanroc)","residence":"CT"
                 },
             "icon":"https://files.catbox.moe/hz044l.png","fullbody":"https://files.catbox.moe/f8fdr3.png","link":"/universe/characters/carlos.html",
             "description":"Carlos is a midnight lycanroc.",
@@ -1073,7 +1073,7 @@
             },
             
             {"info":{
-                "alias":"Ed","name":"Edward Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Espurr","residence":"Friendship City, CT"
+                "alias":"Ed","name":"Edward Gunby","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Espurr)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269723?1659124537","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Ed is an espurr. He is Martha's cousin (Duncan's son). He is deaf.",
@@ -1091,7 +1091,7 @@
             },
             
             {"info":{
-                "alias":"Elena","name":"Elena Gunby","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Espurr","residence":"Friendship City, CT"
+                "alias":"Elena","name":"Elena Gunby","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Espurr)","residence":"Friendship City, CT"
                 },
             "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269651?1659124166","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Elena is an espurr. She is Martha's little sister. She likes to come with Martha and Liam on recreational trips. Sometimes they'd go with Liam's little brother Leon. Elena may get in trouble.",
@@ -1334,7 +1334,7 @@
             },
             
             {"info":{
-                "alias":"Caitlyn","name":"Caitlyn Redburn","month":"11","day":"08","year":"","pronouns":"She/Her","gender":"Female","species":"Dog","residence":"England, United Kingdom"
+                "alias":"Caitlyn","name":"Caitlyn Redburn","month":"11","day":"08","year":"","pronouns":"She/Her","gender":"Female","species":"Dog","residence":"England"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Caitlyn is a dog. She is Rocky's mother. She loves England.",
@@ -1370,7 +1370,7 @@
             },
 
             {"info":{
-                "alias":"Alice","name":"Alice Willowbrook","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Criminal","residence":"United States"
+                "alias":"Alice","name":"Alice Willowbrook","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","occupation":"Criminal","residence":"CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Alice is a cat. She was a notorious criminal in Radia, and she is often referred to as 'Alice The Shooter'. She is Maureen's mother.",
@@ -1406,7 +1406,7 @@
             },
 
             {"info":{
-                "alias":"Hamison","name":"Hamison Arthur","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Vocalist for Jiva Jinotice","residence":"United States"
+                "alias":"Hamison","name":"Hamison Arthur","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Vocalist for Jiva Jinotice"
                 },
             "icon":"https://files.catbox.moe/gjacrv.png","fullbody":"https://files.catbox.moe/k10wdn.png","link":"",
             "description":"Ham is a human. He is the vocalist of Jiva Jinotice. He is bisexual.",
@@ -1424,7 +1424,7 @@
             },
             
             {"info":{
-                "alias":"Beui","name":"Beui Antodaler","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Human","occupation":"Keyboardist and Guitarist for Jiva Jinotice","residence":"United States"
+                "alias":"Beui","name":"Beui Antodaler","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Human","occupation":"Keyboardist and Guitarist for Jiva Jinotice"
                 },
             "icon":"https://files.catbox.moe/urqzoe.png","fullbody":"https://files.catbox.moe/tgs14i.png","link":"",
             "description":"Beui is a human. She is the keyboardist and guitarist for Jiva Jinotice. She is a lesbian.",
@@ -1433,7 +1433,7 @@
             },
             
             {"info":{
-                "alias":"Toon","name":"Toon Palmer","month":"","day":"","year":"","pronouns":"They/Them","gender":"Nonbinary","species":"Human","occupation":"Bassist for Jiva Jinotice","residence":"United States"
+                "alias":"Toon","name":"Toon Palmer","month":"","day":"","year":"","pronouns":"They/Them","gender":"Nonbinary","species":"Human","occupation":"Bassist for Jiva Jinotice"
                 },
             "icon":"https://files.catbox.moe/uvtvqa.png","fullbody":"https://files.catbox.moe/ta1aoq.png","link":"",
             "description":"Toon is a human. They are a bassist for Jiva Jinotice. They are nonbinary.",
@@ -1442,7 +1442,7 @@
             },
             
             {"info":{
-                "alias":"Antonio","name":"Antonio \"Saggitonio Stirfry\" Yenaderaiou","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Member of Jiva Jinotice","residence":"United States"
+                "alias":"Antonio","name":"Antonio \"Saggitonio Stirfry\" Yenaderaiou","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Member of Jiva Jinotice"
                 },
             "icon":"https://files.catbox.moe/r9il0r.png","fullbody":"https://files.catbox.moe/cnu2fn.png","link":"",
             "description":"6 Year Old Fat Kid is a human. He is asexual. He is not actually 6 years old.",
@@ -1451,7 +1451,7 @@
             },
             
             {"info":{
-                "alias":"Snibbles","name":"Snibbles Dageyouonor","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pudd Bunny","occupation":"Drummer for Jiva Jinotice","residence":"United States"
+                "alias":"Snibbles","name":"Snibbles Dageyouonor","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pudd Bunny","occupation":"Drummer for Jiva Jinotice"
                 },
             "icon":"https://files.catbox.moe/7bts7c.png","fullbody":"https://files.catbox.moe/tcogzb.png","link":"",
             "description":"Snibbles is a wumo. He is the drummer for Jiva Jinotice. They are asexual.",
@@ -1478,7 +1478,7 @@
             },
             
             {"info":{
-                "alias":"Akira","name":"NJT NLR 111","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"LRV-Cat"
+                "alias":"Akira","name":"NJT NLR 111","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
                 },
             "icon":"https://files.catbox.moe/lyiyep.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Akira is an LRV-cat. She and Sharyo are good friends.",
@@ -1487,7 +1487,7 @@
             },
             
             {"info":{
-                "alias":"Rush","name":"NJT NLR 118","month":"12","day":"29","year":"1999","pronouns":"He/She/It","gender":"Nonbinary","species":"LRV-Cat"
+                "alias":"Rush","name":"NJT NLR 118","month":"12","day":"29","year":"1999","pronouns":"He/She/It","gender":"Nonbinary","species":"Cat LRV"
                 },
             "icon":"https://files.catbox.moe/5gv07s.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Rush is an LRV-cat. In line with his name, he is very fast.",
@@ -1496,7 +1496,7 @@
             },
             
             {"info":{
-                "alias":"Spark","name":"NJT NLR 117","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"LRV-Cat"
+                "alias":"Spark","name":"NJT NLR 117","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
                 },
             "icon":"https://files.catbox.moe/lhzxob.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Spark is an LRV-cat. She and Rush are good friends.",
@@ -1505,7 +1505,7 @@
             },
             
             {"info":{
-                "alias":"Berger","name":"NJT HBLR 5018","month":"09","day":"26","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"LRV-Cat"
+                "alias":"Berger","name":"NJT HBLR 5018","month":"09","day":"26","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
                 },
             "icon":"https://files.catbox.moe/ykpqvf.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Berger is an LRV-cat.",
@@ -1703,7 +1703,7 @@
             },
             
             {"info":{
-                "alias":"Mr. Seet","name":"Mr. Seet","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Criminal","species":"Human","residence":"United States"
+                "alias":"Mr. Seet","name":"Mr. Seet","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Criminal","species":"Human","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/ymuwmd.png","fullbody":"https://files.catbox.moe/7rczo4.png","link":"",
             "description":"Mr. Seet is a human. He is a highschool dropout with blond hair. He is acquanitences with Sepitina and Mr. Lock. His favorite song is Butterfly by Crazy Town.",
@@ -1730,7 +1730,7 @@
             },
             
             {"info":{
-                "alias":"Petworth","name":"Chobida Petworth","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"POTUS","species":"Human","residence":"Washington D.C., United States"
+                "alias":"Petworth","name":"Chobida Petworth","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"POTUS","species":"Human","residence":"DC"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Petworth is a human. He is a Republican politician from New Jersey. He is the current president of The United States. His vice president is Fredorak Meatham. He was the frontman of a mildly successful hair metal band in the 80s.",
@@ -1739,7 +1739,7 @@
             },
             
             {"info":{
-                "alias":"Meatham","name":"Fredorak Meatham","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"VPOTUS","species":"Human","residence":"Washington D.C., United States"
+                "alias":"Meatham","name":"Fredorak Meatham","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"VPOTUS","species":"Human","residence":"DC"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Meatham is a human. He is a Republican politician from Utah. He is the current vice president of The United States.",
@@ -1748,7 +1748,7 @@
             },
             
             {"info":{
-                "alias":"Nin","name":"Nin Burna","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","occupation":"Politician","species":"Human","residence":"United States"
+                "alias":"Nin","name":"Nin Burna","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","occupation":"Politician","species":"Human","residence":"CT"
                 },
             "icon":"https://files.catbox.moe/9rn0gq.png","fullbody":"https://files.catbox.moe/8slaxk.png","link":"",
             "description":"Burna is a human. She is a Democratic politician. She ran for Friendship City mayor in the 2020s. She formerly explored lands with Hannah Goria with Pecan Meowth and Pecan Espeon. She was friends with Merrice, who she met in grade school. It is unknown whether she got assassinated overseas.",
@@ -1757,7 +1757,7 @@
             },
             
             {"info":{
-                "alias":"The Mayor","name":"Gibledorg Poominami Riparsenolaph","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Mayor of Friendship City","species":"Human","residence":"United States"
+                "alias":"The Mayor","name":"Gibledorg Poominami Riparsenolaph","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Mayor of Friendship City","species":"Human","residence":"CT"
                 },
             "icon":"https://files.catbox.moe/axaifc.png","fullbody":"https://files.catbox.moe/qzonyd.png","link":"",
             "description":"GPR is a human. He is the current mayor of Friendship City. He is part of the Democratic party.",
@@ -1766,7 +1766,7 @@
             },
             
             {"info":{
-                "alias":"Cryopia","name":"Max Cryopia","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Secret Agent","species":"Human","residence":"United States"
+                "alias":"Cryopia","name":"Max Cryopia","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Secret Agent","species":"Human","residence":"NY"
                 },
             "icon":"https://files.catbox.moe/w9mhep.png","fullbody":"https://files.catbox.moe/s7leyl.png","link":"",
             "description":"Cryopia is a human. He is a secret agent for the United States. He is Nolan's mentor. He has been friends with Windowson Mac since grade school.",
@@ -1775,7 +1775,7 @@
             },
             
             {"info":{
-                "alias":"Windowson","name":"Windowson Mac","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Crypto Bro","species":"Human","residence":"United States"
+                "alias":"Windowson","name":"Windowson Mac","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Crypto Bro","species":"Human","residence":"NY"
                 },
             "icon":"https://files.catbox.moe/7qegog.png","fullbody":"https://files.catbox.moe/o0m5v7.png","link":"",
             "description":"Windowson Mac is a human. He is a crypto bro who resides in the United States. He has been friends with Max Cryopia since grade school. He has right-leaning political and social views.",
@@ -1950,7 +1950,7 @@
             },
             
             {"info":{
-                "alias":"Lincoln","name":"Lincoln Pulster","month":"03","day":"29","year":"1996","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Espeon)","occupation":"Museum Director","residence":"United States","height":"5'7","weight":"140 lbs"
+                "alias":"Lincoln","name":"Lincoln Pulster","month":"03","day":"29","year":"1996","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Espeon)","occupation":"Museum Director","residence":"VG","height":"5'7","weight":"140 lbs"
                 },
             "icon":"https://files.catbox.moe/wvz9a2.png","fullbody":"https://i.postimg.cc/cCx3YsVD/lincoln.png","link":"https://aineop.neocities.org/characters/#LINCOLN",
             "description":"Lincoln is an espeon. He has some anger management issues. A charmer when he isn't screaming at you. He owns a museum, and may have killed his uncle for it.",
@@ -2022,7 +2022,7 @@
             },
             
             {"info":{
-                "alias":"Kory","name":"Kory Cornflower","month":"01","day":"31","year":"2081","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Fox","occupation":"Child","residence":"Earth","height":"4'6","weight":"59 lbs"
+                "alias":"Kory","name":"Kory Cornflower","month":"01","day":"31","year":"2081","pronouns":"Any","gender":"Nonbinary","orientation":"Lesbian","species":"Fox","occupation":"Child","residence":"VG","height":"4'6","weight":"59 lbs"
                 },
             "icon":"https://files.catbox.moe/u0fbfw.png","fullbody":"https://files.catbox.moe/lz6rfq.png","link":"https://aineop.neocities.org/characters/#KORY",
             "description":"Kory is a fallen demigod fox who lives in cyberdystopia.",
@@ -2031,7 +2031,7 @@
             },
             
             {"info":{
-                "alias":"Tessa","name":"Theresa Alastair","month":"02","day":"23","year":"2082","pronouns":"She/Her","gender":"Female","species":"Cat (modified)","occupation":"Child","residence":"Earth","height":"4'5","weight":"90 lbs"
+                "alias":"Tessa","name":"Theresa Alastair","month":"02","day":"23","year":"2082","pronouns":"She/Her","gender":"Female","species":"Cat (modified)","occupation":"Child","residence":"VG","height":"4'5","weight":"90 lbs"
                 },
             "icon":"https://files.catbox.moe/e6glaa.png","fullbody":"https://files.catbox.moe/i19wra.png","link":"https://aineop.neocities.org/characters/#TESSA",
             "description":"Tessa is a cat from the future! She is is really interested in crime in the early 21st century. This is because she lives in the year 2092. I MEAN 2090. Also she's chubby. Tessa is friends with Rory, Apollo, and Carter (032023).",
@@ -2076,7 +2076,7 @@
             },
             
             {"info":{
-                "alias":"Rory","name":"Aurora","month":"","day":"","year":"","residence":"Earth"
+                "alias":"Rory","name":"Aurora","month":"","day":"","year":"","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/gg80kt.png","fullbody":"https://files.catbox.moe/3z5ecr.png","link":"",
             "description":"Tessa's friend.",
@@ -2085,7 +2085,7 @@
             },
             
             {"info":{
-                "alias":"Apollo","name":"Apollo","month":"","day":"","year":"","residence":"Earth"
+                "alias":"Apollo","name":"Apollo","month":"","day":"","year":"","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/17s03f.png","fullbody":"https://files.catbox.moe/s4l5lu.png","link":"",
             "description":"Tessa's friend.",
@@ -2094,7 +2094,7 @@
             },
             
             {"info":{
-                "alias":"Carter","name":"Carter","month":"","day":"","year":"","residence":"Earth"
+                "alias":"Carter","name":"Carter","month":"","day":"","year":"","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/uf2f4u.png","fullbody":"https://files.catbox.moe/gzg640.png","link":"",
             "description":"Tessa's friend.",
@@ -2139,7 +2139,7 @@
             },
             
             {"info":{
-                "alias":"John","name":"Jonathan Pauluson Doemius","month":"10","day":"11","year":"1994","pronouns":"He/Him","gender":"Male","species":"Human","residence":"Earth"
+                "alias":"John","name":"Jonathan Pauluson Doemius","month":"10","day":"11","year":"1994","pronouns":"He/Him","gender":"Male","species":"Human","residence":"VG"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Johnny sucks, dude. Really really sucks. He is an insurance agent. He is 4 feet tall and weighs 13000 pounds.",

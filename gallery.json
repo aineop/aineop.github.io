@@ -1,5 +1,26 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/qzdCXR4g","thumbnail":"https://i.postimg.cc/m2PN4zn3/lawrence-hi.png",
+            "artist":"CoMo","month":"06","day":"19","year":"2026",
+            "title":"Lawrprence",
+            "caption":"Hey, Larry!",
+            "description":"",
+            "tags":["lawrence","sribbles"]},
+                
+          {"link":"https://postimg.cc/LnMZBX26","thumbnail":"https://i.postimg.cc/gkxqpX7R/sagebutt.png",
+            "artist":"CoMo","month":"06","day":"19","year":"2026",
+            "title":"God Awful Red Pants",
+            "caption":"Take off your pants.",
+            "description":"",
+            "tags":["sage","sribbles"]},
+                
+          {"link":"https://postimg.cc/RWS6yD3V","thumbnail":"https://i.postimg.cc/L8ftYd2f/Comm-Pickelini-INT-Final.png",
+            "artist":"Interloper","month":"06","day":"19","year":"2026",
+            "title":"On Time",
+            "caption":"[Commission] Running on the tracks!",
+            "description":"",
+            "tags":["sharyo","sribbles"]},
+                
           {"link":"https://postimg.cc/p9Hc7rmV","thumbnail":"https://i.postimg.cc/g0X9x6dh/leafeon26.png",
             "artist":"CoMo","month":"06","day":"18","year":"2026",
             "title":"Leafeon Day 2026",
@@ -9264,8 +9285,15 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/pmWh469N","thumbnail":"https://i.postimg.cc/7Z73GvwL/mischa.png",
+            "artist":"CoJu","month":"06","day":"19","year":"2026",
+            "title":"Mischa's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["mischa","sribbles"]},
+                
           {"link":"https://postimg.cc/z3V7xKdN","thumbnail":"https://i.postimg.cc/J7QF4QZs/mikiref.png",
-            "artist":"CoMo","month":"06","day":"17","year":"2026",
+            "artist":"CoJu","month":"06","day":"17","year":"2026",
             "title":"Miki's Reference",
             "caption":"",
             "description":"",
@@ -9605,7 +9633,7 @@
             "title":"Carc, Carc Sr., and Seb's Reference",
             "caption":"",
             "description":"",
-            "tags":["carc","carcsr","seb","sribbles"]},
+            "tags":["carc","glametal","seb","sribbles"]},
             
             {"link":"https://postimg.cc/JsjPV8b7","thumbnail":"https://i.postimg.cc/BnVyFQbF/lexiref.png",
             "artist":"CoJu","month":"03","day":"06","year":"2025",

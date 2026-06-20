@@ -59,7 +59,7 @@
                 "alias":"Comet","name":"Comet Polaris Rahway","month":"03","day":"29","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","occupation":"College Student and Lab Assistant","residence":"118 Blair St, Friendship City, CT","height":"5'9"
                 },
             "icon":"https://files.catbox.moe/8q4xa7.png","fullbody":"https://files.catbox.moe/gayvse.png","link":"/universe/characters/comet.html",
-            "description":"Comet is a male meowstic. He likes chocolate chip cookies and BeamNG drive. He is a lab assistant for the mad scientist Mose. He is part of the class of 2026 at Friendship University.",
+            "description":"Comet is a male meowstic. He likes chocolate chip cookies and BeamNG drive. He is a lab assistant for the mad scientist Mose. He is part of the class of 2027 at Friendship University.",
             "created":"2020/10",
             "groups":["ndhs","fu","rahway","mose_lab","am"]
             },
@@ -182,7 +182,7 @@
             },
             
             {"info":{
-                "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/Her","gender":"Fluid","orientation":"Bisexual","species":"Cat","occupation":"Walm Employee and Bassist for O.C.","residence":"Cannaboun, VG","height":"5'6"
+                "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/Her","gender":"Fluid","orientation":"Bisexual","species":"Cat","occupation":"Bassist for Offensive Content and Security Camera Person","residence":"Cannaboun, VG","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/7df3hn.png","fullbody":"https://files.catbox.moe/yyglr1.png","link":"/universe/characters/pocky.html",
             "description":"Pocky is a blue cat. He likes root beer and listening to Megadeth. They work at a retail store in Evergreen.",
@@ -379,16 +379,16 @@
                 "alias":"Garland","name":"Garland Green Day","month":"06","day":"18","year":"2002","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Hairdresser","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/jye63f.png","fullbody":"https://files.catbox.moe/o0humo.png","link":"/universe/characters/garland.html",
-            "description":"Garland, or Sandy, is a leafeon. She is confident and outgoing, and mischevious and devious. Her brother is Lawrence.",
+            "description":"Garland, or Sandy, is a leafeon. She is confident, outgoing, devious, mischevious, and polyamorous. No. Not the last part. Her brother is Lawrence.",
             "created":"2025/06/18",
             "groups":["day"]
             },
             
             {"info":{
-                "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2002","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Octopator","residence":"Arthur City, NY","height":"5'2"
+                "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2002","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Employee for Arthur City Public Library","residence":"Arthur City, NY","height":"5'2"
                 },
             "icon":"https://files.catbox.moe/gln34z.png","fullbody":"https://files.catbox.moe/06y68z.png","link":"/universe/characters/lawrence.html",
-            "description":"Lawrence is a leafeon. He is shy and nervious. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
+            "description":"Lawrence is a leafeon. He is shy and nervous. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
             "created":"2025/06/20",
             "groups":["day"]
             },
@@ -511,7 +511,7 @@
             },
 
             {"info":{
-                "alias":"Amulet","name":"Amulet Viscera","month":"10","day":"19","year":"1919","pronouns":"Any","gender":"Nonbinary","species":"Cat","occupation":"Mortuitistic Scientist and Funny","residence":"Friendship City, CT"
+                "alias":"Amulet","name":"Amulet Viscera","month":"10","day":"19","year":"1919","pronouns":"Any","gender":"Nonbinary","species":"Cat","occupation":"Mortician","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/s08idx.png","fullbody":"https://files.catbox.moe/xndzrh.png","link":"/universe/characters/amulet.html",
             "description":"Amulet is a cat. Because of her physical condition, she is constantly in pain.",
@@ -650,7 +650,7 @@
             },
 
             {"info":{
-                "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"2004","pronouns":"Any","gender":"Nonbinary","species":"Pokemon (Eevee)","occupation":"Employee for Ocky's Bakery","residence":"VG"
+                "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"2004","pronouns":"Any","gender":"Nonbinary","species":"Pokemon (Eevee)","occupation":"Hiver Cafe Assistant","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/jm793w.png","fullbody":"https://i.postimg.cc/R0S8NQmk/sprinccles.png","link":"/universe/characters/sprinkles.html",
             "description":"Sprinkles is an eevee. He works at a cafe.",
@@ -1019,7 +1019,7 @@
             },
             
             {"info":{
-                "alias":"Willow","name":"Willow Silva","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","residence":"Friendship City, CT"
+                "alias":"Willow","name":"Willow Silva","month":"03","day":"04","year":"2009","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/6a35fs.png","fullbody":"https://files.catbox.moe/8xjfkf.png","link":"",
             "description":"Willow is a vulpix. She is one of Oakwood's sisters.",
@@ -1208,7 +1208,7 @@
             },
             
             {"info":{
-                "alias":"Vari","name":"Vari","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Vari","residence":"Friendship City, CT"
+                "alias":"Vari","name":"Vari","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Loomian (Vari)","residence":"Friendship City, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Vari is a vari. He is Diamond's current husband.",
@@ -1523,29 +1523,11 @@
             },
             
             {"info":{
-                "alias":"Iris","name":"Iris Cleaves","month":"04","day":"30","year":"1998","pronouns":"She/Her","gender":"Female","species":"Cat"
-                },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Iris is a cat.",
-            "created":"2025/04/30",
-            "groups":["highland_park"]
-            },
-            
-            {"info":{
-                "alias":"Ivy","name":"Ivy Cleaves","month":"04","day":"30","year":"1998","pronouns":"She/Her","gender":"Female","species":"Cat"
-                },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Ivy is a cat. She is a guitarist.",
-            "created":"2025/05/21",
-            "groups":["highland_park"]
-            },
-            
-            {"info":{
-                "alias":"Gardenia","name":"Gardenia Cleaves","month":"04","day":"30","year":"1998","pronouns":"She/Her","gender":"Female","species":"Cat"
+                "alias":"Gardenia","name":"Iris Gardenia Cleaves","month":"04","day":"30","year":"1998","pronouns":"She/Her","gender":"Female","species":"Cat"
                 },
             "icon":"https://files.catbox.moe/mgtoa9.png","fullbody":"https://files.catbox.moe/oihaiz.png","link":"",
-            "description":"Gardenia is a cat who is or was an undergraduate student at Princeton University. She dormed with June. June often uttered \"Damn it, Cleaves!\" due to how often she was bothered by Gardenia's shenanigans.",
-            "created":"2025/05/21",
+            "description":"Gardenia is a cat who was an undergraduate student at Princeton University. She dormed with June. June often uttered \"Damn it, Cleaves!\" due to how often she was bothered by Gardenia's shenanigans. Gardenia may or may not know how to play the guitar or create digital illustrations.",
+            "created":"2025/04/30",
             "groups":["princeton","highland_park"]
             },
             
@@ -1712,7 +1694,7 @@
             },
             
             {"info":{
-                "alias":"Vanilla","name":"Aslarvanillamor Slasgay Uhwall","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","occupation":"Queen Of Connecticut","species":"Giant","residence":"Radia, CT"
+                "alias":"Vanilla","name":"Aslarvanillamor Slasgay Uhwall","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","occupation":"Connecticut Queen","species":"Giant","residence":"Radia, CT"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Aslarvanillamor is a giant. She used Pad for her Pad before Pad became a Bad Pad. She is the queen of Connecticut.",
@@ -1721,7 +1703,7 @@
             },
             
             {"info":{
-                "alias":"Wyllisk","name":"Wyllisk Slasgay Uhwall","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"King Of Connecticut","species":"Giant","residence":"Radia, CT"
+                "alias":"Wyllisk","name":"Wyllisk Slasgay Uhwall","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Connecticut King","species":"Giant","residence":"Radia, CT"
                 },
             "icon":"https://files.catbox.moe/6rxtck.png","fullbody":"https://files.catbox.moe/lrcs9l.png","link":"",
             "description":"Wyllisk is a giant. He has umbrellas for eyes (he regularly sheds them). He is the king of Connecticut.",
@@ -1780,6 +1762,51 @@
             "icon":"https://files.catbox.moe/7qegog.png","fullbody":"https://files.catbox.moe/o0m5v7.png","link":"",
             "description":"Windowson Mac is a human. He is a crypto bro who resides in the United States. He has been friends with Max Cryopia since grade school. He has right-leaning political and social views.",
             "created":"2020/04/14",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"Piq","name":"Piq Al Eni","month":"","day":"","year":"1979","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Crime Boss","residence":"Radia, CT","height":"5'8"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"Piq Al Eni was a notorious crime boss who was active in northwestern Connecticut. His known siblings are Tab Al Eni, Prenson Entie Al Eni, and Chip and Lynn's father.",
+            "created":"2023/11",
+            "groups":["radia"]
+            },
+
+            {"info":{
+                "alias":"Chad","name":"Chad Goldstone","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Museum Director","residence":"NY","height":"6'0"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"Chad Goldstone, commonly known as Museum Guy, is a museum director for a museum in Friendship City. He ran a balloon stand until his wife, Jiva Jinotice member Laiah Zaiope, passed away.",
+            "created":"2023",
+            "groups":["jiva_jinotice"]
+            },
+
+            {"info":{
+                "alias":"Styx","name":"Styx","month":"","day":"","year":"2004","pronouns":"They/Them","gender":"Nonbinary","species":"Fox","occupation":"College Student","residence":"CT","height":"5'8"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"Styx is a fennec fox whose family runs a restaurant called Styx's Steak. Their family is a big fan of Eric Pate, the founder of Skweey Dunder. Styx goes to Friendship University and is friends with Nisha.",
+            "created":"2023/05/16",
+            "groups":["fu"]
+            },
+
+            {"info":{
+                "alias":"Wave","name":"Wave 2ta22eaux","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Vaporeon)","occupation":"Doctor","residence":"CT","height":"6'0"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"Wave, commonly known as The Mean Doctor, is a doctor who works in Friendship City. He usually wears a marshmallow costume. He is often rude to patients. This rage is rumored to be attributed to the fact that Wave's last name, which contains numbers, are unable to be registered in many systems.",
+            "created":"2023/12",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"Venus","name":"Venus Konstallo","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Spectrier)","occupation":"Director of Lepantslab Foundation","residence":"CT","height":"6'0"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"Venus, commonly known as Pony Guy, is the founding director of the Lepantslab Foundation, a charity organization that assists the unhoused in Connecticut. She has a son, Bradley, who's a deadbeat loser and frequents Club Cinder in Friendship City. She has another son, Mars, who is known as Pony Girl. Lit and Mars are part of the V and Ax club at Verr University.",
+            "created":"2024/06/25",
             "groups":[]
             }
             
@@ -1923,7 +1950,7 @@
             },
             
             {"info":{
-                "alias":"Lexi","name":"Lexi Fairgrove","month":"03","day":"14","year":"1999","pronouns":"She/Her","gender":"Female","orientation":"Asexual Lesbian","species":"Pokemon (Jolteon)","occupation":"Mechanic, Roller Skating Instructor, and Indie Band Vocalist/Keyboardist","residence":"VG","height":"5'4","weight":"135 lbs"
+                "alias":"Lexi","name":"Lexi Fairgrove","month":"03","day":"14","year":"1999","pronouns":"She/Her","gender":"Female","orientation":"Asexual Lesbian","species":"Pokemon (Jolteon)","occupation":"Vocalist/Keyboardist for Offensive Content and Mechanic and Roller Skating Instructor","residence":"VG","height":"5'4","weight":"135 lbs"
                 },
             "icon":"https://files.catbox.moe/tyt295.png","fullbody":"https://i.postimg.cc/Y0DvWQN9/lexi.png","link":"https://aineop.neocities.org/characters/#LEXI",
             "description":"Lexi is a jolteon. She is an asexual lesbiano. She is very nice and cheerful!",
@@ -1995,7 +2022,7 @@
             },
             
             {"info":{
-                "alias":"Riley","name":"Riley Corinne","month":"09","day":"26","year":"1974","pronouns":"They/Them","gender":"Female","orientation":"Lesbian","species":"Alien","occupation":"Bomb Technician and Bus Driver","residence":"Friendship City, CT","height":"7'0","weight":"292 lbs"
+                "alias":"Riley","name":"Riley Corinne","month":"09","day":"26","year":"1974","pronouns":"They/Them","gender":"Female","orientation":"Lesbian","species":"Alien","occupation":"Bomb Technician","residence":"Friendship City, CT","height":"7'0","weight":"292 lbs"
                 },
             "icon":"https://files.catbox.moe/elz9ny.png","fullbody":"https://files.catbox.moe/3j45ft.png","link":"https://aineop.neocities.org/characters/#RILEY",
             "description":"Riley is a Hattrem with Slurpuff elements? Apparently? What? Riley is deaf, and dating Amber. They're also fat, and tall. One of Comet's mothers. They are an alien.",
@@ -2055,6 +2082,15 @@
             "description":"Brooklyn is a pink glaceon who runs the Snowstorm Mares.",
             "created":"2020/10/24",
             "groups":["cherry_batter", "snowstorm_mares", "verglas","lavallet"]
+            },
+
+            {"info":{
+                "alias":"Mischa","name":"Mischa LeBlanc","month":"07","day":"10","year":"1968","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Zorua)","occupation":"Hiver Cafe Owner","residence":"VG","height":"5'5"
+                },
+            "icon":"https://files.catbox.moe/igd3lr.png","fullbody":"https://files.catbox.moe/xqgkxw.png","link":"",
+            "description":"Mischa is a zorua. He died on May 25, 2016.",
+            "created":"2026/06/19",
+            "groups":[]
             },
             
             {"info":{

@@ -5,7 +5,7 @@
                 "alias":"Ball","name":"Arsler Newport Ballston","month":"01","day":"17","year":"2006","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Meowstic)","occupation":"College Student","residence":"116 Blair St, Friendship City, CT","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/vrjdjy.png","fullbody":"https://files.catbox.moe/rzlf1c.png","link":"/universe/characters/ball.html",
-            "description":"Ball is a male meowstic. He likes trains and Weezer. He is part of the class of 2027 at Verr University.",
+            "description":"<p>Ball is a quiet, nerdy Meowstic who loves everything about trains. He's taken hundreds of pictures of them, and considers himself something of a train connoisseur. He's pretty shy and reserved outwardly, but once you eventually get to know him, he's just an easy-going guy who's endlessly devoted to his interests. He is part of the class of 2027 at Verr University.</p>",
             "created":"2018/12",
             "groups":["ndhs","verr","ballston","am"]
             },
@@ -14,7 +14,7 @@
                 "alias":"Lit","name":"Lit Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Pokemon (Victini)","occupation":"College Student","residence":"3 Ebiglepton Ct, Friendship City, CT","height":"5'2"
                 },
             "icon":"https://files.catbox.moe/ebic4t.png","fullbody":"https://files.catbox.moe/t7xznf.png","link":"/universe/characters/lit.html",
-            "description":"Lit is a victini. She likes spaghetti and post grunge music. She is the main character in It's Been Awhile, a comic about the death of her sister Flingy due to Lit's criminal activity, and all that entails. She is part of the class of 2027 at Verr University.",
+            "description":"<p>Lit is a former troublemaker who had her spirit crushed when her sister died from an incident that was more than partially Lit's fault. She dipped her toes too far down into the criminal underbelly of Doubax and got dragged too far in to come out without a few casualties. She eventually got justice served to her sister's murderers, but she was never the same after that. She's currently struggling through college and wondering what she could've done differently. She is part of the class of 2027 at Verr University.</p>",
             "created":"2019/06",
             "groups":["ndhs","verr","cupcake","am"]
             },
@@ -88,7 +88,7 @@
             "icon":"https://files.catbox.moe/ytql98.png","fullbody":"https://files.catbox.moe/xa7erd.png","link":"/universe/characters/ash.html",
             "description":"Ash is a white cat. He likes lemonade and legos. He is a research subject, drag queen, and performer.",
             "created":"2023/06",
-            "groups":["seedwick"]
+            "groups":["seedwick","reanimated"]
             },
             
             {"info":{
@@ -119,7 +119,7 @@
             },
             
             {"info":{
-                "alias":"Rocky","name":"Summer Hazel Culver","month":"01","day":"18","year":"1998","pronouns":"She/Him","gender":"Female","orientation":"Bisexual","species":"Dog","occupation":"Business Owner and Guitarist for C.A.F.","residence":"431 Brichier St, Arthur City, NY"
+                "alias":"Rocky","name":"Summer Hazel Culver","month":"01","day":"18","year":"1998","pronouns":"He/She","gender":"Female","orientation":"Bisexual","species":"Dog","occupation":"Business Owner and Guitarist for C.A.F.","residence":"431 Brichier St, Arthur City, NY"
                 },
             "icon":"https://i.postimg.cc/y8qpD7rq/rockythumb.png","fullbody":"https://files.catbox.moe/2az23o.png","link":"/universe/characters/rocky.html",
             "description":"Rocky is a pink dog. She is very friendly and energetic. He is a metalhead and a skilled guitarist. Her boyfriend is Nolan, and she sometimes calls him Oreo. She runs a music store in Arthur City, and employs Zilly and Liam.",
@@ -182,7 +182,7 @@
             },
             
             {"info":{
-                "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/Her","gender":"Fluid","orientation":"Bisexual","species":"Cat","occupation":"Bassist for Offensive Content and Security Camera Person","residence":"Cannaboun, VG","height":"5'6"
+                "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/She","gender":"Fluid","orientation":"Bisexual","species":"Cat","occupation":"Bassist for Offensive Content and Security Camera Person","residence":"Cannaboun, VG","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/7df3hn.png","fullbody":"https://files.catbox.moe/yyglr1.png","link":"/universe/characters/pocky.html",
             "description":"Pocky is a blue cat. He likes root beer and listening to Megadeth. They work at a retail store in Evergreen.",
@@ -200,7 +200,7 @@
             },
             
             {"info":{
-                "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
+                "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'8"
                 },
             "icon":"https://files.catbox.moe/zvjcxn.png","fullbody":"https://files.catbox.moe/az6d7r.png","link":"/universe/characters/sharyo.html",
             "description":"Sharyo is an LRV-cat. She was born/manufactured in Japan. She likes California rolls and candy.",
@@ -214,7 +214,7 @@
             "icon":"https://files.catbox.moe/xgi9ha.png","fullbody":"https://files.catbox.moe/pfu3ah.png","link":"/universe/characters/ram.html",
             "description":"Ram is a sheep. They like ugly sweaters and dirinks hot choocolate. They are a PhD student studying mathematics at some institution in Evergreen.",
             "created":"2025/07/27",
-            "groups":["fu","lavallet"]
+            "groups":["fu","lavalett"]
             },
             
             {"info":{
@@ -227,7 +227,7 @@
             },
 
             {"info":{
-                "alias":"Nowun","name":"Nowun","month":"0","day":"0","year":"0","pronouns":"He/Him","occupation":"Demigod Of Alpha Centauri","species":"Demigod"
+                "alias":"Nowun","name":"Nowun","month":"","day":"","year":"","pronouns":"He/Him","occupation":"Demigod Of Alpha Centauri","species":"Demigod"
                 },
             "icon":"https://files.catbox.moe/ukqc0w.png","fullbody":"https://files.catbox.moe/cxkrjo.png","link":"/universe/characters/nowun.html",
             "description":"Nowun is a feline-like demigod. He wears a cloak and wears an amulet and can shapeshift. He oversees the Alpha-Centauri planetary system.",
@@ -426,7 +426,7 @@
             "icon":"https://files.catbox.moe/0e3ujs.png","fullbody":"https://files.catbox.moe/0e3ujs.png","link":"/universe/characters/raby.html",
             "description":"Raby is a block creature. She used to be a human named Rosalind. She is an engineer for the Futurists and a bus mechanic for Friendship City Transit.",
             "created":"2022/08",
-            "groups":["futurists"]
+            "groups":["futurists","reanimated"]
             },
             
             {"info":{
@@ -502,11 +502,20 @@
             },
 
             {"info":{
-                "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU"
+                "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU","height":"5'11"
                 },
             "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
             "description":"Trenton is a Jersey Arrow Cat. She is old and tired.",
             "created":"2025/10/09",
+            "groups":["mose_lab"]
+            },
+
+            {"info":{
+                "alias":"Nabi","name":"NJT NABI 6446","month":"10","day":"20","year":"2012","pronouns":"She/It","gender":"Nonbinary","species":"Dog Omnibus","height":"5'0"
+                },
+            "icon":"https://files.catbox.moe/xu1dw0.png","fullbody":"https://files.catbox.moe/fbff8x.png","link":"",
+            "description":"Nabi is a bus dog. She is old (in bus years), tired, and grumpy. She is usually covered in duct tape and scars and she smells like weed.",
+            "created":"2026/01/02",
             "groups":["mose_lab"]
             },
 
@@ -605,10 +614,10 @@
             },
 
             {"info":{
-                "alias":"Far","name":"Far","month":"","day":"","year":"","pronouns":"Any","gender":"Nonbinary","species":"Pokemon Hybrid (Espeon-Flareon)","residence":"Friendship City, CT"
+                "alias":"Far","name":"Far","month":"12","day":"03","year":"1998","pronouns":"They/Them","gender":"Nonbinary","orientation":"Toric","species":"Pokemon Hybrid (Espeon-Flareon)","residence":"Friendship City, CT","occupation":"Lab Assistant","height":"5'5","weight":"130 lbs"
                 },
             "icon":"https://files.catbox.moe/u39jlf.png","fullbody":"https://files.catbox.moe/3xnw8r.png","link":"",
-            "description":"Far is a flareon-espeon hybrid. He is Mose's lab assistant.",
+            "description":"Far is a flareon-espeon hybrid. They're Mose's lab assistant. They like The Bad Touch by Bloodhound Gang.",
             "created":"2022/12",
             "groups":["mose_lab","fu"]
             },
@@ -650,12 +659,12 @@
             },
 
             {"info":{
-                "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"2004","pronouns":"Any","gender":"Nonbinary","species":"Pokemon (Eevee)","occupation":"Hiver Cafe Assistant","residence":"VG"
+                "alias":"Sprinkles","name":"Sprinkles Auraton","month":"09","day":"02","year":"1986","pronouns":"Any","gender":"Nonbinary","species":"Pokemon (Eevee)","occupation":"Hiver Cafe Assistant","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/jm793w.png","fullbody":"https://i.postimg.cc/R0S8NQmk/sprinccles.png","link":"/universe/characters/sprinkles.html",
-            "description":"Sprinkles is an eevee. He works at a cafe.",
+            "description":"Sprinkles is an eevee. He works at a cafe. He is Sugar's uncle.",
             "created":"2023/09",
-            "groups":[]
+            "groups":["hiver_cafe"]
             },
 
             {"info":{
@@ -1478,7 +1487,7 @@
             },
             
             {"info":{
-                "alias":"Akira","name":"NJT NLR 111","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
+                "alias":"Akira","name":"NJT NLR 111","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'8"
                 },
             "icon":"https://files.catbox.moe/lyiyep.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Akira is an LRV-cat. She and Sharyo are good friends.",
@@ -1487,7 +1496,7 @@
             },
             
             {"info":{
-                "alias":"Rush","name":"NJT NLR 118","month":"12","day":"29","year":"1999","pronouns":"He/She/It","gender":"Nonbinary","species":"Cat LRV"
+                "alias":"Rush","name":"NJT NLR 118","month":"12","day":"29","year":"1999","pronouns":"He/She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'0"
                 },
             "icon":"https://files.catbox.moe/5gv07s.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Rush is an LRV-cat. In line with his name, he is very fast.",
@@ -1496,7 +1505,7 @@
             },
             
             {"info":{
-                "alias":"Spark","name":"NJT NLR 117","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
+                "alias":"Spark","name":"NJT NLR 117","month":"","day":"","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'0"
                 },
             "icon":"https://files.catbox.moe/lhzxob.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Spark is an LRV-cat. She and Rush are good friends.",
@@ -1505,7 +1514,7 @@
             },
             
             {"info":{
-                "alias":"Berger","name":"NJT HBLR 5018","month":"09","day":"26","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV"
+                "alias":"Berger","name":"NJT HBLR 5018","month":"09","day":"26","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'8"
                 },
             "icon":"https://files.catbox.moe/ykpqvf.png","fullbody":"/images/PLACEHOLDER.png","link":"/universe/characters/sharyo.html",
             "description":"Berger is an LRV-cat.",
@@ -1526,7 +1535,7 @@
                 "alias":"Gardenia","name":"Iris Gardenia Cleaves","month":"04","day":"30","year":"1998","pronouns":"She/Her","gender":"Female","species":"Cat"
                 },
             "icon":"https://files.catbox.moe/mgtoa9.png","fullbody":"https://files.catbox.moe/oihaiz.png","link":"",
-            "description":"Gardenia is a cat who was an undergraduate student at Princeton University. She dormed with June. June often uttered \"Damn it, Cleaves!\" due to how often she was bothered by Gardenia's shenanigans. Gardenia may or may not know how to play the guitar or create digital illustrations.",
+            "description":"Gardenia is a cat who was an undergraduate student at Princeton University. She dormed with June. June often uttered \"Damn it, Cleaves!\" due to how often she was bothered by Gardenia's shenanigans. Gardenia may or may not know how to play the guitar or create digital illustrations. She likes calzones, not french fries.",
             "created":"2025/04/30",
             "groups":["princeton","highland_park"]
             },
@@ -1568,7 +1577,7 @@
             },
             
             {"info":{
-                "alias":"Ten Man","name":"Ten Man","month":"0","day":"0","year":"0","pronouns":"He/Him","occupation":"God","species":"God"
+                "alias":"Ten Man","name":"Ten Man","month":"","day":"","year":"","pronouns":"He/Him","occupation":"God","species":"God"
                 },
             "icon":"https://files.catbox.moe/ktnvkl.png","fullbody":"https://files.catbox.moe/mp7yad.png","link":"",
             "description":"Ten Man is an entity who is known for creating the universe. He is often depicted in a humanoid form. It is known by at least one mortal on Earth that he was grounded by his mother and is stuck in his room for all eternity. He is made of Tennonite.",
@@ -1577,7 +1586,7 @@
             },
             
             {"info":{
-                "alias":"Beryl","name":"Beryl","month":"0","day":"0","year":"0","pronouns":"She/Her","occupation":"God","species":"God"
+                "alias":"Beryl","name":"Beryl","month":"","day":"","year":"","pronouns":"She/Her","occupation":"God","species":"God"
                 },
             "icon":"https://files.catbox.moe/304ow7.png","fullbody":"https://files.catbox.moe/tapc8y.png","link":"",
             "description":"Beryl is a \"giant sequoia that teleports on occasion\".",
@@ -1586,7 +1595,7 @@
             },
             
             {"info":{
-                "alias":"Weird","name":"Protector Weird","month":"0","day":"0","year":"0","pronouns":"He/Him","occupation":"Protector","species":"Protector"
+                "alias":"Weird","name":"Protector Weird","month":"","day":"","year":"","pronouns":"He/Him","occupation":"Protector","species":"Protector"
                 },
             "icon":"https://files.catbox.moe/hiyk20.png","fullbody":"https://files.catbox.moe/vwl8r0.png","link":"",
             "description":"Protector Weird is a Protector.",
@@ -1595,7 +1604,7 @@
             },
             
             {"info":{
-                "alias":"Cassot","name":"Cassot","month":"0","day":"0","year":"0","pronouns":"He/Him","occupation":"Demigod Of The Joy System","species":"Demigod"
+                "alias":"Cassot","name":"Cassot","month":"","day":"","year":"","pronouns":"He/Him","occupation":"Demigod Of The Joy System","species":"Demigod"
                 },
             "icon":"https://files.catbox.moe/8ws7m7.png","fullbody":"https://files.catbox.moe/xmu9ys.png","link":"",
             "description":"Cassot is a humanoid with an onion head. His energy was harvested by the life forms of Planet Coju.",
@@ -1604,7 +1613,7 @@
             },
             
             {"info":{
-                "alias":"Strobbot","name":"Strobbot","month":"0","day":"0","year":"0","pronouns":"He/Him","occupation":"Demigod Of The Joy System","species":"Demigod"
+                "alias":"Strobbot","name":"Strobbot","month":"","day":"","year":"","pronouns":"He/Him","occupation":"Demigod Of The Joy System","species":"Demigod"
                 },
             "icon":"https://files.catbox.moe/7xzmh8.png","fullbody":"https://files.catbox.moe/endixu.png","link":"",
             "description":"Strobbot is a humanoid with a strawberry (or carrot) head. He caused a great flood on Planet Coju as punishment for them harvesting the energy of his best friend Cassot.",
@@ -1613,7 +1622,7 @@
             },
             
             {"info":{
-                "alias":"Linus","name":"Linus","month":"0","day":"0","year":"0","pronouns":"He/Him","occupation":"Demigod","species":"Demigod"
+                "alias":"Linus","name":"Linus","month":"","day":"","year":"","pronouns":"He/Him","occupation":"Demigod","species":"Demigod"
                 },
             "icon":"https://files.catbox.moe/7spwbf.png","fullbody":"https://files.catbox.moe/vgyh5l.png","link":"",
             "description":"Linus is a demigod. He got mad at Nowun.",
@@ -1815,7 +1824,7 @@
     "cojuverse":
         [
             {"info":{
-                "alias":"Rain","name":"Rain February-Pulster","month":"12","day":"24","year":"1994","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Espeon)","occupation":"Journalist","residence":"Jadebark, VG","height":"5'7","weight":"120 lbs"
+                "alias":"Rain","name":"Rain February-Pulster","month":"12","day":"24","year":"1994","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Espeon)","occupation":"Journalist","residence":"72 Dovehill Rd, Jadebark, VG","height":"5'7","weight":"120 lbs"
                 },
             "icon":"https://files.catbox.moe/d32u94.png","fullbody":"https://files.catbox.moe/satxs9.png","link":"https://aineop.neocities.org/characters/#RAIN",
             "description":"Rain is a tired Espeon journalist who lives with Paige. It teams up with Blair to reunite xem with xer siblings and put Lincoln in prison.",
@@ -1883,7 +1892,7 @@
             "icon":"https://files.catbox.moe/a43zi3.png","fullbody":"https://files.catbox.moe/6tsv4e.png","link":"https://aineop.neocities.org/characters/#JAM",
             "description":"Jam is a hybrid between an Espeon and a Flareon. Jam is very silly. It works at Aitana's, which is its adoptive older sister's pizza place.",
             "created":"2022/07/15",
-            "groups":["cherry_batter", "demigod_plot", "caswell"]
+            "groups":["demigod_plot", "caswell"]
             },
             
             {"info":{
@@ -1892,11 +1901,11 @@
             "icon":"https://files.catbox.moe/hdjfqg.png","fullbody":"https://files.catbox.moe/ie0iez.png","link":"https://aineop.neocities.org/characters/#OCTOBER",
             "description":"October is a Glaceon. June's younger sister. She used to be born October 11, 2002.",
             "created":"2021/12/13",
-            "groups":["cherry_batter","verglas","lavallet"]
+            "groups":["cherry_batter","verglas","lavalett","hiver_cafe","reanimated"]
             },
             
             {"info":{
-                "alias":"Paige","name":"Paige Amaryllis Hamilton","month":"01","day":"07","year":"1991","pronouns":"She/Any","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Furret)","occupation":"Streamer, Podcaster, and Cook","residence":"VG","height":"5'8","weight":"146 lbs"
+                "alias":"Paige","name":"Paige Amaryllis Hamilton","month":"01","day":"07","year":"1991","pronouns":"She/Any","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Furret)","occupation":"Streamer, Podcaster, and Cook","residence":"72 Dovehill Rd, Jadebark, VG","height":"5'8","weight":"146 lbs"
                 },
             "icon":"https://files.catbox.moe/suuty6.png","fullbody":"https://files.catbox.moe/icf734.png","link":"https://aineop.neocities.org/characters/#PAIGE",
             "description":"OH MY GOD.... HERE SHE COMES... IT'S THE PENNSYLVANIAN! Paige is a Furret! She is sweet and a little quiet. Rain lives with him.",
@@ -1914,7 +1923,7 @@
             },
             
             {"info":{
-                "alias":"Adakite","name":"Adakite Bloodstone","month":"02","day":"09","year":"","pronouns":"Ne/Nem","gender":"Nonbinary","orientation":"Aromantic Bisexual","species":"Demigod","occupation":"Demigod Of The Solar System","residence":"Solar System","height":"7'2","weight":"252 lbs"
+                "alias":"Adakite","name":"Adakite Bloodstone","month":"","day":"","year":"","pronouns":"Ne/Nem","gender":"Nonbinary","orientation":"Aromantic Bisexual","species":"Demigod","occupation":"Demigod Of The Solar System","height":"7'2","weight":"252 lbs"
                 },
             "icon":"https://aineop.neocities.org/images/adakitethumb.png","fullbody":"https://files.catbox.moe/8u6yiv.png","link":"https://aineop.neocities.org/characters/#ADAKITE",
             "description":"Adakite is a hybrid between a Meowstic and a Leafeon. Ne is a serious, grave demigod.",
@@ -1923,7 +1932,7 @@
             },
             
             {"info":{
-                "alias":"Vermillion","name":"Vermillion Alenthinophid","month":"08","day":"01","year":"","pronouns":"She/He/It","gender":"Nonbinary","orientation":"Unlabeled","species":"Demigod","occupation":"Demigod Of The Solar System","residence":"Solar System","height":"6'3","weight":"167 lbs"
+                "alias":"Vermillion","name":"Vermillion Alenthinophid","month":"","day":"","year":"","pronouns":"He/She/It","gender":"Nonbinary","orientation":"Unlabeled","species":"Demigod","occupation":"Demigod Of The Solar System","height":"6'3","weight":"167 lbs"
                 },
             "icon":"https://i.postimg.cc/Tw6Fs5yw/vermillionthumb.png","fullbody":"https://files.catbox.moe/ezcia2.png","link":"https://aineop.neocities.org/characters/#VERMILLION",
             "description":"Vermillion is a hybrid between a Vulpix and a gorgon. She is a firey, loud demigod.",
@@ -1932,7 +1941,7 @@
             },
             
             {"info":{
-                "alias":"Saccharide","name":"Saccharide Fleuve","month":"06","day":"21","year":"","pronouns":"Any","gender":"Nonbinary","orientation":"Pansexual","species":"Demigod","occupation":"Demigod Of The Solar System","residence":"Solar System","height":"6'5","weight":"190 lbs"
+                "alias":"Saccharide","name":"Saccharide Fleuve","month":"","day":"","year":"","pronouns":"Any","gender":"Nonbinary","orientation":"Pansexual","species":"Demigod","occupation":"Demigod Of The Solar System","height":"6'5","weight":"190 lbs"
                 },
             "icon":"https://files.catbox.moe/xi6i5f.png","fullbody":"https://files.catbox.moe/p7rhzp.png","link":"https://aineop.neocities.org/characters/#SACCHARIDE",
             "description":"Saccharide is a Primarina-Azumarill hybrid. He is a manipulative, evil demigod.",
@@ -1973,7 +1982,7 @@
             "icon":"https://files.catbox.moe/qu55tg.png","fullbody":"https://files.catbox.moe/w8buyv.png","link":"https://aineop.neocities.org/characters/#JUNE",
             "description":"June is a glaceon. She is a demisexual lesbian. She is a perfectionist - which makes her resent herself. Works well under pressure. Pretends to be stoic. June is studying business and medicine at the same time, because she's the prized family overachiever. She has a sister named October who her parents couldn't give half a damn about.",
             "created":"2020/03",
-            "groups":["the_highschoolers", "verglas", "princeton","lavallet"]
+            "groups":["the_highschoolers", "verglas", "princeton","lavalett"]
             },
             
             {"info":{
@@ -2067,7 +2076,7 @@
             },
 
             {"info":{
-                "alias":"Zealot","name":"Silas Sophocles Zealot Harbinger Basilica","month":"10","day":"05","year":"1987","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon Hybrid (Espeon-Glaceon)","occupation":"Criminal","residence":"VG","height":"5'7","weight":"147 lbs"
+                "alias":"Zealot","name":"Silas Sophocles \"Zealot Harbinger\" Basilica","month":"10","day":"05","year":"1987","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon Hybrid (Espeon-Glaceon)","occupation":"Criminal","residence":"VG","height":"5'7","weight":"147 lbs"
                 },
             "icon":"https://files.catbox.moe/0wzhpj.png","fullbody":"https://files.catbox.moe/owbzt6.png","link":"https://aineop.neocities.org/characters/#ZEALOT",
             "description":"<p>Zealot is, for lack of a better term, an enigma. He's part of a long line of Snowstorm residents who only got there by chasing someone to the city, but what's striking about him is that he went a little mad during his chase. He's always been spiritual, raised by a mystic scientist and a priest, but he's just... different now. He always has something to tell you about your fate, your place in the universe, or a song to play you on his eerily beautiful harmonica. Who is he, and why doesn't the local weapons dealer like him?</p>",
@@ -2076,7 +2085,7 @@
             },
             
             {"info":{
-                "alias":"Val","name":"Valerie Seriean","month":"05","day":"26","year":"1999","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Sylveon)","occupation":"Criminal","residence":"VG","height":"5'2","weight":"205 lbs"
+                "alias":"Valerie","name":"Valerie Seriean","month":"05","day":"26","year":"1999","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Sylveon)","occupation":"Criminal","residence":"VG","height":"5'2","weight":"205 lbs"
                 },
             "icon":"https://files.catbox.moe/tnewu9.png","fullbody":"https://aineop.neocities.org/images/val.png","link":"https://aineop.neocities.org/characters/#VAL",
             "description":"Val is a laid-back Snowstorm native who handles a lot of the Snowstorm Mares' affairs. Having hit it off with Brooklyn when she arrived back in 2016, they became close friends and built the city's Lavender Mares division from the ground up. When they aren't tending to the Snowstorm Mares, she likes to unwind with trap music and a pack of cigarettes.",
@@ -2090,38 +2099,38 @@
             "icon":"https://files.catbox.moe/cqimw5.png","fullbody":"https://files.catbox.moe/zt1e4j.png","link":"https://aineop.neocities.org/characters/#BROOKLYN",
             "description":"Brooklyn is a pink glaceon who runs the Snowstorm Mares.",
             "created":"2020/10/24",
-            "groups":["cherry_batter", "snowstorm_mares", "verglas","lavallet"]
+            "groups":["cherry_batter", "snowstorm_mares", "verglas","lavalett"]
             },
 
             {"info":{
                 "alias":"Mischa","name":"Mischa LeBlanc","month":"07","day":"10","year":"1968","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Zorua)","occupation":"Hiver Cafe Owner","residence":"VG","height":"5'5"
                 },
             "icon":"https://files.catbox.moe/igd3lr.png","fullbody":"https://files.catbox.moe/xqgkxw.png","link":"",
-            "description":"Mischa is a zorua. He died on May 25, 2016.",
+            "description":"Mischa is a zorua. He died on May 25, 2016. He was in an alternative rock band called Interior. Freddy Shit was his mentor before he went missing in 2007.",
             "created":"2026/06/19",
-            "groups":[]
+            "groups":["cherry_batter","hiver_cafe","reanimated"]
             },
             
             {"info":{
-                "alias":"Matilda","name":"Matilda","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","height":"5'9"
+                "alias":"Matilda","name":"Matilda","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Alien","height":"5'9"
                 },
             "icon":"https://files.catbox.moe/hbl0e5.png","fullbody":"https://files.catbox.moe/7rc4dj.png","link":"",
             "description":"Matilda is Riley's strange cousin. She is crazy and 5'9. She changed her name on Nov 12, 2024.",
             "created":"2020/10/24",
-            "groups":[]
+            "groups":["cherry_batter"]
             },
             
             {"info":{
-                "alias":"Sapphire","name":"Sapphire","month":"","day":"","year":"","pronouns":"She/He","gender":"Female","height":"5'7"
+                "alias":"Sapphire","name":"Sapphire","month":"","day":"","year":"","pronouns":"He/She","gender":"Female","species":"Cat","height":"5'7"
                 },
             "icon":"https://files.catbox.moe/fnyhv7.png","fullbody":"https://files.catbox.moe/pzhs9t.png","link":"",
             "description":"Sapphire is serious and 5'7.",
             "created":"2020/10/24",
-            "groups":[]
+            "groups":["cherry_batter"]
             },
             
             {"info":{
-                "alias":"Rory","name":"Aurora","month":"","day":"","year":"","residence":"VG"
+                "alias":"Rory","name":"Aurora","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Fox","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/gg80kt.png","fullbody":"https://files.catbox.moe/3z5ecr.png","link":"",
             "description":"Tessa's friend.",
@@ -2130,7 +2139,7 @@
             },
             
             {"info":{
-                "alias":"Apollo","name":"Apollo","month":"","day":"","year":"","residence":"VG"
+                "alias":"Apollo","name":"Apollo","month":"","day":"","year":"","pronouns":"It/Its","gender":"Nonbinary","species":"Robot","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/17s03f.png","fullbody":"https://files.catbox.moe/s4l5lu.png","link":"",
             "description":"Tessa's friend.",
@@ -2139,7 +2148,7 @@
             },
             
             {"info":{
-                "alias":"Carter","name":"Carter","month":"","day":"","year":"","residence":"VG"
+                "alias":"Carter","name":"Carter","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Dog","residence":"VG"
                 },
             "icon":"https://files.catbox.moe/uf2f4u.png","fullbody":"https://files.catbox.moe/gzg640.png","link":"",
             "description":"Tessa's friend.",
@@ -2162,7 +2171,7 @@
             "icon":"https://files.catbox.moe/oslaaa.png","fullbody":"https://files.catbox.moe/uwdz2z.png","link":"",
             "description":"Spice is a flareon who was too hot to die. They died anyway. They were well known for being a supporting character who was often in police chases.",
             "created":"2021/11/10",
-            "groups":[]
+            "groups":["cherry_batter"]
             },
             
             {"info":{

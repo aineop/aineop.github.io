@@ -13,8 +13,8 @@
             "description":"<p>The Radians are characters who lived or grew up in and around Radia, CT. Radia is a former quarry. It was contaminated with a glowing green sauce of unknown properties. It was demolished by the Government of the United States in September 2025. Nearby are the towns of Neopreston and Terror, the latter of which is the home to Terror University. The area is west of Springfield, CT, home to Micheal's Chocolate Spring University.</p>"
             },
 
-            {"name":"Lavallet","tag":"lavallet","icon":"","link":"",
-            "description":"<p>People who lived in Lavallet, VG.</p>"
+            {"name":"Lavalett","tag":"lavalett","icon":"","link":"",
+            "description":"<p>People who lived in Lavalett, VG. CoMo is a massive bitch who kept spelling it wrong because he can't read. Well, at least he ain't a dissie!</p>"
             },
 
             {"name":"Counter Attack Force","tag":"caf",
@@ -26,7 +26,7 @@
             },
 
             {"name":"Jiva Jinotice","tag":"jiva_jinotice","icon":"","link":"",
-            "description":"<p>Jiva Jinotice is a band.</p>"
+            "description":"<p>People who are members of or are affiliated with Jiva Jinotice, a new wave band.</p>"
             },
 
             {"name":"Hoe Ambulance","tag":"hoe_ambulance","icon":"","link":"",
@@ -125,8 +125,8 @@
             "description":"<p>Those who are involved in CoJu's up and coming webcomic, formerly known as Frigid Blood.</p>"
             },
 
-            {"name":"The Highschoolers","tag":"the_highschoolers","icon":"","link":"",
-            "description":"<p>The Highschoolers was a friend group consisting of Lexi, Burnie, Lincoln, and June. They attended Anaica Highschool in Anaica, Orchid County, Evergreen. They were never known as the Fab Four. Linclon was largely cut off after he killed his uncle to inherit his museum. Lincoln would eventually kill himself after it became all too much.</p>"
+            {"name":"The Anaica Highschoolers","tag":"the_highschoolers","icon":"","link":"",
+            "description":"<p>The Highschoolers was a friend group consisting of Lexi, Burnie, Lincoln, and June. They attended Anaica Highschool in Anaica, Orchid County, Evergreen. They were never known as the Fab Four. Lincoln was largely cut off after he killed his uncle to inherit his museum.</p>"
             },
 
             {"name":"Cyberdystopia","tag":"cyberdystopia","icon":"","link":"",
@@ -139,7 +139,14 @@
 
             {"name":"The Magic Trio","tag":"magic_trio","icon":"","link":"",
             "description":"<p>The Magic Trio are the demigods that were sent to govern the Solar System.</p>"
-            }
+            },
+
+            {"name":"Hiver Cafe","tag":"hiver_cafe","icon":"","link":"",
+            "description":"<p>Hiver Cafe is a small cafe in Snowstorm, VG.</p>"
+            },
+
+            {"name":"Reanimated Characters","tag":"reanimated","icon":"","link":"",
+            "description":"<p>Those who have come back to life after experiencing death or long-term unconcsciousness that are unrelated to comas.</p>"}
         ],
     "family":
         [

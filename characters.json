@@ -23,7 +23,7 @@
                 "alias":"Pinewood","name":"Pinewood Hills","month":"04","day":"28","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/g6fnqx.png","fullbody":"https://files.catbox.moe/xvzj9o.png","link":"/universe/characters/pinewood.html",
-            "description":"Pinewood is a vulpix. She likes graphic T-shirts and The Offspring. She works at her uncle's furniture store.",
+            "description":"<p>Pinewood's always been a rough and tumble kind of girl. Her family's history with the North Doubax Forest dates back centuries, so it was only natural that she grew up logging trees and shaping the wood into furniture for her family's home goods store. She's pretty brash, but her cousin's a therapist; she knows how to be caring when it really counts.</p>",
             "created":"2019/06",
             "groups":["ndhs","hills","am"]
             },
@@ -31,8 +31,8 @@
             {"info":{
                 "alias":"Oakwood","name":"Oakwood Silva","month":"04","day":"12","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"114 Poryglass St, Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/3ngdxg.png","fullbody":"https://files.catbox.moe/5zs5m5.png","link":"/universe/characters/oakwood.html",
-            "description":"Oakwood is a vulpix. He likes burgers and playing acoustic guitar. He works at his family's furniture store.",
+            "icon":"https://files.catbox.moe/3ngdxg.png","fullbody":"https://files.catbox.moe/6fkfqd.png","link":"/universe/characters/oakwood.html",
+            "description":"<p>Oakwood's a relaxed dude who's always trying to entertain himself, whether thats by causing mischief around town or bothering his friends with his antics. He's so much of a prankster that he's becoming unpleasant to be around, but he either doesn't notice or doesn't care. He prioritizes his amusement over everyone else's feelings, unless it gets him into trouble.</p>",
             "created":"2023/04/11",
             "groups":["ndhs","silva","am"]
             },
@@ -41,7 +41,7 @@
                 "alias":"Martha","name":"Martha Gunby","month":"05","day":"30","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Asexual","species":"Pokemon (Meowstic)","occupation":"Employee for DePonte Parks Department","residence":"1106 Phoenix Av, Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/slvo71.png","fullbody":"https://files.catbox.moe/akdtli.png","link":"/universe/characters/martha.html",
-            "description":"Martha is a meowstic. Her favorite foods are pineapple and ice cream. She works at Astorabat Park, picking up trash and managing the wildlife.",
+            "description":"<p>Martha's a lovable weirdo with a bug terrarium in her room. She had a rough past, but she feels on top of the world now that she's scored an awesome job at the park! She's acted tough for the longest time to protect herself, and with her newfound independence from her toxic family, she finally feels like she can be wacky like she truly is. If she dropped a cheeto, she would lick it off the floor.</p>",
             "created":"2019/05/30",
             "groups":["ndhs","gunby"]
             },
@@ -50,7 +50,7 @@
                 "alias":"Liam","name":"Liam Kennivari","month":"05","day":"30","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Rabbit-dog","occupation":"Employee for Rocky's Records & Guitars","residence":"1106 Phoenix Av, Friendship City, CT","height":"5'0","weight":"100 lbs"
                 },
             "icon":"https://files.catbox.moe/z7z7ts.png","fullbody":"https://files.catbox.moe/7ijmrt.png","link":"/universe/characters/liam.html",
-            "description":"Liam is a rabbit-dog. He likes iced coffee and pop music. He works at Rocky's Records and Guitars.",
+            "description":"<p>Liam is a mellow guy who doesn't want a whole lot. He's still reeling from high school trauma, and doesn't have the energy to do anything crazy like pursue his dreams or whatever. He used to be a lively, fun person, but lately the most interesting part of his day has been getting iced coffees. He spends most of his time on the bus to and from work. </p>",
             "created":"2019/05/30",
             "groups":["ndhs","kennivari"]
             },
@@ -59,7 +59,7 @@
                 "alias":"Comet","name":"Comet Polaris Rahway","month":"03","day":"29","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","occupation":"College Student and Lab Assistant","residence":"118 Blair St, Friendship City, CT","height":"5'9"
                 },
             "icon":"https://files.catbox.moe/8q4xa7.png","fullbody":"https://files.catbox.moe/gayvse.png","link":"/universe/characters/comet.html",
-            "description":"Comet is a male meowstic. He likes chocolate chip cookies and BeamNG drive. He is a lab assistant for the mad scientist Mose. He is part of the class of 2027 at Friendship University.",
+            "description":"<p>Comet is a humble physics major who works at a wacky lab. Supported by his loving parents, Amber and Riley, he's put his intellect to good use helping to construct SpacePods and intergalactic service towers. No, I'm not taking questions about that. He's the most ambitious person his best friends, Sugar and Arrow, know, and they love playing badminton and driving video games on Comet's days off!</p>",
             "created":"2020/10",
             "groups":["ndhs","fu","rahway","mose_lab","am"]
             },
@@ -77,7 +77,7 @@
                 "alias":"Sugar","name":"Sugar Oraton","month":"08","day":"16","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Eevee)","occupation":"College Student","residence":"VG","height":"5'6","weight":"150 lbs"
                 },
             "icon":"https://files.catbox.moe/hvvw5h.png","fullbody":"https://files.catbox.moe/us6fso.png","link":"/universe/characters/sugar.html",
-            "description":"Sugar is an eevee. He likes turkey bologna, computers, and taking pictures. He is part of the class of 2026 at Friendship University.",
+            "description":"<p>Sugar's a chill computer science major who sees the best in everyone. He has a relaxed temperament and loves to kick back and hang out with his two best friends, Arrow and Comet, after his classes. After almost getting run over several times at an intersection he frequents, he became a huge urban design nerd, too! He's just a nerd in general; he even does game design in his free time! What's not to love about this sweet guy? </p>",
             "created":"2020/10",
             "groups":["fu","oraton"]
             },
@@ -86,7 +86,7 @@
                 "alias":"Ash","name":"Ash Visage","month":"06","day":"01","year":"1899","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Cat","occupation":"Performer and Lab Rat","residence":"1017 Blossom St, Seedwick, CT","height":"4'11"
                 },
             "icon":"https://files.catbox.moe/ytql98.png","fullbody":"https://files.catbox.moe/xa7erd.png","link":"/universe/characters/ash.html",
-            "description":"Ash is a white cat. He likes lemonade and legos. He is a research subject, drag queen, and performer.",
+            "description":"<p>Ash is a French cat who worked in factories in the early 20th century before getting frozen in time by the iceberg that hit the boat he was on. He was rescued an entire century later and brought into a world he hardly recognized. The arctic scientist he lives with is fine, but he misses his big sister that took care of him back in France, even if he knows she's long dead. He wishes everything was just a bit warmer.</p>",
             "created":"2023/06",
             "groups":["seedwick","reanimated"]
             },
@@ -95,7 +95,7 @@
                 "alias":"Teri","name":"Teri Sunnyside","month":"07","day":"29","year":"2002","pronouns":"He/They","gender":"Nonbinary","orientation":"Pansexual","species":"Cat-dragon","occupation":"Animal Daycare Worker","residence":"1105 Glenbourne Av, Tristantown, CT","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/3r7z1u.png","fullbody":"https://files.catbox.moe/u4leck.png","link":"/universe/characters/teri.html",
-            "description":"Teri is a cat dragon. He likes computers. They are very laid back, friendly, and silly. They are York's roommate! He works at an animal daycare.",
+            "description":"<p>Teri's a laid back guy who just wants to have fun. He's doing a pretty good job of that! Their best friend is their roommate, they make a living taking care of funny little bunnies at bunny daycare, and they like to program as a hobby! Beyond that, Teri isn't really that busy. He's so bored, and he's found that he doesn't like to be alone with his thoughts. Drinking alleviates his unease, but Teri thinks that's just a bandaid. They know they're missing something.</p>",
             "created":"2023/07/29",
             "groups":[]
             },
@@ -113,7 +113,7 @@
                 "alias":"Cypress","name":"Cypress Foreman","month":"11","day":"23","year":"2000","pronouns":"They/Them","gender":"Nonbinary","orientation":"Asexual Aromantic","species":"Cat","occupation":"Private Investigator","residence":"Mansoor, CT","height":"5'2"
                 },
             "icon":"https://files.catbox.moe/l0ggwb.png","fullbody":"https://files.catbox.moe/51d3u1.png","link":"/universe/characters/cypress.html",
-            "description":"Cypress is a green cat with wings. They are a very serious person. They eat pizza with a fork. They are a private investigator, running the Foreman Investigation Service.",
+            "description":"<p>Cypress is a hardened private investigator who truly wants nothing to do with anyone anymore. After killing their best friend, Rivers, they're convinced they're a stain on the Earth who ruins everything they touch, but for some reason, people still care about them and like them. Cypress tries their best to push people away, but it never works. They're like a magnet for persistent befrienders.</p>",
             "created":"2023/11/22",
             "groups":["radia","fu","terror"]
             },
@@ -122,7 +122,7 @@
                 "alias":"Rocky","name":"Summer Hazel Culver","month":"01","day":"18","year":"1998","pronouns":"He/She","gender":"Female","orientation":"Bisexual","species":"Dog","occupation":"Business Owner and Guitarist for C.A.F.","residence":"431 Brichier St, Arthur City, NY"
                 },
             "icon":"https://i.postimg.cc/y8qpD7rq/rockythumb.png","fullbody":"https://files.catbox.moe/2az23o.png","link":"/universe/characters/rocky.html",
-            "description":"Rocky is a pink dog. She is very friendly and energetic. He is a metalhead and a skilled guitarist. Her boyfriend is Nolan, and she sometimes calls him Oreo. She runs a music store in Arthur City, and employs Zilly and Liam.",
+            "description":"<p>With metal music reverberating through her studio as she strums, you know she's called Rocky for a reason! He's a charismatic, sometimes pushy music store owner who knows where her passion lies and successfully centered his life around it. She's even part of a band, where he takes the limelight again as the vocalist Eclipse's obvious crush. Unfortunately, Rocky's monogamously taken!</p>",
             "created":"2024/01/18",
             "groups":["caf","culver"]
             },
@@ -131,7 +131,7 @@
                 "alias":"Nolan","name":"Kyle Nolan Albalury","month":"07","day":"09","year":"1999","pronouns":"He/Him","gender":"Male","species":"Fox Wolf","occupation":"Secret Agent","residence":"Arthur City, NY","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/2tg8ur.png","fullbody":"https://files.catbox.moe/19nrfa.png","link":"/universe/characters/nolan.html",
-            "description":"Nolan is a gray foxwolf. He is extremely paranoid and jumpy. He is Rocky's boyfriend. He is transgender. He is also short, so he often takes pictures with Rocky while standing on a stool so he looks taller. He is a secret government agent.",
+            "description":"<p>Nolan is a cowardly secret agent who's always in over his head. He's ambitious, but he can just never follow through. He's scared of asking Rocky to marry him, he's a liability to all of his undercover missions, and he just... feels like he isn't useful. Nolan wishes he could amount to anything more than a laughingstock.</p>",
             "created":"2024/07/09",
             "groups":["albalury"]
             },
@@ -140,7 +140,7 @@
                 "alias":"Tem","name":"Tanya Doorman","month":"09","day":"20","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Fox","occupation":"Bus Mechanic","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/8q4ipz.png","fullbody":"https://files.catbox.moe/66nlw2.png","link":"/universe/characters/tem.html",
-            "description":"Tem is a fox. She likes onion rings and mystery novels. She works on buses at Friendship City Transit's Embridge bus facility.",
+            "description":"<p>Tem feels stagnant. She's beautiful, she's dazzling, but she's always stuck in the past. She misses her best friend Lex who she had to leave when she moved, she misses who she was before she dropped that cigarette, and she mourns everything she's ever lost. She sells herself as a pretty party girl who loves to get lost in the moment, but she's always just searching for metaphorical childhood toys she misplaced.</p>",
             "created":"2024/06/25",
             "groups":["ndhs"]
             },
@@ -149,7 +149,7 @@
                 "alias":"Noel","name":"Noel Sequoia","month":"03","day":"01","year":"2003","pronouns":"He/Him","gender":"Male","species":"Pokemon (Sprigatito)","occupation":"Housewife","residence":"706 Tediland St, Sotelo, VG","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/0eskhs.png","fullbody":"https://files.catbox.moe/025rp4.png","link":"/universe/characters/noel.html",
-            "description":"Noel is a sprigatito. This means he likes weed. He is Pluto's best friend, and Ryder's boyfriend. He is Ryder's housewife.",
+            "description":"<p>Noel's a reserved guy who tends to stay home, now that he has one. He left the nest a tad too early, some bad things happened, and Noel couldn't swallow his pride enough to crawl back to his parents, so he lived on the streets until meeting a beautiful man who worked at the building Noel was camping out next to. Ryder became his boyfriend and gave him everything he needed, but he can't shake the feeling that he's just taking pity on him.</p>",
             "created":"2022/04/22",
             "groups":[]
             },
@@ -158,7 +158,7 @@
                 "alias":"Ryder","name":"Ryder Brook","month":"03","day":"22","year":"2000","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"News Reporter","residence":"706 Tediland St, Sotelo, VG"
                 },
             "icon":"https://files.catbox.moe/gqii7b.png","fullbody":"https://files.catbox.moe/tvevqm.png","link":"/universe/characters/ryder.html",
-            "description":"Ryder is a calico cat. He likes to jog and play softball. He is Noel's boyfriend. He is a news reporter at at N3 News in Evergreen.",
+            "description":"<p>Ryder's a sporty reporter who's always hyping people up! Whether it's in the newsroom or on the track, you bet you can hear him shouting words of encouragement to everyone he knows. He loves a good adrenaline rush and writing up thrilling articles, for sure, but not as much as he loves his boyfriend, Noel. They've been together through everything, and Ryder can't imagine his hectic life without him.</p>",
             "created":"2024/09/14",
             "groups":["amwulshiner_university","slhs"]
             },
@@ -167,7 +167,7 @@
                 "alias":"Esther","name":"Esther Highbridge","month":"11","day":"09","year":"2000","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Cat","occupation":"Electrician","residence":"1138 L'Enfant Street, Sotelo, VG"
                 },
             "icon":"https://files.catbox.moe/94rpgy.png","fullbody":"https://files.catbox.moe/3680h1.png","link":"/universe/characters/esther.html",
-            "description":"Esther is a tortoiseshell cat. She likes bananas and listening to Nightwish. She owns the Nightwish shoes and the Nightwish watch. She is an electrician.",
+            "description":"<p>Esther is an elegant cat tasked with the inelegant work of electrical maintenance at Friendship City Transit. Despite the percieved mismatch, this is where she feels most at home; making little gadgets, modding her motorcycle, soldering bus components, that's what Esther's passion is. Even entangled in delicate symphonies, she knows how to work with metal. And that's why Esther listens to Nightwish!</p>",
             "created":"2024/11/09",
             "groups":["radia"]
             },
@@ -185,7 +185,7 @@
                 "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/She","gender":"Fluid","orientation":"Bisexual","species":"Cat","occupation":"Bassist for Offensive Content and Security Camera Person","residence":"Cannaboun, VG","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/7df3hn.png","fullbody":"https://files.catbox.moe/yyglr1.png","link":"/universe/characters/pocky.html",
-            "description":"Pocky is a blue cat. He likes root beer and listening to Megadeth. They work at a retail store in Evergreen.",
+            "description":"<p>Pocky is a hotheaded cat who lives by her own rules. After the music store shut down, relocating all the way across the country took a toll on him. She's very erratic, and considered really difficult to be around. Autumn was the only reason Pocky ever tried to contain his impulses, and now, without her, he's as obnoxious as ever. She feels so out of control of her life.</p>",
             "created":"2025/02/23",
             "groups":["offensive_content"]
             },
@@ -194,7 +194,7 @@
                 "alias":"Sage","name":"Sage Rem Wallflower","month":"04","day":"05","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
                 },
             "icon":"https://files.catbox.moe/xfww9m.png","fullbody":"https://files.catbox.moe/ojn5tr.png","link":"/universe/characters/sage.html",
-            "description":"Sage is a cat. He likes hoagies. He is Miki's brother. He is part of the class of 2026 at Rutgers University.",
+            "description":"<p>Sage is a relaxed college student who just does whatever feels right and doesn't think too hard about what happens next. When he's not half-heartedly working on his STEM major, he does what he's done for his whole life: goof off and fish with his best friends! His sibling, Miki, and his friend-with-benefits, Wayne, are definitely better fishers than he is, but Sage has never cared too deeply about being the best.</p>",
             "created":"2025/04/05",
             "groups":["highland_park"]
             },
@@ -202,8 +202,8 @@
             {"info":{
                 "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'8"
                 },
-            "icon":"https://files.catbox.moe/zvjcxn.png","fullbody":"https://files.catbox.moe/az6d7r.png","link":"/universe/characters/sharyo.html",
-            "description":"Sharyo is an LRV-cat. She was born/manufactured in Japan. She likes California rolls and candy.",
+            "icon":"https://files.catbox.moe/zvjcxn.png","fullbody":"https://files.catbox.moe/y27e99.png","link":"/universe/characters/sharyo.html",
+            "description":"<p>Sharyo's a mischievous train cat who always wants to get you to your destination safely! She jokes around, but ultimately means well; it's tough standing out when you're coworkers with your 20 siblings, but her partners make it feel special enough to make up for that. And as a bit of a scientific oddity, it also lives in a scientist's warehouse; Sharyo can't say she hates the free rent! It's quite content with its small life.</p>",
             "created":"2025/05/02",
             "groups":["njt_lr", "mose_lab"]
             },
@@ -212,7 +212,7 @@
                 "alias":"Ram","name":"Ram Mammoth Stein","month":"11","day":"05","year":"2001","pronouns":"They/Them","gender":"Nonbinary","species":"Sheep","occupation":"College Student","residence":"Sotelo, VG","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/xgi9ha.png","fullbody":"https://files.catbox.moe/pfu3ah.png","link":"/universe/characters/ram.html",
-            "description":"Ram is a sheep. They like ugly sweaters and dirinks hot choocolate. They are a PhD student studying mathematics at some institution in Evergreen.",
+            "description":"<p>With a fire softly crackling in the hearth, a cup of cocoa steaming at their desk, and a cozy sweater draped over their fluffy body, you might mistake Ram for someone who shies away from a challenge. Even when they aren't discussing advanced mathematical theory with their peers, they spend a surprising amount of time just helping people for the sake of it, no matter how hopeless they may seem. Ram remembers being called a lost cause -- they want to give someone hope, whether they want it or not.</p>",
             "created":"2025/07/27",
             "groups":["fu","lavalett"]
             },
@@ -221,7 +221,7 @@
                 "alias":"Autumn","name":"Autumn \"Otter\" Fletcher","month":"09","day":"07","year":"2001","pronouns":"She/Her","gender":"Female","species":"Fox","occupation":"Dry Cleaner","residence":"Arthur City, NY"
                 },
             "icon":"https://files.catbox.moe/c88eog.png","fullbody":"https://files.catbox.moe/i2kh95.png","link":"/universe/characters/autumn.html",
-            "description":"Autumn is a fox. She likes mushrooms and listening to Sleep Token. She lives in a studio apartment with Sandy and Lawrence. She has a keyboard. She is transgender. She is a dry cleaner.",
+            "description":"<p>Autumn's biggest regret is \"letting that blue bitch ruin my life.\" Despite standing 6'3, she stayed in a relationship where she felt small for about 7 years, and only now can she blossom into her true adult self. She's learning that she loves mycology, loud concerts, and making kinder friends, and she hopes to learn even more as the years go by. She feels so much brighter and joyous these days.</p>",
             "created":"2025/02",
             "groups":[]
             },
@@ -230,7 +230,7 @@
                 "alias":"Nowun","name":"Nowun","month":"","day":"","year":"","pronouns":"He/Him","occupation":"Demigod Of Alpha Centauri","species":"Demigod"
                 },
             "icon":"https://files.catbox.moe/ukqc0w.png","fullbody":"https://files.catbox.moe/cxkrjo.png","link":"/universe/characters/nowun.html",
-            "description":"Nowun is a feline-like demigod. He wears a cloak and wears an amulet and can shapeshift. He oversees the Alpha-Centauri planetary system.",
+            "description":"<p>Nowun is the demigod assigned to Alpha Centauri, and to put it bluntly, he's so bored over there. No life, hardly any other demigods to mess around with, nothing to do. So, Nowun spends most of his time at the Solar system, annoying the Magic Trio. He's sure they've told the prophets awful things about him, which makes him very eager to live up to the mortals' fear. He spends a lot of time in the Fantasia Palace's dungeon.</p>",
             "created":"2025/10/19",
             "groups":["demigod_plot"]
             },
@@ -248,7 +248,7 @@
                 "alias":"Joey","name":"Joey Pepperoni","month":"05","day":"22","year":"2002","pronouns":"They/Them","gender":"Nonbinary","species":"Deer","occupation":"Stunt Actor","residence":"Arthur City, NY","height":"4'9"
                 },
             "icon":"https://files.catbox.moe/e96psm.png","fullbody":"https://files.catbox.moe/sdp5x9.png","link":"/universe/characters/joey.html",
-            "description":"Joey is a deer. They like curly fries and puns. They are a stunt actor.",
+            "description":"<p>Locally famous for their parkour stunts, Joey's used to being in the limelight. Always a thrillseeker, they got their fix of adrenaline from climbing buildings and traversing their rooftops. When their antics hit the news, a talent agency hired them as a stunt actor for action movies, and ever since, they've had cameras in their face. Well, it's nice to get paid for swinging from lampposts now, at least.</p>",
             "created":"2026/05/22",
             "groups":[]
             }

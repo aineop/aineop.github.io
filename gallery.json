@@ -1,9 +1,65 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/phPQWy1g","thumbnail":"https://i.postimg.cc/0QwVCwG2/kyleferal.png",
+            "artist":"CoMo","month":"07","day":"02","year":"2026",
+            "title":"Dog Fish",
+            "caption":"Kyle if he was REALLY doggy.",
+            "description":"",
+            "tags":["kyle","sribbles"]},
+
+          {"link":"https://postimg.cc/0M9GkrHT","thumbnail":"https://i.postimg.cc/RFHgTH1Z/kyleidk.png",
+            "artist":"CoMo","month":"07","day":"02","year":"2026",
+            "title":"Idk",
+            "caption":"Kyle doesn't know.",
+            "description":"",
+            "tags":["kyle","sribbles"]},
+                
+          {"link":"https://postimg.cc/BLJ5StVW","thumbnail":"https://i.postimg.cc/856Zb6dC/kylegay.png",
+            "artist":"CoMo","month":"07","day":"02","year":"2026",
+            "title":"Kyle",
+            "caption":"Kyle if he was more doggy.",
+            "description":"",
+            "tags":["kyle","sribbles"]},
+                
+          {"link":"https://artfight.net/~valkriia","thumbnail":"https://i.postimg.cc/R0GsFmS9/esther-valkriia-2026.png",
+            "artist":"valkriia","month":"07","day":"02","year":"2026",
+            "title":"Esther",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["esther","sribbles","artfight"]},
+                
+          {"link":"https://artfight.net/~asauthor","thumbnail":"https://i.postimg.cc/HL3ZxmY1/rain-ASAuthor-2026.png",
+            "artist":"ASAuthor","month":"07","day":"02","year":"2026",
+            "title":"Rain",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["rain","cojuverse","artfight"]},
+                
+          {"link":"https://artfight.net/~c1nn4-bunny","thumbnail":"https://i.postimg.cc/MGtPTwWC/mischa-c1nn4-bunny-2026.png",
+            "artist":"C1nn4-Bunny","month":"07","day":"02","year":"2026",
+            "title":"Mischa",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["mischa","cojuverse","artfight"]},
+                
+          {"link":"https://artfight.net/~madadhlasrach","thumbnail":"https://i.postimg.cc/nLTRzxFx/ryder-Madadh-Lasrach-2026.png",
+            "artist":"MadadhLasrach","month":"07","day":"01","year":"2026",
+            "title":"Ryder",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["ryder","sribbles","artfight"]},
+                
+          {"link":"https://artfight.net/~snowthedemonfox","thumbnail":"https://i.postimg.cc/hGMyjnS6/marianne-snowthedemonfox-2026.png",
+            "artist":"SnowTheDemonFox","month":"07","day":"01","year":"2026",
+            "title":"Marianne",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["marianne","cojuverse","artfight"]},
+                
           {"link":"https://artfight.net/~croconiles","thumbnail":"https://i.postimg.cc/YSNh5Vyp/burnie-croconiles-2026.png",
             "artist":"croconiles","month":"07","day":"01","year":"2026",
             "title":"Burnie",
-            "caption":"Burnie!",
+            "caption":"for Artfight",
             "description":"",
             "tags":["burnie","cojuverse","artfight"]},
                 
@@ -250,7 +306,7 @@
             "title":"On Time",
             "caption":"[Commission] Running on the tracks!",
             "description":"",
-            "tags":["sharyo","njt_lr","sribbles"]},
+            "tags":["sharyo","njt_lr","sribbles","commission"]},
                 
           {"link":"https://postimg.cc/p9Hc7rmV","thumbnail":"https://i.postimg.cc/g0X9x6dh/leafeon26.png",
             "artist":"CoMo","month":"06","day":"18","year":"2026",
@@ -9544,6 +9600,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/bDq0ydBc","thumbnail":"https://i.postimg.cc/TwDtcDjw/arrowref2.png",
+            "artist":"CoMo","month":"07","day":"02","year":"2026",
+            "title":"Arrow's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["arrow","sribbles"]},
+                
           {"link":"https://postimg.cc/xqZHyM88","thumbnail":"https://i.postimg.cc/rFVJT9L1/octoberref3.png",
             "artist":"CoJu","month":"06","day":"23","year":"2026",
             "title":"October's Reference",

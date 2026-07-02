@@ -262,7 +262,7 @@
                 "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Pokemon (Victini)","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
                 },
             "icon":"/images/flingyicon.png","fullbody":"https://sribbles.neocities.org/images/flingy.png","link":"",
-            "description":"Flingy was a victini. Her favorite show was V and Ax. She was Lit's sister.",
+            "description":"<p>Flingy was a victini. She was Lit's twin sister; they were best friends. Her favorite show was 'V and Ax'. She was murdered on October 15, 2019.</p>",
             "created":"2022/07",
             "groups":["ndhs","cupcake"]
             },
@@ -298,7 +298,7 @@
                 "alias":"Ree","name":"Victoria Nyoucmo","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Jirachi)","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/QdGZjfRd/reeicon.png","fullbody":"https://files.catbox.moe/lmfvfk.png","link":"",
-            "description":"Ree is a jirachi. She is regularly featured in CoJu's comic series, \"It's Been Awhile\". Ree's family has been bankrupt since at least 2023.",
+            "description":"Ree is a jirachi. She was the (other) Rich Girl in highschool, but after various indicents, Ree's family had been bankrupt since at least 2023. She is Lit's ex-girlfriend.",
             "created":"2022/06",
             "groups":["ndhs","nyoucmo"]
             },
@@ -316,9 +316,27 @@
                 "alias":"Wayne","name":"Wayne Dylan Fischer","month":"06","day":"04","year":"2003","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
                 },
             "icon":"https://files.catbox.moe/sqzho7.png","fullbody":"https://files.catbox.moe/5f028h.png","link":"/universe/characters/wayne.html",
-            "description":"Wayne is a cat. He likes to fish with Miki. He is part of the class of 2026 at Rutgers University.",
+            "description":"Wayne is a cat. He likes to fish with Miki. He is best friends with Miki! He is part of the class of 2026 at Rutgers University.",
             "created":"2025/04/05",
             "groups":["highland_park"]
+            },
+
+            {"info":{
+                "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU","height":"5'11"
+                },
+            "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
+            "description":"<p>Trenton is a Jersey Arrow Cat. She is old and tired.</p>",
+            "created":"2025/10/09",
+            "groups":["mose_lab"]
+            },
+
+            {"info":{
+                "alias":"Nabi","name":"NJT NABI 6446","month":"10","day":"20","year":"2012","pronouns":"She/It","gender":"Nonbinary","species":"Dog Omnibus","height":"5'0"
+                },
+            "icon":"https://files.catbox.moe/xu1dw0.png","fullbody":"https://files.catbox.moe/fbff8x.png","link":"",
+            "description":"<p>Nabi is a bus dog. She is old (in bus years), tired, and grumpy. She smells like weed and cigarette smoke, and she drinks and bleeds diesel.</p> <p>She is usually covered in duct tape, scars, and bruises. Her fur feels like soft and cushiony cloth bus seats. Her dog ears serve as rear view mirrors. Her destination signs only work half of the time. She bears advertisements in the form of clothing.</p>",
+            "created":"2026/01/02",
+            "groups":["mose_lab"]
             },
 
             {"info":{
@@ -475,7 +493,7 @@
             },
             
             {"info":{
-                "alias":"Eclipse","name":"Eclipse Faecervine","month":"04","day":"08","year":"1996","pronouns":"She/Her","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon (Jirachi)","occupation":"Vocalist for CAF and Veterinarian Technician","residence":"Arthur City, NY","height":"5'9","weight":"155 lbs"
+                "alias":"Eclipse","name":"Eclipse Faecervine","month":"04","day":"08","year":"1996","pronouns":"She/Her","gender":"Nonbinary","orientation":"Lesbian","species":"Pokemon Hybrid (Jirachi-Deer)","occupation":"Vocalist for CAF and Veterinarian Technician","residence":"Arthur City, NY","height":"5'9","weight":"155 lbs"
                 },
             "icon":"https://files.catbox.moe/q6g1yv.png","fullbody":"https://files.catbox.moe/owhdwn.png","link":"/universe/characters/eclipse.html",
             "description":"Eclipse is a jirachi-deer hybrid. She is the frontman of CAF. She is nonbinary.",
@@ -499,24 +517,6 @@
             "description":"Mieoru is a vaporeon.",
             "created":"2019/10",
             "groups":["nyukasa"]
-            },
-
-            {"info":{
-                "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU","height":"5'11"
-                },
-            "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
-            "description":"Trenton is a Jersey Arrow Cat. She is old and tired.",
-            "created":"2025/10/09",
-            "groups":["mose_lab"]
-            },
-
-            {"info":{
-                "alias":"Nabi","name":"NJT NABI 6446","month":"10","day":"20","year":"2012","pronouns":"She/It","gender":"Nonbinary","species":"Dog Omnibus","height":"5'0"
-                },
-            "icon":"https://files.catbox.moe/xu1dw0.png","fullbody":"https://files.catbox.moe/fbff8x.png","link":"",
-            "description":"Nabi is a bus dog. She is old (in bus years), tired, and grumpy. She is usually covered in duct tape and scars and she smells like weed.",
-            "created":"2026/01/02",
-            "groups":["mose_lab"]
             },
 
             {"info":{
@@ -574,6 +574,15 @@
             },
 
             {"info":{
+                "alias":"Coco","name":"Coco Coreander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","occupation":"Secretary","residence":"Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
+            "description":"<p>Coco's a lowly secretary for some small-time office manager, but all she wants is to travel somewhere warmer. She's dreamed of the beach and the ocean and tropical humidity ever since she moved away from an equatorial region at a young age, and she's endlessly frustrated that her lack of means leaves her stuck in Friendship City. Her girlfriend is Pearl Vari.</p>",
+            "created":"2026/02/21",
+            "groups":["ndhs"]
+            },
+
+            {"info":{
                 "alias":"Flan","name":"Flan Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles, France"
                 },
             "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"/universe/characters/flan.html",
@@ -598,8 +607,8 @@
             {"info":{
                 "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2006","pronouns":"He/Him","gender":"Male","species":"Pokemon (Popplio)","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/jx1eif.png","fullbody":"https://files.catbox.moe/vf7gyo.png","link":"/universe/characters/kyle.html",
-            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has queer relatives living in northern Florida. He is friends with Umber.",
+            "icon":"https://i.postimg.cc/tTB42s9K/ico-kyle-03.png","fullbody":"https://i.postimg.cc/zBxG0yJm/fb-kyle-02.png","link":"/universe/characters/kyle.html",
+            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has a sister who lives northern Florida with her wife. He is friends with Umber and he has a crush on Comet.",
             "created":"2021/02",
             "groups":["ndhs"]
             },
@@ -1196,15 +1205,6 @@
             "description":"Pearl is a sylveon. She is Liam's stepsister. She is insecure about her ribbon length.",
             "created":"2019/06",
             "groups":["ndhs","kennivari"]
-            },
-            
-            {"info":{
-                "alias":"Coco","name":"Coco Coriander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","residence":"Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
-            "description":"Coco is a litten. She is dating Pearl.",
-            "created":"2026/02/21",
-            "groups":["ndhs"]
             },
             
             {"info":{

@@ -146,7 +146,12 @@
             },
 
             {"name":"Reanimated Characters","tag":"reanimated","icon":"","link":"",
-            "description":"<p>Those who have come back to life after experiencing death or long-term unconcsciousness that are unrelated to comas.</p>"}
+            "description":"<p>Those who have come back to life after experiencing death or long-term unconcsciousness that are unrelated to comas.</p>"
+            },
+
+            {"name":"Bus 89","tag":"bus","icon":"","link":"",
+            "description":"<p>Characters who were involved in a story about a group of friends who take the city bus together to school every morning. Route 89 to Rowan Bus Terminal.</p>"
+            }
         ],
     "family":
         [

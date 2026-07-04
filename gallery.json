@@ -1,5 +1,26 @@
 {"digital_art":
         [
+          {"link":"https://artfight.net/~luminesworld","thumbnail":"https://i.postimg.cc/J04RCtDW/rain-Lumines-World-2026.png",
+            "artist":"LuminesWorld","month":"07","day":"03","year":"2026",
+            "title":"Rain",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["rain","cojuverse","artfight"]},
+                
+          {"link":"https://artfight.net/~thorinfrostclaw","thumbnail":"https://i.postimg.cc/1X5y14n1/axel-Thorin-Frostclaw-2026.png",
+            "artist":"ThorinFrostclaw","month":"07","day":"03","year":"2026",
+            "title":"Axel",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["axel","cojuverse","artfight"]},
+                
+          {"link":"https://artfight.net/~silly-moth-123","thumbnail":"https://i.postimg.cc/6q3x1SSc/autumn-silly-moth-123-2026.png",
+            "artist":"silly-moth-123","month":"07","day":"02","year":"2026",
+            "title":"Autumn",
+            "caption":"for Artfight",
+            "description":"",
+            "tags":["autumn","sribbles","artfight"]},
+                
           {"link":"https://postimg.cc/phPQWy1g","thumbnail":"https://i.postimg.cc/0QwVCwG2/kyleferal.png",
             "artist":"CoMo","month":"07","day":"02","year":"2026",
             "title":"Dog Fish",
@@ -9600,6 +9621,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/XXkhjkTx","thumbnail":"https://i.postimg.cc/MZC8Ystk/bennyref.png",
+            "artist":"CoMo","month":"07","day":"03","year":"2026",
+            "title":"Benny's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["benny","sribbles"]},
+                
           {"link":"https://postimg.cc/bDq0ydBc","thumbnail":"https://i.postimg.cc/TwDtcDjw/arrowref2.png",
             "artist":"CoMo","month":"07","day":"02","year":"2026",
             "title":"Arrow's Reference",

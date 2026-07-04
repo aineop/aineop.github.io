@@ -277,15 +277,6 @@
             },
 
             {"info":{
-                "alias":"Glametal","name":"Carcus Glametal","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Mad Scientist","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/cto6iv.png","fullbody":"https://files.catbox.moe/tvo24n.png","link":"",
-            "description":"Glametal is a meowstic. He does commissions for evil villains. This includes making bioweapons and monsters. Carc Jr. is his son. He is yet another negligent father.",
-            "created":"2019/06",
-            "groups":["glametal"]
-            },
-
-            {"info":{
                 "alias":"Florence","name":"Florence Fullerton","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Pikachu)","residence":"Friendship City, CT"
                 },
             "icon":"https://i.postimg.cc/ydYzwW2h/flavericon.png","fullbody":"https://files.catbox.moe/pgmhzv.png","link":"",
@@ -301,6 +292,15 @@
             "description":"Ree is a jirachi. She was the (other) Rich Girl in highschool, but after various indicents, Ree's family had been bankrupt since at least 2023. She is Lit's ex-girlfriend.",
             "created":"2022/06",
             "groups":["ndhs","nyoucmo"]
+            },
+
+            {"info":{
+                "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Popplio)","residence":"Friendship City, CT"
+                },
+            "icon":"https://i.postimg.cc/tTB42s9K/ico-kyle-03.png","fullbody":"https://i.postimg.cc/zBxG0yJm/fb-kyle-02.png","link":"/universe/characters/kyle.html",
+            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has a sister who lives northern Florida with her wife. He is friends with Umber and he has a crush on Comet.",
+            "created":"2021/02",
+            "groups":["ndhs"]
             },
 
             {"info":{
@@ -322,6 +322,51 @@
             },
 
             {"info":{
+                "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Pokemon (Espeon)","occupation":"A Lot","residence":"CT"
+                },
+            "icon":"https://files.catbox.moe/9e9pv9.png","fullbody":"https://files.catbox.moe/7dxtaf.png","link":"/universe/characters/mar.html",
+            "description":"Mar is an espeon. He likes butterflies and Brussels sprouts. He is often grumpy due to his job insecurity. He doesn't usually eat his shirt.",
+            "created":"2023/08/22",
+            "groups":["shiffallooley"]
+            },
+            
+            {"info":{
+                "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Umbreon)","occupation":"Internet Troll","residence":"Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/hyoulb.png","fullbody":"https://files.catbox.moe/jcnhx5.png","link":"/universe/characters/umber.html",
+            "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He is Mar's brother.",
+            "created":"2020/03/30",
+            "groups":["ndhs","shiffallooley"]
+            },
+
+            {"info":{
+                "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Pokemon (Sylveon)","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
+                },
+            "icon":"https://files.catbox.moe/s5wnfn.png","fullbody":"https://i.postimg.cc/QtjDKQCp/steel2-3.png","link":"/universe/characters/steel.html",
+            "description":"Steel is a sylveon. She is mischevious and very impulsive, and has many tattoos that are covered by her fur. He is the scientist who looks after Ash. They are infertile, and treats Ash like the son he could never conceive.",
+            "created":"2022/12",
+            "groups":["verr","seedwick"]
+            },
+
+            {"info":{
+                "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","occupation":"College Student","residence":"CT"
+                },
+            "icon":"https://files.catbox.moe/q4e43d.png","fullbody":"https://files.catbox.moe/5i9k1m.png","link":"/universe/characters/snodie.html",
+            "description":"Snodie is a vulpix. Attached to her hair and tail is Angel, a lost spirit. She is a witch and studied animal science at Verr University.",
+            "created":"2022/07",
+            "groups":["verr"]
+            },
+
+            {"info":{
+                "alias":"Colette","name":"Colette Deveraux","month":"10","day":"22","year":"1983","pronouns":"She/They/It","gender":"Nonbinary","species":"CD Creature","occupation":"Robot Mechanic","residence":"Friendship City, CT","height":"5'0"
+                },
+            "icon":"https://files.catbox.moe/4ke1hz.png","fullbody":"https://files.catbox.moe/254omk.png","link":"/universe/characters/colette.html",
+            "description":"Colette is an alien from outer space. She is the general caretaker for Mose's army of cats and minions.",
+            "created":"2025/09",
+            "groups":["mose_lab"]
+            },
+
+            {"info":{
                 "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU","height":"5'11"
                 },
             "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
@@ -340,57 +385,21 @@
             },
 
             {"info":{
-                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/She","gender":"Nonbinary","species":"Pokemon (Oshawott)","occupation":"Gamer","residence":"Ebonwood, VG"
+                "alias":"Mose","name":"Tigna Waterson Mose","month":"11","day":"11","year":"","pronouns":"He/Him","gender":"Male","species":"Alien","occupation":"Professor at Friendship University and Director of Mose's Lab","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
-            "description":"Soiette is an Oshawott. He likes playing games in the basement. Her signature catchphrase is \"Dang, bitch!\".",
-            "created":"2024/12/10",
-            "groups":["slhs"]
-            },
-            
-            {"info":{
-                "alias":"Pluto","name":"Pluto Butter","month":"05","day":"02","year":"2003","pronouns":"She/They","gender":"Female","species":"Fox","residence":"Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/jgxe41.png","fullbody":"https://files.catbox.moe/88jw8g.png","link":"/universe/characters/pluto.html",
-            "description":"Pluto is a fox. She is Bowie's sister and Noel's best friend.",
-            "created":"2022/04/22",
-            "groups":["butter"]
+            "icon":"https://files.catbox.moe/b127a0.png","fullbody":"https://files.catbox.moe/r6im2l.png","link":"/universe/characters/mose.html",
+            "description":"Mose is an alien from outer space. He currently serves as the director of a lab for Friendship University.",
+            "created":"2022/10",
+            "groups":["mose_lab","fu"]
             },
 
             {"info":{
-                "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Umbreon)","occupation":"Internet Troll","residence":"Friendship City, CT"
+                "alias":"Maureen","name":"Maureen Willowbrook","month":"04","day":"02","year":"2000","pronouns":"She/They","gender":"Nonbinary","orientation":"Bisexual","species":"Cat","occupation":"Emergency Medical Technician","residence":"Arthur City, NY"
                 },
-            "icon":"https://files.catbox.moe/hyoulb.png","fullbody":"https://files.catbox.moe/jcnhx5.png","link":"/universe/characters/umber.html",
-            "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He is Mar's brother.",
-            "created":"2020/03/30",
-            "groups":["ndhs","shiffallooley"]
-            },
-            
-            {"info":{
-                "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Pokemon (Espeon)","occupation":"A Lot","residence":"CT"
-                },
-            "icon":"https://files.catbox.moe/9e9pv9.png","fullbody":"https://files.catbox.moe/7dxtaf.png","link":"/universe/characters/mar.html",
-            "description":"Mar is an espeon. He likes butterflies and Brussels sprouts. He is often grumpy due to his job insecurity. He doesn't usually eat his shirt.",
-            "created":"2023/08/22",
-            "groups":["shiffallooley"]
-            },
-            
-            {"info":{
-                "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","occupation":"College Student","residence":"CT"
-                },
-            "icon":"https://files.catbox.moe/q4e43d.png","fullbody":"https://files.catbox.moe/5i9k1m.png","link":"/universe/characters/snodie.html",
-            "description":"Snodie is a vulpix. Attached to her hair and tail is Angel, a lost spirit. She is a witch and studied animal science at Verr University.",
-            "created":"2022/07",
-            "groups":["verr"]
-            },
-
-            {"info":{
-                "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Pokemon (Sylveon)","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
-                },
-            "icon":"https://files.catbox.moe/s5wnfn.png","fullbody":"https://i.postimg.cc/QtjDKQCp/steel2-3.png","link":"/universe/characters/steel.html",
-            "description":"Steel is a sylveon. She is mischevious and very impulsive, and has many tattoos that are covered by her fur. He is the scientist who looks after Ash. They are infertile, and treats Ash like the son he could never conceive.",
-            "created":"2022/12",
-            "groups":["verr","seedwick"]
+            "icon":"https://files.catbox.moe/zkqwot.png","fullbody":"https://files.catbox.moe/ktrtmd.png","link":"/universe/characters/maureen.html",
+            "description":"Maureen is a cat. She likes white pizza and mocha mint iced coffee. She is an emergency medical technician.",
+            "created":"2025/04/02",
+            "groups":["willowbrook","radia"]
             },
 
             {"info":{
@@ -412,75 +421,21 @@
             },
 
             {"info":{
-                "alias":"Maureen","name":"Maureen Willowbrook","month":"04","day":"02","year":"2000","pronouns":"She/They","gender":"Nonbinary","orientation":"Bisexual","species":"Cat","occupation":"Emergency Medical Technician","residence":"Arthur City, NY"
+                "alias":"Coco","name":"Coco Coreander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","occupation":"Secretary","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/zkqwot.png","fullbody":"https://files.catbox.moe/ktrtmd.png","link":"/universe/characters/maureen.html",
-            "description":"Maureen is a cat. She likes white pizza and mocha mint iced coffee. She is an emergency medical technician.",
-            "created":"2025/04/02",
-            "groups":["willowbrook","radia"]
+            "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
+            "description":"<p>Coco's a lowly secretary for some small-time office manager, but all she wants is to travel somewhere warmer. She's dreamed of the beach and the ocean and tropical humidity ever since she moved away from an equatorial region at a young age, and she's endlessly frustrated that her lack of means leaves her stuck in Friendship City. Her girlfriend is Pearl Vari.</p>",
+            "created":"2026/02/21",
+            "groups":["ndhs"]
             },
 
             {"info":{
-                "alias":"Jeremiah","name":"Jeremiah Newton","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Robot Engineer","residence":"2233 Ouwania Avenue, Friendship City, CT","height":"6'6"
+                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/She","gender":"Nonbinary","species":"Pokemon (Oshawott)","occupation":"Gamer","residence":"Ebonwood, VG"
                 },
-            "icon":"https://files.catbox.moe/pncwf1.png","fullbody":"https://sribbles.neocities.org/images/jeremiah.png","link":"/universe/characters/jeremiah.html",
-            "description":"Jeremiah is a human. He is an engineer who builds robots. He takes medication from a local herb store to take care of his mental illness.",
-            "created":"2016",
-            "groups":["futurists","newton"]
-            },
-            
-            {"info":{
-                "alias":"Jimmy","name":"Charlie James Newton","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Robot Engineer","residence":"2233 Ouwania Avenue, Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/a9ti78.png","fullbody":"https://files.catbox.moe/hjscr5.png","link":"/universe/characters/jimmy.html",
-            "description":"Jimmy is a human. He is an engineer who builds robots. He loves animals and nature.",
-            "created":"2016",
-            "groups":["futurists","newton"]
-            },
-            
-            {"info":{
-                "alias":"Raby","name":"Raby Chiz","month":"08","day":"20","year":"1994","pronouns":"She/Her","gender":"Female","species":"Cyborg","occupation":"Robot Engineer and Bus Mechanic","residence":"2233 Ouwania Avenue, Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/0e3ujs.png","fullbody":"https://files.catbox.moe/0e3ujs.png","link":"/universe/characters/raby.html",
-            "description":"Raby is a block creature. She used to be a human named Rosalind. She is an engineer for the Futurists and a bus mechanic for Friendship City Transit.",
-            "created":"2022/08",
-            "groups":["futurists","reanimated"]
-            },
-            
-            {"info":{
-                "alias":"Mose","name":"Tigna Waterson Mose","month":"11","day":"11","year":"","pronouns":"He/Him","gender":"Male","species":"Alien","occupation":"Professor at Friendship University and Director of Mose's Lab","residence":"Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/b127a0.png","fullbody":"https://files.catbox.moe/r6im2l.png","link":"/universe/characters/mose.html",
-            "description":"Mose is an alien from outer space. He currently serves as the director of a lab for Friendship University.",
-            "created":"2022/10",
-            "groups":["mose_lab","fu"]
-            },
-
-            {"info":{
-                "alias":"Colette","name":"Colette Deveraux","month":"10","day":"22","year":"1983","pronouns":"She/They/It","gender":"Nonbinary","species":"CD Creature","occupation":"Robot Mechanic","residence":"Friendship City, CT","height":"5'0"
-                },
-            "icon":"https://files.catbox.moe/4ke1hz.png","fullbody":"https://files.catbox.moe/254omk.png","link":"/universe/characters/colette.html",
-            "description":"Colette is an alien from outer space. She is the general caretaker for Mose's army of cats and minions.",
-            "created":"2025/09",
-            "groups":["mose_lab"]
-            },
-
-            {"info":{
-                "alias":"Lydia","name":"Lydia Thornkill","month":"05","day":"26","year":"2012","pronouns":"She/Her","gender":"Female","species":"Cat","residence":"Seedwick, CT"
-                },
-            "icon":"https://files.catbox.moe/mpx9j5.png","fullbody":"https://files.catbox.moe/7vvxsf.png","link":"/universe/characters/lydia.html",
-            "description":"Lydia is a cat. She likes to come up with headcanons for her favorite Roblox game characters. She has to partially take care of her mentally ill father.",
-            "created":"2025/08/26",
-            "groups":["thornkill"]
-            },
-
-            {"info":{
-                "alias":"Glider","name":"Glider Kawiestmoda","month":"02","day":"23","year":"2010","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Pokemon (Gliscor)","occupation":"High School Student","residence":"Arthur City, NY"
-                },
-            "icon":"https://files.catbox.moe/krmfzn.png","fullbody":"https://files.catbox.moe/1rdhvv.png","link":"/universe/characters/glider.html",
-            "description":"Glider is a gliscor. She likes Weezer. She is the daughter of Ospra and Eastmode, the owners of Ospra's and K-Club respectively. She will be a trucker shen she's older.",
-            "created":"2024/02/23",
-            "groups":["kawiestmoda"]
+            "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
+            "description":"Soiette is an Oshawott. He likes playing games in the basement. Her signature catchphrase is \"Dang, bitch!\".",
+            "created":"2024/12/10",
+            "groups":["slhs"]
             },
 
             {"info":{
@@ -511,12 +466,48 @@
             },
 
             {"info":{
-                "alias":"Mieoru","name":"Mieoru Nyukasa","month":"02","day":"05","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Heterosexual","occupation":"College Student","species":"Pokemon (Vaporeon)"
+                "alias":"Mieoru","name":"Mieoru Nyukasa","month":"02","day":"05","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Heterosexual","occupation":"College Student","residence":"Arthur City, NY","species":"Pokemon (Vaporeon)"
                 },
             "icon":"https://files.catbox.moe/hq96po.png","fullbody":"https://files.catbox.moe/i7lu1r.png","link":"/universe/characters/mieoru.html",
-            "description":"Mieoru is a vaporeon.",
+            "description":"<p>Mieoru is a vaporeon. She and her friend Blubby are undergraduates at some institution, aspiring to become microbiologists.</p>",
             "created":"2019/10",
-            "groups":["nyukasa"]
+            "groups":["nyukasa","bus"]
+            },
+
+            {"info":{
+                "alias":"Benny","name":"Benny A.","month":"07","day":"15","year":"2002","pronouns":"He/Him","gender":"Male","species":"Pokemon (Popplio)","residence":"Arthur City, NY"
+                },
+            "icon":"https://files.catbox.moe/ep9qs0.png","fullbody":"https://files.catbox.moe/qoxji2.png","link":"",
+            "description":"<p>Benny is a popplio. He resides in the neighborhood of Northwest in Arthur City, known to be one of the most 'suburb-like' places in the city. He has some sort of hidden disability relating to using his legs and or arms. He likes peaches and listening to The Used. He is transmasc and has top surgery scars. He has a brother, a pilot, named Arnold.</p>",
+            "created":"2019/10",
+            "groups":["bus"]
+            },
+
+            {"info":{
+                "alias":"Jeremiah","name":"Jeremiah Newton","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Robot Engineer","residence":"2233 Ouwania Avenue, Friendship City, CT","height":"6'6"
+                },
+            "icon":"https://files.catbox.moe/pncwf1.png","fullbody":"https://sribbles.neocities.org/images/jeremiah.png","link":"/universe/characters/jeremiah.html",
+            "description":"Jeremiah is a human. He is an engineer who builds robots. He takes medication from a local herb store to take care of his mental illness.",
+            "created":"2016",
+            "groups":["futurists","newton"]
+            },
+            
+            {"info":{
+                "alias":"Jimmy","name":"Charlie James Newton","month":"02","day":"20","year":"1970","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Robot Engineer","residence":"2233 Ouwania Avenue, Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/a9ti78.png","fullbody":"https://files.catbox.moe/hjscr5.png","link":"/universe/characters/jimmy.html",
+            "description":"Jimmy is a human. He is an engineer who builds robots. He loves animals and nature.",
+            "created":"2016",
+            "groups":["futurists","newton"]
+            },
+            
+            {"info":{
+                "alias":"Raby","name":"Raby Chiz","month":"08","day":"20","year":"1994","pronouns":"She/Her","gender":"Female","species":"Cyborg","occupation":"Robot Engineer and Bus Mechanic","residence":"2233 Ouwania Avenue, Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/0e3ujs.png","fullbody":"https://files.catbox.moe/0e3ujs.png","link":"/universe/characters/raby.html",
+            "description":"Raby is a block creature. She used to be a human named Rosalind. She is an engineer for the Futurists and a bus mechanic for Friendship City Transit.",
+            "created":"2022/08",
+            "groups":["futurists","reanimated"]
             },
 
             {"info":{
@@ -526,6 +517,15 @@
             "description":"Amulet is a cat. Because of her physical condition, she is constantly in pain.",
             "created":"2025/10/19",
             "groups":["pastors"]
+            },
+
+            {"info":{
+                "alias":"Lydia","name":"Lydia Thornkill","month":"05","day":"26","year":"2012","pronouns":"She/Her","gender":"Female","species":"Cat","residence":"Seedwick, CT"
+                },
+            "icon":"https://files.catbox.moe/mpx9j5.png","fullbody":"https://files.catbox.moe/7vvxsf.png","link":"/universe/characters/lydia.html",
+            "description":"Lydia is a cat. She likes to come up with headcanons for her favorite Roblox game characters. She has to partially take care of her mentally ill father.",
+            "created":"2025/08/26",
+            "groups":["thornkill"]
             },
             
             {"info":{
@@ -544,6 +544,24 @@
             "description":"Rina is a white cat. She runs the Sharia Lair, where she tries to harness the power of the demigods of the Solar System.",
             "created":"2016",
             "groups":["joesbees"]
+            },
+
+            {"info":{
+                "alias":"Pluto","name":"Pluto Butter","month":"05","day":"02","year":"2003","pronouns":"She/They","gender":"Female","species":"Fox","residence":"Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/jgxe41.png","fullbody":"https://files.catbox.moe/88jw8g.png","link":"/universe/characters/pluto.html",
+            "description":"Pluto is a fox. She is Bowie's sister and Noel's best friend.",
+            "created":"2022/04/22",
+            "groups":["butter"]
+            },
+
+            {"info":{
+                "alias":"Glider","name":"Glider Kawiestmoda","month":"02","day":"23","year":"2010","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Pokemon (Gliscor)","occupation":"High School Student","residence":"Arthur City, NY"
+                },
+            "icon":"https://files.catbox.moe/krmfzn.png","fullbody":"https://files.catbox.moe/1rdhvv.png","link":"/universe/characters/glider.html",
+            "description":"Glider is a gliscor. She likes Weezer. She is the daughter of Ospra and Eastmode, the owners of Ospra's and K-Club respectively. She will be a trucker shen she's older.",
+            "created":"2024/02/23",
+            "groups":["kawiestmoda"]
             },
 
             {"info":{
@@ -574,15 +592,6 @@
             },
 
             {"info":{
-                "alias":"Coco","name":"Coco Coreander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","occupation":"Secretary","residence":"Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
-            "description":"<p>Coco's a lowly secretary for some small-time office manager, but all she wants is to travel somewhere warmer. She's dreamed of the beach and the ocean and tropical humidity ever since she moved away from an equatorial region at a young age, and she's endlessly frustrated that her lack of means leaves her stuck in Friendship City. Her girlfriend is Pearl Vari.</p>",
-            "created":"2026/02/21",
-            "groups":["ndhs"]
-            },
-
-            {"info":{
                 "alias":"Flan","name":"Flan Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles, France"
                 },
             "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"/universe/characters/flan.html",
@@ -603,14 +612,13 @@
 
     "tertiary":
         [
-            
             {"info":{
-                "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2006","pronouns":"He/Him","gender":"Male","species":"Pokemon (Popplio)","residence":"Friendship City, CT"
+                "alias":"Glametal","name":"Carcus Glametal","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","occupation":"Mad Scientist","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
                 },
-            "icon":"https://i.postimg.cc/tTB42s9K/ico-kyle-03.png","fullbody":"https://i.postimg.cc/zBxG0yJm/fb-kyle-02.png","link":"/universe/characters/kyle.html",
-            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has a sister who lives northern Florida with her wife. He is friends with Umber and he has a crush on Comet.",
-            "created":"2021/02",
-            "groups":["ndhs"]
+            "icon":"https://files.catbox.moe/cto6iv.png","fullbody":"https://files.catbox.moe/tvo24n.png","link":"",
+            "description":"Glametal is a meowstic. He does commissions for evil villains. This includes making bioweapons and monsters. Carc Jr. is his son. He is yet another negligent father.",
+            "created":"2019/06",
+            "groups":["glametal"]
             },
 
             {"info":{
@@ -623,7 +631,7 @@
             },
 
             {"info":{
-                "alias":"Far","name":"Far","month":"12","day":"03","year":"1998","pronouns":"They/Them","gender":"Nonbinary","orientation":"Toric","species":"Pokemon Hybrid (Espeon-Flareon)","residence":"Friendship City, CT","occupation":"Lab Assistant","height":"5'5","weight":"130 lbs"
+                "alias":"Far","name":"Far Wildwoods","month":"12","day":"03","year":"1998","pronouns":"They/Them","gender":"Nonbinary","orientation":"Toric","species":"Pokemon Hybrid (Espeon-Flareon)","residence":"Friendship City, CT","occupation":"Lab Assistant","height":"5'5","weight":"130 lbs"
                 },
             "icon":"https://files.catbox.moe/u39jlf.png","fullbody":"https://files.catbox.moe/3xnw8r.png","link":"",
             "description":"Far is a flareon-espeon hybrid. They're Mose's lab assistant. They like The Bad Touch by Bloodhound Gang.",
@@ -1553,7 +1561,7 @@
                 "alias":"Tide","name":"Tide Blueberry","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Cat"
                 },
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Tide is a cat. He is blue and carbonated. He is friends with Pea and Amulet.",
+            "description":"Tide is a blue soft drink themed cat. He is friends with Pea and Amulet.",
             "created":"2025/10/19",
             "groups":[]
             },
@@ -1564,6 +1572,15 @@
             "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
             "description":"Pea is an orange cat.",
             "created":"2025/11",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"July","name":"July Shark","month":"","day":"","year":"2005","pronouns":"She/Her","gender":"Male","species":"Shark"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"July is a shark. ",
+            "created":"2026/07/02",
             "groups":[]
             },
 

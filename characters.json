@@ -2,7 +2,7 @@
     "main":
         [
             {"info":{
-                "alias":"Ball","name":"Arsler Newport Ballston","month":"01","day":"17","year":"2006","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Meowstic)","occupation":"College Student","residence":"116 Blair St, Friendship City, CT","height":"5'3"
+                "alias":"Ball","name":"Archer Newport Ballston","month":"01","day":"17","year":"2006","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Meowstic)","occupation":"College Student","residence":"116 Blair St, Friendship City, CT","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/vrjdjy.png","fullbody":"https://files.catbox.moe/rzlf1c.png","link":"/universe/characters/ball.html",
             "description":"<p>Ball is a quiet, nerdy Meowstic who loves everything about trains. He's taken hundreds of pictures of them, and considers himself something of a train connoisseur. He's pretty shy and reserved outwardly, but once you eventually get to know him, he's just an easy-going guy who's endlessly devoted to his interests. He is part of the class of 2027 at Verr University.</p>",
@@ -99,15 +99,6 @@
             "created":"2023/07/29",
             "groups":[]
             },
-
-            {"info":{
-                "alias":"York","name":"Marina York","month":"01","day":"01","year":"2004","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","occupation":"Shrimp Farmer and Electronics Repairer","residence":"1105 Glenbourne Av, Tristantown, CT"
-                },
-            "icon":"https://files.catbox.moe/2emnrz.png","fullbody":"https://files.catbox.moe/p7aajh.png","link":"/universe/characters/york.html",
-            "description":"York is a glaceon. She likes to hang out in pools.",
-            "created":"2019/06",
-            "groups":["ndhs"]
-            },
             
             {"info":{
                 "alias":"Cypress","name":"Cypress Foreman","month":"11","day":"23","year":"2000","pronouns":"They/Them","gender":"Nonbinary","orientation":"Asexual Aromantic","species":"Cat","occupation":"Private Investigator","residence":"Mansoor, CT","height":"5'2"
@@ -173,15 +164,6 @@
             },
             
             {"info":{
-                "alias":"Nisha","name":"Nisha Mukherjee","month":"09","day":"30","year":"2004","pronouns":"They/Them","gender":"Nonbinary","orientation":"Bisexual Lesbian","species":"Pokemon (Shaymin)","occupation":"College Student","residence":"Bellthorne, CT"
-                },
-            "icon":"https://files.catbox.moe/ubmc29.png","fullbody":"https://i.postimg.cc/VN6nygcq/fb-nisha.png","link":"/universe/characters/nisha.html",
-            "description":"Nisha is a Shaymin. They care deeply about what other people think of them. They go to Friendship University.",
-            "created":"2022/09/05",
-            "groups":["ndhs","fu","mukherjee"]
-            },
-            
-            {"info":{
                 "alias":"Pocky","name":"Azure \"Pocky Pulverize\" Pullman","month":"08","day":"11","year":"2001","pronouns":"He/She","gender":"Fluid","orientation":"Bisexual","species":"Cat","occupation":"Bassist for Offensive Content and Security Camera Person","residence":"Cannaboun, VG","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/7df3hn.png","fullbody":"https://files.catbox.moe/yyglr1.png","link":"/universe/characters/pocky.html",
@@ -197,15 +179,6 @@
             "description":"<p>Sage is a relaxed college student who just does whatever feels right and doesn't think too hard about what happens next. When he's not half-heartedly working on his STEM major, he does what he's done for his whole life: goof off and fish with his best friends! His sibling, Miki, and his friend-with-benefits, Wayne, are definitely better fishers than he is, but Sage has never cared too deeply about being the best.</p>",
             "created":"2025/04/05",
             "groups":["highland_park"]
-            },
-            
-            {"info":{
-                "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'8"
-                },
-            "icon":"https://files.catbox.moe/zvjcxn.png","fullbody":"https://files.catbox.moe/y27e99.png","link":"/universe/characters/sharyo.html",
-            "description":"<p>Sharyo's a mischievous train cat who always wants to get you to your destination safely! She jokes around, but ultimately means well; it's tough standing out when you're coworkers with your 20 siblings, but her partners make it feel special enough to make up for that. And as a bit of a scientific oddity, it also lives in a scientist's warehouse; Sharyo can't say she hates the free rent! It's quite content with its small life.</p>",
-            "created":"2025/05/02",
-            "groups":["njt_lr", "mose_lab"]
             },
 
             {"info":{
@@ -234,15 +207,6 @@
             "created":"2025/10/19",
             "groups":["demigod_plot"]
             },
-            
-            {"info":{
-                "alias":"Nanika","name":"Nanika Wegxite","month":"12","day":"23","year":"2000","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Cat","occupation":"Leader of Joe's Bees","residence":"13 Badger St, Friendship City, CT","height":"5'0"
-                },
-            "icon":"https://files.catbox.moe/gf4u9l.png","fullbody":"https://files.catbox.moe/nsssr8.png","link":"/universe/characters/nanika.html",
-            "description":"Nanika is a tuxedo cat with wings. She is extroverted. She is the leader of the notorious Joe's Bees.",
-            "created":"2022/07/31",
-            "groups":["joesbees","radia"]
-            },
 
             {"info":{
                 "alias":"Joey","name":"Joey Pepperoni","month":"05","day":"22","year":"2002","pronouns":"They/Them","gender":"Nonbinary","species":"Deer","occupation":"Stunt Actor","residence":"Arthur City, NY","height":"4'9"
@@ -257,49 +221,21 @@
         
     "secondary":
         [
-            
             {"info":{
-                "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Pokemon (Victini)","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
+                "alias":"Nisha","name":"Nisha Mukherjee","month":"09","day":"30","year":"2004","pronouns":"They/Them","gender":"Nonbinary","orientation":"Bisexual Lesbian","species":"Pokemon (Shaymin)","occupation":"College Student","residence":"Bellthorne, CT"
                 },
-            "icon":"/images/flingyicon.png","fullbody":"https://sribbles.neocities.org/images/flingy.png","link":"",
-            "description":"<p>Flingy was a victini. She was Lit's twin sister; they were best friends. Her favorite show was 'V and Ax'. She was murdered on October 15, 2019.</p>",
-            "created":"2022/07",
-            "groups":["ndhs","cupcake"]
+            "icon":"https://files.catbox.moe/ubmc29.png","fullbody":"https://i.postimg.cc/VN6nygcq/fb-nisha.png","link":"/universe/characters/nisha.html",
+            "description":"Nisha is a Shaymin. They care deeply about what other people think of them. They go to Friendship University.",
+            "created":"2022/09/05",
+            "groups":["ndhs","fu","mukherjee"]
             },
-            
+
             {"info":{
-                "alias":"Carc","name":"Carcus Glametal Jr.","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
+                "alias":"York","name":"Marina York","month":"01","day":"01","year":"2004","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","occupation":"Shrimp Farmer and Electronics Repairer","residence":"1105 Glenbourne Av, Tristantown, CT"
                 },
-            "icon":"https://files.catbox.moe/rwn3hq.png","fullbody":"https://files.catbox.moe/3bah74.png","link":"",
-            "description":"Carc is a meowstic. He was a student at Doubax Highschool and was a bully.",
+            "icon":"https://files.catbox.moe/2emnrz.png","fullbody":"https://files.catbox.moe/p7aajh.png","link":"/universe/characters/york.html",
+            "description":"York is a glaceon. She likes to hang out in pools.",
             "created":"2019/06",
-            "groups":["ndhs","scf","glametal"]
-            },
-
-            {"info":{
-                "alias":"Florence","name":"Florence Fullerton","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Pikachu)","residence":"Friendship City, CT"
-                },
-            "icon":"https://i.postimg.cc/ydYzwW2h/flavericon.png","fullbody":"https://files.catbox.moe/pgmhzv.png","link":"",
-            "description":"Florence is a pikachu. She is a cautious person. She was friends with Flingy, and went on to develop an uneasy acquaintanceship with Lit after Flingy's death.",
-            "created":"2022/07",
-            "groups":["ndhs"]
-            },
-
-            {"info":{
-                "alias":"Ree","name":"Victoria Nyoucmo","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Jirachi)","residence":"Friendship City, CT"
-                },
-            "icon":"https://i.postimg.cc/QdGZjfRd/reeicon.png","fullbody":"https://files.catbox.moe/lmfvfk.png","link":"",
-            "description":"Ree is a jirachi. She was the (other) Rich Girl in highschool, but after various indicents, Ree's family had been bankrupt since at least 2023. She is Lit's ex-girlfriend.",
-            "created":"2022/06",
-            "groups":["ndhs","nyoucmo"]
-            },
-
-            {"info":{
-                "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Popplio)","residence":"Friendship City, CT"
-                },
-            "icon":"https://i.postimg.cc/tTB42s9K/ico-kyle-03.png","fullbody":"https://i.postimg.cc/zBxG0yJm/fb-kyle-02.png","link":"/universe/characters/kyle.html",
-            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has a sister who lives northern Florida with her wife. He is friends with Umber and he has a crush on Comet.",
-            "created":"2021/02",
             "groups":["ndhs"]
             },
 
@@ -322,48 +258,21 @@
             },
 
             {"info":{
-                "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Pokemon (Espeon)","occupation":"A Lot","residence":"CT"
-                },
-            "icon":"https://files.catbox.moe/9e9pv9.png","fullbody":"https://files.catbox.moe/7dxtaf.png","link":"/universe/characters/mar.html",
-            "description":"Mar is an espeon. He likes butterflies and Brussels sprouts. He is often grumpy due to his job insecurity. He doesn't usually eat his shirt.",
-            "created":"2023/08/22",
-            "groups":["shiffallooley"]
-            },
-            
-            {"info":{
-                "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Umbreon)","occupation":"Internet Troll","residence":"Friendship City, CT"
-                },
-            "icon":"https://files.catbox.moe/hyoulb.png","fullbody":"https://files.catbox.moe/jcnhx5.png","link":"/universe/characters/umber.html",
-            "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He is Mar's brother.",
-            "created":"2020/03/30",
-            "groups":["ndhs","shiffallooley"]
-            },
-
-            {"info":{
-                "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Pokemon (Sylveon)","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
-                },
-            "icon":"https://files.catbox.moe/s5wnfn.png","fullbody":"https://i.postimg.cc/QtjDKQCp/steel2-3.png","link":"/universe/characters/steel.html",
-            "description":"Steel is a sylveon. She is mischevious and very impulsive, and has many tattoos that are covered by her fur. He is the scientist who looks after Ash. They are infertile, and treats Ash like the son he could never conceive.",
-            "created":"2022/12",
-            "groups":["verr","seedwick"]
-            },
-
-            {"info":{
-                "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","occupation":"College Student","residence":"CT"
-                },
-            "icon":"https://files.catbox.moe/q4e43d.png","fullbody":"https://files.catbox.moe/5i9k1m.png","link":"/universe/characters/snodie.html",
-            "description":"Snodie is a vulpix. Attached to her hair and tail is Angel, a lost spirit. She is a witch and studied animal science at Verr University.",
-            "created":"2022/07",
-            "groups":["verr"]
-            },
-
-            {"info":{
                 "alias":"Colette","name":"Colette Deveraux","month":"10","day":"22","year":"1983","pronouns":"She/They/It","gender":"Nonbinary","species":"CD Creature","occupation":"Robot Mechanic","residence":"Friendship City, CT","height":"5'0"
                 },
             "icon":"https://files.catbox.moe/4ke1hz.png","fullbody":"https://files.catbox.moe/254omk.png","link":"/universe/characters/colette.html",
             "description":"Colette is an alien from outer space. She is the general caretaker for Mose's army of cats and minions.",
             "created":"2025/09",
             "groups":["mose_lab"]
+            },
+
+            {"info":{
+                "alias":"Sharyo","name":"NJT NLR 112","month":"08","day":"27","year":"1999","pronouns":"She/It","gender":"Nonbinary","species":"Cat LRV","height":"5'8"
+                },
+            "icon":"https://files.catbox.moe/ge56mc.png","fullbody":"https://files.catbox.moe/y27e99.png","link":"/universe/characters/sharyo.html",
+            "description":"<p>Sharyo's a mischievous train cat who always wants to get you to your destination safely! She jokes around, but ultimately means well; it's tough standing out when you're coworkers with your 20 siblings, but her partners make it feel special enough to make up for that. And as a bit of a scientific oddity, it also lives in a scientist's warehouse; Sharyo can't say she hates the free rent! It's quite content with its small life.</p>",
+            "created":"2025/05/02",
+            "groups":["njt_lr", "mose_lab"]
             },
 
             {"info":{
@@ -394,48 +303,30 @@
             },
 
             {"info":{
-                "alias":"Maureen","name":"Maureen Willowbrook","month":"04","day":"02","year":"2000","pronouns":"She/They","gender":"Nonbinary","orientation":"Bisexual","species":"Cat","occupation":"Emergency Medical Technician","residence":"Arthur City, NY"
+                "alias":"Steel","name":"Seth Frasier-Lucas Clifton","month":"12","day":"14","year":"1986","pronouns":"Any","gender":"Fluid","orientation":"Pansexual","species":"Pokemon (Sylveon)","occupation":"Researcher","residence":"1017 Blossom St, Seedwick, CT"
                 },
-            "icon":"https://files.catbox.moe/zkqwot.png","fullbody":"https://files.catbox.moe/ktrtmd.png","link":"/universe/characters/maureen.html",
-            "description":"Maureen is a cat. She likes white pizza and mocha mint iced coffee. She is an emergency medical technician.",
-            "created":"2025/04/02",
-            "groups":["willowbrook","radia"]
+            "icon":"https://files.catbox.moe/nktsy3.png","fullbody":"https://i.postimg.cc/QtjDKQCp/steel2-3.png","link":"/universe/characters/steel.html",
+            "description":"Steel is a sylveon. She is mischevious and very impulsive, and has many tattoos that are covered by her fur. He is the scientist who looks after Ash. They are infertile, and treats Ash like the son he could never conceive.",
+            "created":"2022/12",
+            "groups":["verr","seedwick"]
             },
 
             {"info":{
-                "alias":"Garland","name":"Garland Green Day","month":"06","day":"18","year":"2002","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Hairdresser","residence":"Arthur City, NY"
+                "alias":"Snodie","name":"Snowe Cotton","month":"12","day":"08","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Vulpix)","occupation":"College Student","residence":"CT"
                 },
-            "icon":"https://files.catbox.moe/jye63f.png","fullbody":"https://files.catbox.moe/o0humo.png","link":"/universe/characters/garland.html",
-            "description":"Garland, or Sandy, is a leafeon. She is confident, outgoing, devious, mischevious, and polyamorous. No. Not the last part. Her brother is Lawrence.",
-            "created":"2025/06/18",
-            "groups":["day"]
-            },
-            
-            {"info":{
-                "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2002","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Employee for Arthur City Public Library","residence":"Arthur City, NY","height":"5'2"
-                },
-            "icon":"https://files.catbox.moe/gln34z.png","fullbody":"https://files.catbox.moe/06y68z.png","link":"/universe/characters/lawrence.html",
-            "description":"Lawrence is a leafeon. He is shy and nervous. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
-            "created":"2025/06/20",
-            "groups":["day"]
+            "icon":"https://files.catbox.moe/q4e43d.png","fullbody":"https://files.catbox.moe/5i9k1m.png","link":"/universe/characters/snodie.html",
+            "description":"Snodie is a vulpix. Attached to her hair and tail is Angel, a lost spirit. She is a witch and studied animal science at Verr University.",
+            "created":"2022/07",
+            "groups":["verr"]
             },
 
             {"info":{
-                "alias":"Coco","name":"Coco Coreander","month":"02","day":"18","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","occupation":"Secretary","residence":"Friendship City, CT"
+                "alias":"Nanika","name":"Nanika Wegxite","month":"12","day":"23","year":"2000","pronouns":"She/Her","gender":"Female","orientation":"Bisexual","species":"Cat","occupation":"Leader of Joe's Bees","residence":"13 Badger St, Friendship City, CT","height":"5'0"
                 },
-            "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
-            "description":"<p>Coco's a lowly secretary for some small-time office manager, but all she wants is to travel somewhere warmer. She's dreamed of the beach and the ocean and tropical humidity ever since she moved away from an equatorial region at a young age, and she's endlessly frustrated that her lack of means leaves her stuck in Friendship City. Her girlfriend is Pearl Vari.</p>",
-            "created":"2026/02/21",
-            "groups":["ndhs"]
-            },
-
-            {"info":{
-                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/She","gender":"Nonbinary","species":"Pokemon (Oshawott)","occupation":"Gamer","residence":"Ebonwood, VG"
-                },
-            "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
-            "description":"Soiette is an Oshawott. He likes playing games in the basement. Her signature catchphrase is \"Dang, bitch!\".",
-            "created":"2024/12/10",
-            "groups":["slhs"]
+            "icon":"https://files.catbox.moe/gf4u9l.png","fullbody":"https://files.catbox.moe/nsssr8.png","link":"/universe/characters/nanika.html",
+            "description":"Nanika is a tuxedo cat with wings. She is extroverted. She is the leader of the notorious Joe's Bees.",
+            "created":"2022/07/31",
+            "groups":["joesbees","radia"]
             },
 
             {"info":{
@@ -481,6 +372,69 @@
             "description":"<p>Benny is a popplio. He resides in the neighborhood of Northwest in Arthur City, known to be one of the most 'suburb-like' places in the city. He has some sort of hidden disability relating to using his legs and or arms. He likes peaches and listening to The Used. He is transmasc and has top surgery scars. He has a brother, a pilot, named Arnold.</p>",
             "created":"2019/10",
             "groups":["bus"]
+            },
+
+            {"info":{
+                "alias":"Coco","name":"Coco Coreander","month":"03","day":"05","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Litten)","occupation":"Secretary","residence":"Friendship City, CT","height":"4'10"
+                },
+            "icon":"https://files.catbox.moe/3ajtzl.png","fullbody":"https://files.catbox.moe/ljt9wz.png","link":"",
+            "description":"<p>Coco's a lowly secretary for some small-time office manager, but all she wants is to travel somewhere warmer. She's dreamed of the beach and the ocean and tropical humidity ever since she moved away from an equatorial region at a young age, and she's endlessly frustrated that her lack of means leaves her stuck in Friendship City. Her girlfriend is Pearl Vari.</p>",
+            "created":"2026/02/21",
+            "groups":["ndhs"]
+            },
+
+            {"info":{
+                "alias":"Mar","name":"Marble Marlamade Shiffallooley","month":"08","day":"22","year":"2002","pronouns":"He/They","gender":"Male","species":"Pokemon (Espeon)","occupation":"A Lot","residence":"CT"
+                },
+            "icon":"https://files.catbox.moe/9e9pv9.png","fullbody":"https://files.catbox.moe/7dxtaf.png","link":"/universe/characters/mar.html",
+            "description":"Mar is an espeon. He likes butterflies and Brussels sprouts. He is often grumpy due to his job insecurity. He doesn't usually eat his shirt.",
+            "created":"2023/08/22",
+            "groups":["shiffallooley"]
+            },
+            
+            {"info":{
+                "alias":"Umber","name":"Umber Shiffallooley","month":"03","day":"30","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Umbreon)","occupation":"Internet Troll","residence":"Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/hyoulb.png","fullbody":"https://files.catbox.moe/jcnhx5.png","link":"/universe/characters/umber.html",
+            "description":"Umber is a umbreon. He likes mystery novels and ran the NDHS book club. He is Mar's brother.",
+            "created":"2020/03/30",
+            "groups":["ndhs","shiffallooley"]
+            },
+
+            {"info":{
+                "alias":"Maureen","name":"Maureen Willowbrook","month":"04","day":"02","year":"2000","pronouns":"She/They","gender":"Nonbinary","orientation":"Bisexual","species":"Cat","occupation":"Emergency Medical Technician","residence":"Arthur City, NY"
+                },
+            "icon":"https://files.catbox.moe/zkqwot.png","fullbody":"https://files.catbox.moe/ktrtmd.png","link":"/universe/characters/maureen.html",
+            "description":"Maureen is a cat. She likes white pizza and mocha mint iced coffee. She is an emergency medical technician.",
+            "created":"2025/04/02",
+            "groups":["willowbrook","radia"]
+            },
+
+            {"info":{
+                "alias":"Garland","name":"Garland Green Day","month":"06","day":"18","year":"2002","pronouns":"She/They","gender":"Female","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Hairdresser","residence":"Arthur City, NY"
+                },
+            "icon":"https://files.catbox.moe/jye63f.png","fullbody":"https://files.catbox.moe/o0humo.png","link":"/universe/characters/garland.html",
+            "description":"Garland, or Sandy, is a leafeon. She is confident, outgoing, devious, mischevious, and polyamorous. No. Not the last part. Her brother is Lawrence.",
+            "created":"2025/06/18",
+            "groups":["day"]
+            },
+            
+            {"info":{
+                "alias":"Lawrence","name":"Lawrence Alexander Day","month":"06","day":"19","year":"2002","pronouns":"He/They","gender":"Male","orientation":"Bisexual","species":"Pokemon (Leafeon)","occupation":"Employee for Arthur City Public Library","residence":"Arthur City, NY","height":"5'2"
+                },
+            "icon":"https://files.catbox.moe/gln34z.png","fullbody":"https://files.catbox.moe/06y68z.png","link":"/universe/characters/lawrence.html",
+            "description":"Lawrence is a leafeon. He is shy and nervous. This is in contrast to the clothes he wears. His sister is Garland. He likes to call her Gary and Garlic, but she doesn't like it.",
+            "created":"2025/06/20",
+            "groups":["day"]
+            },
+
+            {"info":{
+                "alias":"Soi","name":"Soiette Cora-Forr","month":"12","day":"10","year":"2004","pronouns":"He/She","gender":"Nonbinary","species":"Pokemon (Oshawott)","occupation":"Gamer","residence":"Ebonwood, VG"
+                },
+            "icon":"https://files.catbox.moe/vxu60u.png","fullbody":"https://files.catbox.moe/t2g0h1.png","link":"/universe/characters/soiette.html",
+            "description":"Soiette is an Oshawott. He likes playing games in the basement. Her signature catchphrase is \"Dang, bitch!\".",
+            "created":"2024/12/10",
+            "groups":["slhs"]
             },
 
             {"info":{
@@ -589,6 +543,51 @@
             "description":"Lex is a meowstic. She is intersex. He works at K-Club.",
             "created":"2022/05/11",
             "groups":[]
+            },
+
+            {"info":{
+                "alias":"Flingy","name":"Flingy Cupcake","month":"06","day":"15","year":"2005","pronouns":"She/Her","gender":"Female","species":"Pokemon (Victini)","occupation":"High School Student","residence":"3 Ebiglepton Ct, Friendship City, CT"
+                },
+            "icon":"/images/flingyicon.png","fullbody":"https://sribbles.neocities.org/images/flingy.png","link":"",
+            "description":"<p>Flingy was a victini. She was Lit's twin sister; they were best friends. Her favorite show was 'V and Ax'. She was murdered on October 15, 2019.</p>",
+            "created":"2022/07",
+            "groups":["ndhs","cupcake"]
+            },
+            
+            {"info":{
+                "alias":"Carc","name":"Carcus Glametal Jr.","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Pokemon (Meowstic)","residence":"Friendship City, CT"
+                },
+            "icon":"https://files.catbox.moe/rwn3hq.png","fullbody":"https://files.catbox.moe/3bah74.png","link":"",
+            "description":"Carc is a meowstic. He was a student at Doubax Highschool and was a bully.",
+            "created":"2019/06",
+            "groups":["ndhs","scf","glametal"]
+            },
+
+            {"info":{
+                "alias":"Florence","name":"Florence Fullerton","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Pikachu)","residence":"Friendship City, CT"
+                },
+            "icon":"https://i.postimg.cc/ydYzwW2h/flavericon.png","fullbody":"https://files.catbox.moe/pgmhzv.png","link":"",
+            "description":"Florence is a pikachu. She is a cautious person. She was friends with Flingy, and went on to develop an uneasy acquaintanceship with Lit after Flingy's death.",
+            "created":"2022/07",
+            "groups":["ndhs"]
+            },
+
+            {"info":{
+                "alias":"Ree","name":"Victoria Nyoucmo","month":"","day":"","year":"2006","pronouns":"She/Her","gender":"Female","species":"Pokemon (Jirachi)","residence":"Friendship City, CT"
+                },
+            "icon":"https://i.postimg.cc/QdGZjfRd/reeicon.png","fullbody":"https://files.catbox.moe/lmfvfk.png","link":"",
+            "description":"Ree is a jirachi. She was the (other) Rich Girl in highschool, but after various indicents, Ree's family had been bankrupt since at least 2023. She is Lit's ex-girlfriend.",
+            "created":"2022/06",
+            "groups":["ndhs","nyoucmo"]
+            },
+
+            {"info":{
+                "alias":"Kyle","name":"Kyle Lockhart","month":"01","day":"06","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Pokemon (Popplio)","residence":"Friendship City, CT"
+                },
+            "icon":"https://i.postimg.cc/tTB42s9K/ico-kyle-03.png","fullbody":"https://i.postimg.cc/zBxG0yJm/fb-kyle-02.png","link":"/universe/characters/kyle.html",
+            "description":"Kyle is a popplio. He lived in Texas on his family's cube corn farm until the house burned down. He has a sister who lives northern Florida with her wife. He is friends with Umber and he has a crush on Comet.",
+            "created":"2021/02",
+            "groups":["ndhs"]
             },
 
             {"info":{

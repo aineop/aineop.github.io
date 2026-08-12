@@ -1,5 +1,26 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/G49CKM5n","thumbnail":"https://i.postimg.cc/VkWkYp9v/rockywah.png",
+            "artist":"CoMo","month":"08","day":"11","year":"2026",
+            "title":"Wah",
+            "caption":"Rocky is noticing.",
+            "description":"",
+            "tags":["rocky","sribbles"]},
+
+          {"link":"https://postimg.cc/bZdhg6Bj","thumbnail":"https://i.postimg.cc/wjQj6Z53/pockybed.png",
+            "artist":"CoMo","month":"08","day":"11","year":"2026",
+            "title":"Not Feeling It",
+            "caption":"Pocky bought the wrong size mattress.",
+            "description":"",
+            "tags":["pocky","sribbles"]},
+
+          {"link":"https://postimg.cc/87k85yS6","thumbnail":"https://i.postimg.cc/6pnBMSbY/mae-liyana.png",
+            "artist":"CoJu","month":"08","day":"11","year":"2026",
+            "title":"Forest Monster",
+            "caption":"Mae and Liyana.",
+            "description":"",
+            "tags":["mae","liyana","cojuverse"]},
+
           {"link":"https://postimg.cc/tYXMKK7V","thumbnail":"https://i.postimg.cc/ZK3zdZSj/dizzy.png",
             "artist":"CoMo","month":"08","day":"08","year":"2026",
             "title":"Dizzy",
@@ -54,7 +75,7 @@
             "title":"bus",
             "caption":"from Artfight",
             "description":"",
-            "tags":["nabi","sribbles","artfight"]},
+            "tags":["nabi","transit","sribbles","artfight"]},
 
           {"link":"https://postimg.cc/mc3D4FWh","thumbnail":"https://i.postimg.cc/bvW2QQ60/rocky-tomodachi.png",
             "artist":"CoJu","month":"08","day":"01","year":"2026",
@@ -4557,6 +4578,13 @@
             "description":"",
             "tags":["rain","cojuverse"]},
 
+          {"link":"https://postimg.cc/VJ0h52hW","thumbnail":"https://i.postimg.cc/rwf2ZkC3/pockpock.png",
+            "artist":"CoMo","month":"02","day":"25","year":"2025",
+            "title":"Pock Pock",
+            "caption":"Rawr!",
+            "description":"",
+            "tags":["pocky","sribbles"]},
+
             {"link":"https://files.catbox.moe/s78wx4.png","thumbnail":"https://files.catbox.moe/s78wx4.png",
             "artist":"CoMo","month":"02","day":"21","year":"2025",
             "title":"Sylveon Day 2025",
@@ -6671,13 +6699,6 @@
             "description":"",
             "tags":["rivers","sribbles"]},
             
-            {"link":"https://files.catbox.moe/8lyemh.png","thumbnail":"https://files.catbox.moe/8lyemh.png",
-            "artist":"CoMo","month":"12","day":"15","year":"2023",
-            "title":"Ash",
-            "caption":"Ash is proud of himself.",
-            "description":"",
-            "tags":["ash","sribbles"]},
-            
             {"link":"https://postimg.cc/ThbcnLTN","thumbnail":"https://i.postimg.cc/kM1h3KzC/who_are_you.png",
             "artist":"CoJu","month":"12","day":"10","year":"2023",
             "title":"Who Are You",
@@ -8350,13 +8371,6 @@
             "caption":"Axel is harnessing his powers.",
             "description":"",
             "tags":["axel","cojuverse"]},
-
-            {"link":"https://postimg.cc/MM5DLJK6","thumbnail":"https://i.postimg.cc/2yRKVCsZ/maeconcept.png",
-            "artist":"CoJu","month":"08","day":"10","year":"2021",
-            "title":"Pink Alien World",
-            "caption":"Mae as a concept.",
-            "description":"",
-            "tags":["mae","cojuverse"]},
 
             {"link":"https://postimg.cc/4md8rycG","thumbnail":"https://i.postimg.cc/pXQg5nXm/rebapinksuit.png",
             "artist":"CoJu","month":"08","day":"04","year":"2021",
@@ -10759,7 +10773,7 @@
             "title":"Liyana's Reference",
             "caption":"",
             "description":"",
-            "tags":["liyana","sribbles"]},
+            "tags":["liyana","cojuverse"]},
 
           {"link":"https://postimg.cc/FfqCF8MD","thumbnail":"https://i.postimg.cc/nzVy2t0b/sageref2.png",
             "artist":"CoMo","month":"07","day":"24","year":"2026",
@@ -10977,20 +10991,6 @@
             "caption":"",
             "description":"",
             "tags":["ryder","sribbles"]},
-                
-            {"link":"https://64.media.tumblr.com/a422b07bf16cb2dea61a019c92afbaff/31129a78d3ca1b47-15/s2048x3072/15c177a7bc3d509e43a3819c9aac942393b6a501.png","thumbnail":"https://64.media.tumblr.com/a422b07bf16cb2dea61a019c92afbaff/31129a78d3ca1b47-15/s2048x3072/15c177a7bc3d509e43a3819c9aac942393b6a501.png",
-            "artist":"CoJu","month":"09","day":"16","year":"2023",
-            "title":"Clementine's Reference",
-            "caption":"",
-            "description":"",
-            "tags":["clementine","cojuverse"]},
-                
-            {"link":"https://64.media.tumblr.com/8fe5e02d87c468991cb11c6d55876c82/af03dac9e19da339-5a/s2048x3072/e7e105afef4973c7d80976fad6c24f35e9434243.png","thumbnail":"https://64.media.tumblr.com/8fe5e02d87c468991cb11c6d55876c82/af03dac9e19da339-5a/s2048x3072/e7e105afef4973c7d80976fad6c24f35e9434243.png",
-            "artist":"CoJu","month":"09","day":"26","year":"2023",
-            "title":"Riley's Reference",
-            "caption":"",
-            "description":"",
-            "tags":["riley","cojuverse"]},
                 
             {"link":"https://postimg.cc/CzGVj1h3","thumbnail":"https://i.postimg.cc/gk5kbXf2/liamref2.png",
             "artist":"CoJu","month":"02","day":"01","year":"2026",
@@ -11475,12 +11475,11 @@
             "caption":"Void has a <a href='https://64.media.tumblr.com/7a4ddac9a1f4dc3202bb1e087ebe9527/370cbbb1ec861aa0-8d/s1280x1920/3cc35e851966bd1f30ca012c56342c70c010ad8d.png'>clothes guide.</a>",
             "description":"",
             "tags":["october","cojuverse"]},
-
                 
             {"link":"https://files.catbox.moe/w1bthl.png","thumbnail":"https://files.catbox.moe/w1bthl.png",
             "artist":"CoMo","month":"12","day":"15","year":"2023",
             "title":"Ash's Reference (1)",
-            "caption":"Ash's first reference sheet.",
+            "caption":"Fullbody PNG <a href='https://files.catbox.moe/8lyemh.png'>here.</a>",
             "description":"",
             "tags":["ash","sribbles"]},
                 
@@ -11490,7 +11489,6 @@
             "caption":"",
             "description":"",
             "tags":["cypress","sribbles"]},
-
                 
             {"link":"https://postimg.cc/n9TnSYfY","thumbnail":"https://i.postimg.cc/G9n92qMN/rebaref4.png",
             "artist":"CoJu","month":"10","day":"10","year":"2023",
@@ -11498,6 +11496,20 @@
             "caption":"",
             "description":"",
             "tags":["reba","cojuverse"]},
+
+            {"link":"https://64.media.tumblr.com/8fe5e02d87c468991cb11c6d55876c82/af03dac9e19da339-5a/s2048x3072/e7e105afef4973c7d80976fad6c24f35e9434243.png","thumbnail":"https://64.media.tumblr.com/8fe5e02d87c468991cb11c6d55876c82/af03dac9e19da339-5a/s2048x3072/e7e105afef4973c7d80976fad6c24f35e9434243.png",
+            "artist":"CoJu","month":"09","day":"26","year":"2023",
+            "title":"Riley's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["riley","cojuverse"]},
+
+            {"link":"https://64.media.tumblr.com/a422b07bf16cb2dea61a019c92afbaff/31129a78d3ca1b47-15/s2048x3072/15c177a7bc3d509e43a3819c9aac942393b6a501.png","thumbnail":"https://64.media.tumblr.com/a422b07bf16cb2dea61a019c92afbaff/31129a78d3ca1b47-15/s2048x3072/15c177a7bc3d509e43a3819c9aac942393b6a501.png",
+            "artist":"CoJu","month":"09","day":"16","year":"2023",
+            "title":"Clementine's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["clementine","cojuverse"]},
                 
             {"link":"https://files.catbox.moe/b0yqw3.png","thumbnail":"https://files.catbox.moe/b0yqw3.png",
             "artist":"CoJu","month":"09","day":"09","year":"2023",
@@ -11936,7 +11948,7 @@
             {"link":"https://postimg.cc/2brGTSmz","thumbnail":"https://i.postimg.cc/zBRQzycR/maesloppyref.png",
             "artist":"CoJu","month":"08","day":"10","year":"2021",
             "title":"Mae's Reference",
-            "caption":"",
+            "caption":"Shaded version <a href='https://postimg.cc/MM5DLJK6'>here.</a>",
             "description":"",
             "tags":["mae","cojuverse"]},
             

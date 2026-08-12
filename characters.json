@@ -20,7 +20,7 @@
             },
             
             {"info":{
-                "alias":"Pinewood","name":"Pinewood Hills","month":"04","day":"28","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"Friendship City, CT"
+                "alias":"Pinewood","name":"Pinewood Hills","month":"04","day":"28","year":"2005","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"Friendship City, CT","height":"5'8"
                 },
             "icon":"https://files.catbox.moe/g6fnqx.png","fullbody":"https://files.catbox.moe/xvzj9o.png","link":"/universe/characters/pinewood.html",
             "description":"<p>Pinewood's always been a rough and tumble kind of girl. Her family's history with the North Doubax Forest dates back centuries, so it was only natural that she grew up logging trees and shaping the wood into furniture for her family's home goods store. She's pretty brash, but her cousin's a therapist; she knows how to be caring when it really counts.</p>",
@@ -29,7 +29,7 @@
             },
             
             {"info":{
-                "alias":"Oakwood","name":"Oakwood Silva","month":"04","day":"12","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"114 Poryglass St, Friendship City, CT"
+                "alias":"Oakwood","name":"Oakwood Silva","month":"04","day":"12","year":"2005","pronouns":"He/Him","gender":"Male","orientation":"Pansexual","species":"Pokemon (Vulpix)","occupation":"Furniture Store Worker","residence":"114 Poryglass St, Friendship City, CT","height":"5'7"
                 },
             "icon":"https://files.catbox.moe/3ngdxg.png","fullbody":"https://files.catbox.moe/6fkfqd.png","link":"/universe/characters/oakwood.html",
             "description":"<p>Oakwood's a relaxed dude who's always trying to entertain himself, whether thats by causing mischief around town or bothering his friends with his antics. He's so much of a prankster that he's becoming unpleasant to be around, but he either doesn't notice or doesn't care. He prioritizes his amusement over everyone else's feelings, unless it gets him into trouble.</p>",
@@ -38,7 +38,7 @@
             },
             
             {"info":{
-                "alias":"Martha","name":"Martha Gunby","month":"05","day":"30","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Asexual","species":"Pokemon (Meowstic)","occupation":"Employee for DePonte Parks Department","residence":"1106 Phoenix Av, Friendship City, CT"
+                "alias":"Martha","name":"Martha Gunby","month":"05","day":"30","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Asexual","species":"Pokemon (Meowstic)","occupation":"Employee for DePonte Parks Department","residence":"1106 Phoenix Av, Friendship City, CT","height":"5'5"
                 },
             "icon":"https://files.catbox.moe/slvo71.png","fullbody":"https://files.catbox.moe/akdtli.png","link":"/universe/characters/martha.html",
             "description":"<p>Martha's a lovable weirdo with a bug terrarium in her room. She had a rough past, but she feels on top of the world now that she's scored an awesome job at the park! She's acted tough for the longest time to protect herself, and with her newfound independence from her toxic family, she finally feels like she can be wacky like she truly is. If she dropped a cheeto, she would lick it off the floor.</p>",
@@ -110,7 +110,7 @@
             },
             
             {"info":{
-                "alias":"Rocky","name":"Summer Hazel Culver","month":"01","day":"18","year":"1998","pronouns":"He/She","gender":"Female","orientation":"Bisexual","species":"Dog","occupation":"Business Owner and Guitarist for C.A.F.","residence":"431 Brichier St, Arthur City, NY"
+                "alias":"Rocky","name":"Summer Hazel Culver","month":"01","day":"18","year":"1998","pronouns":"He/She","gender":"Female","orientation":"Bisexual","species":"Dog","occupation":"Business Owner and Guitarist for C.A.F.","residence":"431 Brichier St, Arthur City, NY","height":"5'8","weight":"144 lbs"
                 },
             "icon":"https://i.postimg.cc/y8qpD7rq/rockythumb.png","fullbody":"https://files.catbox.moe/2az23o.png","link":"/universe/characters/rocky.html",
             "description":"<p>With metal music reverberating through her studio as she strums, you know she's called Rocky for a reason! He's a charismatic, sometimes pushy music store owner who knows where her passion lies and successfully centered his life around it. She's even part of a band, where he takes the limelight again as the vocalist Eclipse's obvious crush. Unfortunately, Rocky's monogamously taken!</p>",
@@ -128,7 +128,7 @@
             },
 
             {"info":{
-                "alias":"Tem","name":"Tanya Doorman","month":"09","day":"20","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Fox","occupation":"Bus Mechanic","residence":"Friendship City, CT"
+                "alias":"Tem","name":"Tanya Doorman","month":"09","day":"20","year":"2003","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Fox","occupation":"Bus Mechanic","residence":"Friendship City, CT","height":"5'6"
                 },
             "icon":"https://files.catbox.moe/8q4ipz.png","fullbody":"https://files.catbox.moe/66nlw2.png","link":"/universe/characters/tem.html",
             "description":"<p>Tem feels stagnant. She's beautiful, she's dazzling, but she's always stuck in the past. She misses her best friend Lex who she had to leave when she moved, she misses who she was before she dropped that cigarette, and she mourns everything she's ever lost. She sells herself as a pretty party girl who loves to get lost in the moment, but she's always just searching for metaphorical childhood toys she misplaced.</p>",
@@ -146,7 +146,7 @@
             },
             
             {"info":{
-                "alias":"Ryder","name":"Ryder Brook","month":"03","day":"22","year":"2000","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"News Reporter","residence":"706 Tediland St, Sotelo, VG"
+                "alias":"Ryder","name":"Ryder Brook","month":"03","day":"22","year":"2000","pronouns":"He/Him","gender":"Male","orientation":"Gay","species":"Cat","occupation":"News Reporter","residence":"706 Tediland St, Sotelo, VG","height":"5'7"
                 },
             "icon":"https://files.catbox.moe/gqii7b.png","fullbody":"https://files.catbox.moe/tvevqm.png","link":"/universe/characters/ryder.html",
             "description":"<p>Ryder's a sporty reporter who's always hyping people up! Whether it's in the newsroom or on the track, you bet you can hear him shouting words of encouragement to everyone he knows. He loves a good adrenaline rush and writing up thrilling articles, for sure, but not as much as he loves his boyfriend, Noel. They've been together through everything, and Ryder can't imagine his hectic life without him.</p>",
@@ -155,7 +155,7 @@
             },
 
             {"info":{
-                "alias":"Esther","name":"Esther Highbridge","month":"11","day":"09","year":"2000","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Cat","occupation":"Electrician","residence":"1138 L'Enfant Street, Sotelo, VG"
+                "alias":"Esther","name":"Esther Highbridge","month":"11","day":"09","year":"2000","pronouns":"She/Her","gender":"Female","orientation":"Lesbian","species":"Cat","occupation":"Electrician","residence":"1138 L'Enfant Street, Sotelo, VG","height":"6'3","weight":"317 lbs"
                 },
             "icon":"https://files.catbox.moe/94rpgy.png","fullbody":"https://files.catbox.moe/3680h1.png","link":"/universe/characters/esther.html",
             "description":"<p>Esther is an elegant cat tasked with the inelegant work of electrical maintenance at Friendship City Transit. Despite the percieved mismatch, this is where she feels most at home; making little gadgets, modding her motorcycle, soldering bus components, that's what Esther's passion is. Even entangled in delicate symphonies, she knows how to work with metal. And that's why Esther listens to Nightwish!</p>",
@@ -173,7 +173,7 @@
             },
             
             {"info":{
-                "alias":"Sage","name":"Sage Rem Wallflower","month":"04","day":"05","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ"
+                "alias":"Sage","name":"Sage Rem Wallflower","month":"04","day":"05","year":"2004","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Cat","occupation":"College Student","residence":"Highland Park, NJ","height":"5'3"
                 },
             "icon":"https://files.catbox.moe/xfww9m.png","fullbody":"https://files.catbox.moe/ojn5tr.png","link":"/universe/characters/sage.html",
             "description":"<p>Sage is a relaxed college student who just does whatever feels right and doesn't think too hard about what happens next. When he's not half-heartedly working on his STEM major, he does what he's done for his whole life: goof off and fish with his best friends! His sibling, Miki, and his friend-with-benefits, Wayne, are definitely better fishers than he is, but Sage has never cared too deeply about being the best.</p>",
@@ -191,7 +191,7 @@
             },
             
             {"info":{
-                "alias":"Autumn","name":"Autumn \"Otter\" Fletcher","month":"09","day":"07","year":"2001","pronouns":"She/Her","gender":"Female","species":"Fox","occupation":"Dry Cleaner","residence":"Arthur City, NY"
+                "alias":"Autumn","name":"Autumn \"Otter\" Fletcher","month":"09","day":"07","year":"2001","pronouns":"She/Her","gender":"Female","species":"Fox","occupation":"Dry Cleaner","residence":"Arthur City, NY","height":"6'3","weight":"175 lbs"
                 },
             "icon":"https://files.catbox.moe/c88eog.png","fullbody":"https://files.catbox.moe/i2kh95.png","link":"/universe/characters/autumn.html",
             "description":"<p>Autumn's biggest regret is \"letting that blue bitch ruin my life.\" Despite standing 6'3, she stayed in a relationship where she felt small for about 7 years, and only now can she blossom into her true adult self. She's learning that she loves mycology, loud concerts, and making kinder friends, and she hopes to learn even more as the years go by. She feels so much brighter and joyous these days.</p>",
@@ -593,7 +593,7 @@
             {"info":{
                 "alias":"Flan","name":"Flan Gravesend","month":"06","day":"25","year":"1895","pronouns":"He/Him","gender":"Male","species":"Fox","occupation":"Pirate","residence":"Succaneer Isles, France"
                 },
-            "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"/universe/characters/flan.html",
+            "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"",
             "description":"Flan is a fox. He worked as a captain for pirate ships from the Succaneer Isles. He was chronically depressed and missed his family. He died by gears grinding in April 1918.",
             "created":"2023/06",
             "groups":[]
@@ -641,7 +641,7 @@
             {"info":{
                 "alias":"Zilly","name":"Zilmara Haumea","month":"04","day":"20","year":"1899","pronouns":"She/Her","gender":"Female","species":"Alien","occupation":"Employee for Rocky's Records & Guitars","residence":"Arthur City, NY"
                 },
-            "icon":"https://files.catbox.moe/6ku8jg.png","fullbody":"https://files.catbox.moe/79utw4.png","link":"/universe/characters/zilly.html",
+            "icon":"https://files.catbox.moe/6ku8jg.png","fullbody":"https://files.catbox.moe/79utw4.png","link":"",
             "description":"Zilly is an alien from outer space. She works at Rocky's Records and Guitars.",
             "created":"2024/04/20",
             "groups":[]
@@ -650,7 +650,7 @@
             {"info":{
                 "alias":"Big Jodie","name":"Jodiah Grande","month":"01","day":"13","year":"1984","pronouns":"She/Her","gender":"Female","species":"Cyclops","occupation":"Teacher","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/rs6btx.png","fullbody":"https://files.catbox.moe/mv9p5g.png","link":"/universe/characters/bigjodie.html",
+            "icon":"https://files.catbox.moe/rs6btx.png","fullbody":"https://files.catbox.moe/mv9p5g.png","link":"",
             "description":"Big Jodie is a cyclops. Her boyfriend was River CoAlla. She is transgender. She is a public school teacher.",
             "created":"2022/07",
             "groups":["ndhs"]
@@ -1476,7 +1476,7 @@
             },
 
             {"info":{
-                "alias":"Gabriel","name":"Gabriel Amassi Kabbi","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Police Officer","residence":"Friendship City, CT"
+                "alias":"Gabriel","name":"Gabriel Amassi Kabbi","month":"08","day":"20","year":"1974","pronouns":"He/Him","gender":"Male","species":"Human","occupation":"Police Officer","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/dyi94v.png","fullbody":"https://files.catbox.moe/t0d3l5.png","link":"",
             "description":"Gabriel is a human. He was born without a collarbone. He is a weeb. He is the de facto police commissioner for the FCPD.",
@@ -2125,6 +2125,15 @@
             "description":"Mischa is a zorua. He died on May 25, 2016. He was in an alternative rock band called Interior. Freddy Shit was his mentor before he went missing in 2007.",
             "created":"2026/06/19",
             "groups":["cherry_batter","hiver_cafe","reanimated"]
+            },
+
+            {"info":{
+                "alias":"Hali","name":"Hali Granite Spike","month":"12","day":"24","year":"2007","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Trixic","species":"Pokemon (Lycanroc)","occupation":"College Student","residence":"72 Dovehill Rd, Jadebark, VG","height":"5'1","weight":"92 lbs"
+                },
+            "icon":"https://files.catbox.moe/7shd4t.png","fullbody":"https://files.catbox.moe/7baxgu.png","link":"",
+            "description":"Hali is Rain's weird neighbor.",
+            "created":"2026/07/11",
+            "groups":[]
             },
             
             {"info":{

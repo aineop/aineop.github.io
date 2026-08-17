@@ -1,14 +1,49 @@
 {"digital_art":
         [
-          {"link":"https://postimg.cc/zVVDGgyn","thumbnail":"https://i.postimg.cc/xTPXgGYF/rockruffsleepy.png",
+          {"link":"https://postimg.cc/6789p0zr","thumbnail":"https://i.postimg.cc/tg57DvxM/auburn-secretary.png",
+            "artist":"CoJu","month":"08","day":"16","year":"2026",
+            "title":"Auburn",
+            "caption":"Your coffee is overflowing.",
+            "description":"",
+            "tags":["secretary","animal_hospital","fanart"]},
+
+          {"link":"https://postimg.cc/Lgt4M8Dv","thumbnail":"https://i.postimg.cc/5yGXLHCc/blairrain.png",
+            "artist":"CoJu","month":"08","day":"16","year":"2026",
+            "title":"Blairrain",
+            "caption":"Two sides of the same coin.",
+            "description":"",
+            "tags":["rain","blair","cojuverse"]},
+
+          {"link":"https://postimg.cc/fkDRxxb3","thumbnail":"https://i.postimg.cc/Kcg3hfS5/sugar22.png",
+            "artist":"CoMo","month":"08","day":"16","year":"2026",
+            "title":"Not That Special",
+            "caption":"I dunno about you, but I'm feeling 22!",
+            "description":"",
+            "tags":["sugar","sribbles"]},
+
+          {"link":"https://postimg.cc/vgdyBFPS","thumbnail":"https://i.postimg.cc/QtFdfjcs/tidewave.png",
+            "artist":"CoMo","month":"08","day":"15","year":"2026",
+            "title":"Tidal Waves",
+            "caption":"Tide says hiya!",
+            "description":"",
+            "tags":["tide","sribbles"]},
+
+          {"link":"https://postimg.cc/KkybzS9H","thumbnail":"https://i.postimg.cc/fLVR8MYD/marthapineapple.png",
             "artist":"CoMo","month":"08","day":"14","year":"2026",
+            "title":"Under A Tree",
+            "caption":"Martha and her pineapple plush.",
+            "description":"",
+            "tags":["martha","sribbles"]},
+
+          {"link":"https://postimg.cc/zVVDGgyn","thumbnail":"https://i.postimg.cc/xTPXgGYF/rockruffsleepy.png",
+            "artist":"CoMo","month":"08","day":"13","year":"2026",
             "title":"A Real Animal Can Do This",
             "caption":"zzz",
             "description":"",
             "tags":["rockruff","pokemon","fanart"]},
 
           {"link":"https://postimg.cc/dLLQVyh2","thumbnail":"https://i.postimg.cc/jdhDv6KF/nolanstand.png",
-            "artist":"CoMo","month":"08","day":"14","year":"2026",
+            "artist":"CoMo","month":"08","day":"13","year":"2026",
             "title":"29 Years Of South Park",
             "caption":"Listening to orders.",
             "description":"",
@@ -3199,6 +3234,13 @@
             "description":"",
             "tags":["esther","sribbles"]},
 
+            {"link":"https://files.catbox.moe/i9kps5.png","thumbnail":"https://files.catbox.moe/i9kps5.png",
+            "artist":"CoMo","month":"11","day":"09","year":"2025",
+            "title":"Flustered",
+            "caption":"",
+            "description":"",
+            "tags":["tide","sribbles"]},
+
             {"link":"https://postimg.cc/HVZWM0CX","thumbnail":"https://i.postimg.cc/9QVDv188/p251108_1.png",
             "artist":"CoMo","month":"11","day":"08","year":"2025",
             "title":"Hug",
@@ -3352,11 +3394,25 @@
             "caption":"The bullies punched him in the face after finding out that he has two moms.",
             "description":"",
             "tags":["comet","sribbles"]},
+
+            {"link":"https://files.catbox.moe/pmev9c.png","thumbnail":"https://files.catbox.moe/pmev9c.png",
+            "artist":"CoMo","month":"10","day":"02","year":"2025",
+            "title":"I Guess",
+            "caption":"",
+            "description":"",
+            "tags":["tide","sribbles"]},
+
+            {"link":"https://files.catbox.moe/3qe4a2.png","thumbnail":"https://files.catbox.moe/3qe4a2.png",
+            "artist":"CoMo","month":"10","day":"02","year":"2025",
+            "title":"You Wanna See My",
+            "caption":"",
+            "description":"",
+            "tags":["tide","sribbles"]},
             
             {"link":"https://postimg.cc/gXryvLyd","thumbnail":"https://i.postimg.cc/DZPC3q8W/cometdoo.png",
             "artist":"CoMo","month":"10","day":"01","year":"2025",
             "title":"Hey Man What's Up!",
-            "caption":"Comet is amazed at, in addition to the mysteries of the universe... you!",
+            "caption":"Hey man, what's up!",
             "description":"",
             "tags":["comet","sribbles"]},
             
@@ -3571,7 +3627,7 @@
             "tags":["sugar","sribbles"]},
             
             {"link":"https://aincretop.tumblr.com/post/792063632076849152","thumbnail":"https://64.media.tumblr.com/5e0ee45db35e645677d9ddba96a67091/6c67b3239e37603e-82/s1280x1920/7709ccd8ae335ef375901012b6083678cbe64c2a.png",
-            "artist":"CoJu","month":"08","day":"16","year":"2025",
+            "artist":"CoJu","month":"08","day":"15","year":"2025",
             "title":"Rain's Electric Guitar",
             "caption":"Rain celebrating its first electric guitar. It's an Epiphone Power Player SG, if anyone was wondering.",
             "description":"",
@@ -11371,6 +11427,13 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/ZBd50xF7","thumbnail":"https://i.postimg.cc/B6hLYh80/tide.png",
+            "artist":"CoJu","month":"08","day":"15","year":"2026",
+            "title":"Tide's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["tide","sribbles"]},
+
           {"link":"https://postimg.cc/5jJ7zhBg","thumbnail":"https://i.postimg.cc/jqwGpKCp/haliref.png",
             "artist":"CoJu","month":"08","day":"08","year":"2026",
             "title":"Hali's Reference",

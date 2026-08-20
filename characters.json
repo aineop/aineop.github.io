@@ -221,14 +221,6 @@
         
     "secondary":
         [
-            {"info":{
-                "alias":"Nisha","name":"Nisha Mukherjee","month":"09","day":"30","year":"2004","pronouns":"They/Them","gender":"Nonbinary","orientation":"Bisexual Lesbian","species":"Pokemon (Shaymin)","occupation":"College Student","residence":"Bellthorne, CT"
-                },
-            "icon":"https://files.catbox.moe/ubmc29.png","fullbody":"https://i.postimg.cc/VN6nygcq/fb-nisha.png","link":"/universe/characters/nisha.html",
-            "description":"Nisha is a Shaymin. They care deeply about what other people think of them. They go to Friendship University.",
-            "created":"2022/09/05",
-            "groups":["ndhs","fu","mukherjee"]
-            },
 
             {"info":{
                 "alias":"York","name":"Marina York","month":"01","day":"01","year":"2004","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","occupation":"Shrimp Farmer and Electronics Repairer","residence":"1105 Glenbourne Av, Tristantown, CT"
@@ -237,6 +229,15 @@
             "description":"York is a glaceon. She likes to hang out in pools.",
             "created":"2019/06",
             "groups":["ndhs"]
+            },
+
+            {"info":{
+                "alias":"Nisha","name":"Nisha Mukherjee","month":"09","day":"30","year":"2004","pronouns":"They/Them","gender":"Nonbinary","orientation":"Bisexual Lesbian","species":"Pokemon (Shaymin)","occupation":"College Student","residence":"Bellthorne, CT"
+                },
+            "icon":"https://files.catbox.moe/ubmc29.png","fullbody":"https://i.postimg.cc/VN6nygcq/fb-nisha.png","link":"/universe/characters/nisha.html",
+            "description":"Nisha is a Shaymin. They care deeply about what other people think of them. They go to Friendship University.",
+            "created":"2022/09/05",
+            "groups":["ndhs","fu","mukherjee"]
             },
 
             {"info":{
@@ -596,7 +597,7 @@
             "icon":"https://files.catbox.moe/ji241a.png","fullbody":"https://files.catbox.moe/z0bvt3.png","link":"",
             "description":"Flan is a fox. He worked as a captain for pirate ships from the Succaneer Isles. He was chronically depressed and missed his family. He died by gears grinding in April 1918.",
             "created":"2023/06",
-            "groups":[]
+            "groups":["deceased"]
             },
 
             {"info":{
@@ -605,7 +606,7 @@
             "icon":"https://files.catbox.moe/tizmyy.png","fullbody":"https://files.catbox.moe/1aq9y5.png","link":"/universe/characters/rivers.html",
             "description":"Rivers was a pink dog. He was not just man's best friend, but Cypress' best friend. Unfortunately, they killed him in September 2020.",
             "created":"2023/11/23",
-            "groups":["radia"]
+            "groups":["radia","deceased"]
             }
         ],
 
@@ -662,7 +663,7 @@
             "icon":"https://files.catbox.moe/4kwop6.png","fullbody":"https://files.catbox.moe/jdyl2p.png","link":"",
             "description":"River was a cinderace. He had a thing for Japanese girls, if you know what I mean. But he liked his girlfriend Big Jodie more. He was a stand-up comedian and jewlry store worker. He was killed in January 2020.",
             "created":"2022/07",
-            "groups":[]
+            "groups":["deceased"]
             },
             
             {"info":{
@@ -672,6 +673,15 @@
             "description":"Ray is a cat. He has suicidal and self-destructive tendencies. He likes the song Razor by Foo Fighters. He is friends with Steel and someone else. He is a software developer and is possibly affiliated with Verr University.",
             "created":"2022/10/16",
             "groups":["thornkill","seedwick"]
+            },
+
+            {"info":{
+                "alias":"Lenore","name":"Lenore Winona Thornkill","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Cat","residence":"Seedwick, CT"
+                },
+            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "description":"<p>Lenore was a cat. She was Ray's wife until something happened.</p>",
+            "created":"2025/08/26",
+            "groups":["thornkill","seedwick","deceased"]
             },
 
             {"info":{
@@ -738,7 +748,7 @@
             },
             
             {"info":{
-                "alias":"Crys","name":"Crystal Sunstone","month":"09","day":"27","year":"","pronouns":"She/They","gender":"Female","species":"Cat-bug","residence":"VG"
+                "alias":"Crys","name":"Crystal Sunstone","month":"09","day":"27","year":"","pronouns":"She/They","gender":"Female","species":"Cat-bug","residence":"Deermont, VG"
                 },
             "icon":"https://files.catbox.moe/9sfcqv.png","fullbody":"https://files.catbox.moe/op4nph.png","link":"/universe/characters/crystal.html",
             "description":"Crys is half of a cat and half of an unknown type of bug. She is transgender.",
@@ -812,7 +822,7 @@
             {"info":{
                 "alias":"Tymmi","name":"Tymmi","month":"11","day":"30","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Eevee)","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/bhdtvv.png","fullbody":"https://files.catbox.moe/4czbku.png","link":"",
+            "icon":"https://files.catbox.moe/lo2i6o.png","fullbody":"https://files.catbox.moe/v9yx13.png","link":"",
             "description":"Tymmi is a shiny eevee. She had a sibling who died from an infection. They escaped from somewhere via sewer pipes. She is still in shock.",
             "created":"2022/08",
             "groups":["pastors","radia"]
@@ -1136,16 +1146,16 @@
             {"info":{
                 "alias":"Jo","name":"Joshua Kenny","month":"02","day":"02","year":"2003","pronouns":"He/Him","gender":"Male","species":"Pokemon (Vaporeon)","occupation":"College Student","residence":"Friendship City, CT"
                 },
-            "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269329?1659122801","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/zfi1z9.png","fullbody":"https://files.catbox.moe/jcs4st.png","link":"",
             "description":"Jo is a vaporeon. He has horns. He is a chill and nice guy. He reads books and plays on his Switch. He is Liam's brother.",
             "created":"2019/06",
             "groups":["ndhs","kennivari"]
             },
             
             {"info":{
-                "alias":"T","name":"Timothy Vari","month":"04","day":"14","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Jolteon)","residence":"Friendship City, CT"
+                "alias":"Tim","name":"Timothy Vari","month":"04","day":"14","year":"2004","pronouns":"He/Him","gender":"Male","species":"Pokemon (Jolteon)","residence":"Friendship City, CT"
                 },
-            "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269364?1659122901","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/lbeyde.png","fullbody":"https://files.catbox.moe/km4oxw.png","link":"",
             "description":"Timothy, or The Big T, or T, is a Jolteon. He is Liam's brother-in-law.",
             "created":"2019/06",
             "groups":["ndhs","kennivari"]
@@ -1154,7 +1164,7 @@
             {"info":{
                 "alias":"Tony","name":"Anthony","month":"07","day":"06","year":"2000","pronouns":"He/Him","gender":"Male","species":"Pokemon (Flareon)","residence":"Friendship City, CT"
                 },
-            "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269263?1659122544","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/xcvaws.png","fullbody":"https://files.catbox.moe/9ts78z.png","link":"",
             "description":"Anthony (also known as Tony or Cool Flareon) is a very cool Flareon. He is often found at festivals and fairs, displaying himself as a Cool Flareon. He is Liam's cousin. He is big.",
             "created":"2019/06",
             "groups":["ndhs","kennivari"]
@@ -1163,7 +1173,7 @@
             {"info":{
                 "alias":"Diamond","name":"Diamond G.","month":"02","day":"25","year":"1981","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"https://f2.toyhou.se/file/f2-toyhou-se/images/52747902_WGOBO4fKfHoaxgr.jpg","link":"",
+            "icon":"https://files.catbox.moe/rdnfn2.png","fullbody":"https://files.catbox.moe/uc8kdl.png","link":"",
             "description":"Diamond is a glaceon. She is Liam and his siblings' mother.",
             "created":"2019/06",
             "groups":["kennivari"]
@@ -1190,7 +1200,7 @@
             {"info":{
                 "alias":"Michelle","name":"Michelle Kenny","month":"11","day":"05","year":"2002","pronouns":"She/Her","gender":"Female","species":"Pokemon (Espeon)","residence":"Friendship City, CT"
                 },
-            "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269407?1659123089","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/ss4fqq.png","fullbody":"https://files.catbox.moe/0iucwb.png","link":"",
             "description":"Michelle is an espeon. She is Liam's sister.",
             "created":"2019/06",
             "groups":["ndhs","kennivari"]
@@ -1199,7 +1209,7 @@
             {"info":{
                 "alias":"Noelle","name":"Noelle Kenny","month":"12","day":"02","year":"2001","pronouns":"She/Her","gender":"Female","species":"Pokemon (Sylveon)","residence":"Friendship City, CT"
                 },
-            "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269430?1659123187","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/2svbw1.png","fullbody":"https://files.catbox.moe/40l00p.png","link":"",
             "description":"Noelle is a sylveon. She is Liam's sister. She has no bows or ribbons.",
             "created":"2022/07",
             "groups":["ndhs","kennivari"]
@@ -1208,7 +1218,7 @@
             {"info":{
                 "alias":"Pearl","name":"Rebecca Pearl Vari","month":"03","day":"31","year":"2003","pronouns":"She/Her","gender":"Female","species":"Pokemon (Sylveon)","residence":"Friendship City, CT"
                 },
-            "icon":"https://f2.toyhou.se/file/f2-toyhou-se/characters/17269448?1659123267","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/z2qzpx.png","fullbody":"https://files.catbox.moe/clrml0.png","link":"",
             "description":"Pearl is a sylveon. She is Liam's stepsister. She is insecure about her ribbon length.",
             "created":"2019/06",
             "groups":["ndhs","kennivari"]
@@ -1217,16 +1227,16 @@
             {"info":{
                 "alias":"LK","name":"Liam Kenny","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Deer","occupation":"Lawyer","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"https://files.catbox.moe/bjdj2s.png","link":"",
+            "icon":"https://files.catbox.moe/d2zpfg.png","fullbody":"https://files.catbox.moe/b9ejz0.png","link":"",
             "description":"LK is a deer. He is Diamond's ex-husband.",
             "created":"2023/10",
             "groups":["kennivari"]
             },
             
             {"info":{
-                "alias":"Vari","name":"Vari","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Loomian (Vari)","residence":"Friendship City, CT"
+                "alias":"Ernest","name":"Ernest Vari","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Loomian (Vari)","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/ju52z9.png","fullbody":"https://files.catbox.moe/qhhf12.png","link":"",
             "description":"Vari is a vari. He is Diamond's current husband.",
             "created":"2023/10",
             "groups":["kennivari"]
@@ -1235,25 +1245,25 @@
             {"info":{
                 "alias":"RD","name":"RD","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Rabbit-dog","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/os94ge.png","fullbody":"https://files.catbox.moe/2vjaxt.png","link":"",
             "description":"RD is a rabbit dog. He is Diamond's ex-husband.",
             "created":"2025/01/31",
             "groups":["kennivari"]
             },
             
             {"info":{
-                "alias":"Les","name":"Lesvester G.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Leafeon)","residence":"Friendship City, CT"
+                "alias":"Lesvester","name":"Lesvester G.","month":"","day":"","year":"","pronouns":"He/Him","gender":"Male","species":"Pokemon (Espeon)","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Les was a leafeon. He was Diamond's father.",
+            "icon":"https://files.catbox.moe/ehfdq0.png","fullbody":"https://files.catbox.moe/fh80z0.png","link":"",
+            "description":"Les was an espeon. He was Diamond's father.",
             "created":"2025/01/31",
-            "groups":["kennivari"]
+            "groups":["kennivari","deceased"]
             },
             
             {"info":{
                 "alias":"Roberta","name":"Roberta G.","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Rabbit","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/g9upaj.png","fullbody":"https://files.catbox.moe/e7hccn.png","link":"",
             "description":"Roberta is a rabbit. She is Diamond's mother.",
             "created":"2025/01/31",
             "groups":["kennivari"]
@@ -1262,7 +1272,7 @@
             {"info":{
                 "alias":"Emerald","name":"Emerald G.","month":"","day":"","year":"","pronouns":"She/Her","gender":"Female","species":"Pokemon (Glaceon)","residence":"Friendship City, CT"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/q7c2ax.png","fullbody":"https://files.catbox.moe/g32hv0.png","link":"",
             "description":"Emerald is a glaceon. She is Diamond's sister.",
             "created":"2025/01/31",
             "groups":["kennivari"]
@@ -1557,10 +1567,10 @@
             },
             
             {"info":{
-                "alias":"Tide","name":"Tide Blueberry","month":"","day":"","year":"2005","pronouns":"He/Him","gender":"Male","species":"Cat"
+                "alias":"Tide","name":"Tide Blueberry","month":"10","day":"19","year":"2005","pronouns":"He/She","gender":"Female","species":"Cat","residence":"Arthur City, NY"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
-            "description":"Tide is a blue soft drink themed cat. He is friends with Pea and Amulet.",
+            "icon":"https://files.catbox.moe/w83udu.png","fullbody":"https://files.catbox.moe/ikqdve.png","link":"",
+            "description":"Tide is a blue soft drink themed cat. He is friends with Pea and Amulet. What?",
             "created":"2025/10/19",
             "groups":[]
             },
@@ -2124,15 +2134,33 @@
             "icon":"https://files.catbox.moe/igd3lr.png","fullbody":"https://files.catbox.moe/xqgkxw.png","link":"",
             "description":"Mischa is a zorua. He died on May 25, 2016. He was in an alternative rock band called Interior. Freddy Shit was his mentor before he went missing in 2007.",
             "created":"2026/06/19",
-            "groups":["cherry_batter","hiver_cafe","reanimated"]
+            "groups":["cherry_batter","hiver_cafe","reanimated","deceased"]
             },
 
             {"info":{
                 "alias":"Hali","name":"Hali Granite Spike","month":"12","day":"24","year":"2007","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Trixic","species":"Pokemon (Lycanroc)","occupation":"College Student","residence":"72 Dovehill Rd, Jadebark, VG","height":"5'1","weight":"92 lbs"
                 },
             "icon":"https://files.catbox.moe/7shd4t.png","fullbody":"https://files.catbox.moe/7baxgu.png","link":"",
-            "description":"Hali is Rain's weird neighbor.",
+            "description":"<p>Hali's a fresh-eyed high school graduate who just moved into Jadebark and is ready to take on the world! Xer apartment isn't in the nicest part of town, but it's within biking distance to its new university and the neighbors are only a little bit hostile, so it's good enough for xem.</p>",
             "created":"2026/07/11",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"Liyana","name":"Liyana Grace Park","month":"09","day":"08","year":"","pronouns":"She/It","gender":"Female","species":"Cryptid","occupation":"The Beast","residence":"Friendship City, CT","height":"5'10"
+                },
+            "icon":"https://files.catbox.moe/9hivcx.png","fullbody":"https://files.catbox.moe/y96r4g.png","link":"",
+            "description":"<p>Liyana, more commonly known in the region as 'The Dove', 'The Beast', or 'The Wolf', is a cryptid that exists among the forests of Connecticut, in particular in and around Friendship City in Doubax Forest. She has been around for seemingly as long as humans settled in the land known in the modern day as Connecticut.</p>",
+            "created":"2026/07/28",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"Cinnamon","name":"Cinnamon","month":"10","day":"26","year":"2006","pronouns":"She/They","gender":"Nonbinary","orientation":"Pansexual","species":"Fox","occupation":"Bitch Ass Dog"
+                },
+            "icon":"https://files.catbox.moe/uv8d02.png","fullbody":"https://files.catbox.moe/4083ed.png","link":"",
+            "description":"<p>Cinnamon is a fox who acts like a dog. She threatens people's pets and is also very extroverted. Her favorite song is Juice by Lizzo.</p>",
+            "created":"2020/10/26",
             "groups":[]
             },
             

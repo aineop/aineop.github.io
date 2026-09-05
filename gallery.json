@@ -1,5 +1,54 @@
 {"digital_art":
         [
+          {"link":"https://postimg.cc/LYRvVcy1","thumbnail":"https://i.postimg.cc/QtKPjs10/ryderreporterr.png",
+            "artist":"CoMo_&_CoJu","month":"09","day":"04","year":"2026",
+            "title":"Aspiring Reporter",
+            "caption":"Little Ryder has big dreams!",
+            "description":"",
+            "tags":["ryder","sribbles"]},
+
+          {"link":"https://postimg.cc/DJF5c9C4","thumbnail":"https://i.postimg.cc/3R0637m1/liyanah.png",
+            "artist":"CoMo","month":"09","day":"04","year":"2026",
+            "title":"Liyana",
+            "caption":"Keep on making it worse, we knew this would hurt, wonder what it's all worth.",
+            "description":"",
+            "tags":["liyana","cojuverse"]},
+
+          {"link":"https://postimg.cc/cvZ0yH5k","thumbnail":"https://i.postimg.cc/pL5Tj5Qv/liamhard.png",
+            "artist":"CoMo","month":"09","day":"04","year":"2026",
+            "title":"About To Burst",
+            "caption":"Is anyone looking?",
+            "description":"",
+            "tags":["liam","sribbles"]},
+
+          {"link":"https://postimg.cc/sMcyVrtm","thumbnail":"https://i.postimg.cc/jjVj4qcp/oakwoodpawsup.png",
+            "artist":"CoMo","month":"09","day":"04","year":"2026",
+            "title":"Peace And Love",
+            "caption":"That's all I'm thinkin of, baby, peace and love!",
+            "description":"",
+            "tags":["oakwood","sribbles"]},
+
+          {"link":"https://postimg.cc/gXhtqDcS","thumbnail":"https://i.postimg.cc/50KcJ7hV/joeyalternativ.png",
+            "artist":"CoMo","month":"09","day":"03","year":"2026",
+            "title":"Alternativ",
+            "caption":"COOL",
+            "description":"",
+            "tags":["joey","sribbles"]},
+
+          {"link":"https://postimg.cc/Q97YkbNY","thumbnail":"https://i.postimg.cc/NMChtJ3t/trentontrenty.png",
+            "artist":"CoMo","month":"09","day":"02","year":"2026",
+            "title":"Trenty",
+            "caption":"Get ready for rush hour!",
+            "description":"",
+            "tags":["trenton","transit","sribbles"]},
+
+          {"link":"https://postimg.cc/xkDLK5w6","thumbnail":"https://i.postimg.cc/pdykM1qM/sprinkles40.png",
+            "artist":"CoMo","month":"09","day":"02","year":"2026",
+            "title":"40 Years Young",
+            "caption":"Peace and love at the cafe, y'all!",
+            "description":"",
+            "tags":["sprinkles","sribbles"]},
+
           {"link":"https://postimg.cc/VrF9c3SS","thumbnail":"https://i.postimg.cc/zBsxTN8k/glaceoncup.png",
             "artist":"CoMo","month":"09","day":"01","year":"2026",
             "title":"Fat Glaceon",
@@ -3615,7 +3664,7 @@
             {"link":"https://postimg.cc/mtHHQ76w","thumbnail":"https://i.postimg.cc/MKsmJD7h/trentonsky.png",
             "artist":"CoMo","month":"10","day":"17","year":"2025",
             "title":"Trentonsky",
-            "caption":"The inhabitants of Earth are blessed from above by Trenton Trentonsky, who is sitting up in the sky!",
+            "caption":"The inhabitants of Earth are blessed from above!",
             "description":"",
             "tags":["trenton","transit","sribbles"]},
             
@@ -8009,7 +8058,7 @@
             "tags":["june","cojuverse"]},
 
             {"link":"https://postimg.cc/bD7mPyx2","thumbnail":"https://i.postimg.cc/6q3gdTTz/ralseifrom1shot.png",
-            "artist":"CoJu","month":"02","day":"04","year":"2023",
+            "artist":"ralseifrom1shot","month":"02","day":"04","year":"2023",
             "title":"Ralsei",
             "caption":"Ralsei is from Deltarune.",
             "description":"",
@@ -8048,7 +8097,7 @@
             "title":"June2022Remastered",
             "caption":"Who are these?",
             "description":"",
-            "tags":["victini","meowstic","fanart","pokemon"]},
+            "tags":["victini","meowstic","fanart","pokemon","lit","ball","sribbles"]},
 
            {"link":"https://64.media.tumblr.com/f58792d954230fabec282254a0540a5d/614bbab50aba5b53-60/s2048x3072/71f568332ec0cb8f8eb95768c9ba79e0a8d84fd2.png","thumbnail":"https://64.media.tumblr.com/f58792d954230fabec282254a0540a5d/614bbab50aba5b53-60/s1280x1920/c24ad80d3c789d486fbe57c8ce12d6bbc4b2a095.png",
             "artist":"CoJu","month":"01","day":"16","year":"2023",
@@ -11812,6 +11861,20 @@
         ],
 "references":
         [
+          {"link":"https://postimg.cc/PC4htjB4","thumbnail":"https://i.postimg.cc/nL8LGV26/trentonref.png",
+            "artist":"CoMo","month":"09","day":"04","year":"2026",
+            "title":"Trenton's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["trenton","transit","sribbles"]},
+
+          {"link":"https://postimg.cc/Z9t6rHGM","thumbnail":"https://i.postimg.cc/PqNKnF2T/findertest.png",
+            "artist":"CoMo","month":"09","day":"02","year":"2026",
+            "title":"Finder's Reference",
+            "caption":"",
+            "description":"",
+            "tags":["finder","sribbles"]},
+
           {"link":"https://postimg.cc/ZBd50xF7","thumbnail":"https://i.postimg.cc/B6hLYh80/tide.png",
             "artist":"CoJu","month":"08","day":"15","year":"2026",
             "title":"Tide's Reference",
@@ -12344,17 +12407,10 @@
             "description":"",
             "tags":["amber","cojuverse"]},
             
-            {"link":"https://postimg.cc/CdxzxXcb","thumbnail":"https://i.postimg.cc/FFjcDQcC/ryder1.png",
-            "artist":"CoMo","month":"09","day":"22","year":"2024",
-            "title":"Ryder's Reference (2)",
-            "caption":"Extended version of the first reference. The rear angle was added very hastily in July 2025.",
-            "description":"",
-            "tags":["ryder","sribbles"]},
-            
             {"link":"https://postimg.cc/p94dgGbt","thumbnail":"https://i.postimg.cc/wvTsRZw3/ryder0.png",
             "artist":"CoMo","month":"09","day":"22","year":"2024",
-            "title":"Ryder's Reference (1)",
-            "caption":"",
+            "title":"Ryder's Reference",
+            "caption":"The extended version, amended in July 2025, can be found <a href='https://postimg.cc/CdxzxXcb'>here.</a>",
             "description":"",
             "tags":["ryder","sribbles"]},
             
@@ -12500,7 +12556,7 @@
             
             {"link":"https://64.media.tumblr.com/bdb8c4a67762e531089152e6cfdcfd6c/40f96c80fce0a96d-86/s1280x1920/2827ef7a72340347d698475c1016c4169dbbf453.png","thumbnail":"https://64.media.tumblr.com/bdb8c4a67762e531089152e6cfdcfd6c/40f96c80fce0a96d-86/s1280x1920/2827ef7a72340347d698475c1016c4169dbbf453.png",
             "artist":"CoJu","month":"03","day":"10","year":"2024",
-            "title":"Michael Jackson's Reference",
+            "title":"Mika Juniper's Reference",
             "caption":"",
             "description":"",
             "tags":["mj","cojuverse"]},

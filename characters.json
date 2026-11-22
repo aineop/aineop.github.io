@@ -274,7 +274,7 @@
             {"info":{
                 "alias":"Trenton","name":"NJT Arrow III 1445","month":"10","day":"09","year":"1977","pronouns":"She/It","gender":"Nonbinary","species":"Cat EMU","height":"5'11"
                 },
-            "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"/universe/characters/trenton.html",
+            "icon":"https://files.catbox.moe/typ2ee.png","fullbody":"https://files.catbox.moe/w4eshy.png","link":"",
             "description":"<p>Trenton is a Jersey Arrow Cat. She is old and tired.</p>",
             "created":"2025/10/09",
             "groups":["mose_lab"]
@@ -494,7 +494,7 @@
             {"info":{
                 "alias":"Raby","name":"Raby Chiz","month":"08","day":"20","year":"1994","pronouns":"She/Her","gender":"Female","species":"Cyborg","occupation":"Robot Engineer and Bus Mechanic","residence":"2233 Ouwania Avenue, Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/0e3ujs.png","fullbody":"https://files.catbox.moe/0e3ujs.png","link":"/universe/characters/raby.html",
+            "icon":"https://files.catbox.moe/fek2qw.png","fullbody":"https://files.catbox.moe/a0p6or.png","link":"/universe/characters/raby.html",
             "description":"Raby is a block creature. She used to be a human named Rosalind. She is an engineer for the Futurists and a bus mechanic for Friendship City Transit.",
             "created":"2022/08",
             "groups":["futurists","reanimated"]
@@ -503,14 +503,14 @@
             {"info":{
                 "alias":"Mose","name":"Tigna Waterson Mose","month":"11","day":"11","year":"","pronouns":"He/Him","gender":"Male","species":"Alien","occupation":"Professor at Friendship University and Director of Mose's Lab","residence":"Friendship City, CT"
                 },
-            "icon":"https://files.catbox.moe/b127a0.png","fullbody":"https://files.catbox.moe/r6im2l.png","link":"/universe/characters/mose.html",
+            "icon":"https://files.catbox.moe/b127a0.png","fullbody":"https://files.catbox.moe/r6im2l.png","link":"",
             "description":"Mose is an alien from outer space. He currently serves as the director of a lab for Friendship University.",
             "created":"2022/10",
             "groups":["mose_lab","fu"]
             },
 
             {"info":{
-                "alias":"Amulet","name":"Amulet Viscera","month":"10","day":"19","year":"1919","pronouns":"Any","gender":"Nonbinary","species":"Cat","occupation":"Mortician","residence":"Friendship City, CT"
+                "alias":"Amulet","name":"Amulet Viscera","month":"10","day":"19","year":"1988","pronouns":"Any","gender":"Nonbinary","species":"Cat","occupation":"Mortician","residence":"Friendship City, CT"
                 },
             "icon":"https://files.catbox.moe/s08idx.png","fullbody":"https://files.catbox.moe/xndzrh.png","link":"/universe/characters/amulet.html",
             "description":"Amulet is a cat. Because of her physical condition, she is constantly in pain.",
@@ -525,6 +525,15 @@
             "description":"Tymmi is a shiny eevee. She had a sibling who died from an infection. They escaped from somewhere via sewer pipes. She is still in shock.",
             "created":"2022/08",
             "groups":["pastors","radia"]
+            },
+
+            {"info":{
+                "alias":"Lillith","name":"Lillith","month":"11","day":"19","year":"","pronouns":"She/Her","gender":"Female","species":"Rabbit","occupation":"Vocalist, Guitarist and Illicit vehicles dealer","residence":"Radia, CT"
+                },
+            "icon":"https://files.catbox.moe/6vswnf.png","fullbody":"https://files.catbox.moe/g2x221.png","link":"/universe/characters/lillith.html",
+            "description":"<p>Ball is a quiet, nerdy Meowstic who loves everything about trains. He's taken hundreds of pictures of them, and considers himself something of a train connoisseur. He's pretty shy and reserved outwardly, but once you eventually get to know him, he's just an easy-going guy who's endlessly devoted to his interests. He is part of the class of 2027 at Verr University.</p>",
+            "created":"2023/11/19",
+            "groups":["radia"]
             },
 
             {"info":{
@@ -785,7 +794,7 @@
             {"info":{
                 "alias":"Crys","name":"Crystal Sunstone","month":"09","day":"27","year":"","pronouns":"She/They","gender":"Female","species":"Cat-bug","residence":"Deermont, VG"
                 },
-            "icon":"https://files.catbox.moe/9sfcqv.png","fullbody":"https://files.catbox.moe/op4nph.png","link":"/universe/characters/crystal.html",
+            "icon":"https://files.catbox.moe/9sfcqv.png","fullbody":"https://files.catbox.moe/op4nph.png","link":"",
             "description":"Crys is half of a cat and half of an unknown type of bug. She is transgender.",
             "created":"2024/09/27",
             "groups":[]
@@ -1208,7 +1217,7 @@
             {"info":{
                 "alias":"Leon","name":"Leon Kennivari","month":"01","day":"31","year":"2007","pronouns":"He/They","gender":"Male","species":"Pokemon (Umbreon)","occupation":"College Student","residence":"Transonia, Friendship City, CT","height":"5'4","weight":"120 lbs"
                 },
-            "icon":"https://files.catbox.moe/kp8mmd.png","fullbody":"https://files.catbox.moe/7idw29.png","link":"",
+            "icon":"https://files.catbox.moe/kp8mmd.png","fullbody":"https://files.catbox.moe/7idw29.png","link":"/universe/characters/leon.html",
             "description":"Leon is an umbreon. He is Liam's little brother.",
             "created":"2019/06",
             "groups":["ndhs","kennivari","amwulshiner_university"]
@@ -1397,7 +1406,7 @@
             {"info":{
                 "alias":"Dizzy","name":"Elizabeth Albalury","month":"08","day":"08","year":"","pronouns":"She/Her","gender":"Female","species":"Fox","residence":"Arthur City, NY"
                 },
-            "icon":"/images/PLACEHOLDER.png","fullbody":"/images/PLACEHOLDER.png","link":"",
+            "icon":"https://files.catbox.moe/eo3oht.png","fullbody":"https://files.catbox.moe/4hssii.png","link":"",
             "description":"Dizzy is a fox. She is Nolan's mother. [Her name was changed in late October 2025]",
             "created":"2024/08/08",
             "groups":["albalury"]
@@ -1977,7 +1986,7 @@
             {"info":{
                 "alias":"Lexi","name":"Lexi Fairgrove","month":"03","day":"14","year":"1999","pronouns":"She/Her","gender":"Female","orientation":"Asexual Lesbian","species":"Pokemon (Jolteon)","occupation":"Vocalist/Keyboardist for Offensive Content and Mechanic and Roller Skating Instructor","residence":"VG","height":"5'4","weight":"135 lbs"
                 },
-            "icon":"https://files.catbox.moe/tyt295.png","fullbody":"https://i.postimg.cc/Y0DvWQN9/lexi.png","link":"https://aineop.neocities.org/characters/#LEXI",
+            "icon":"https://files.catbox.moe/tyt295.png","fullbody":"https://i.postimg.cc/Y0DvWQN9/lexi.png","link":"/universe/characters/lexi.html",
             "description":"Lexi is a jolteon. She is an asexual lesbiano. She is very nice and cheerful!",
             "created":"2020/03/14",
             "groups":["the_highschoolers","offensive_content","amwulshiner_university"]
@@ -2040,7 +2049,7 @@
             {"info":{
                 "alias":"Amber","name":"Amber Rahway","month":"08","day":"09","year":"1974","pronouns":"She/They","gender":"Female","orientation":"Biromantic Asexual","species":"Pokemon (Meowstic)","occupation":"Carpenter and Luthier","residence":"Friendship City, CT","height":"6'0","weight":"159 lbs"
                 },
-            "icon":"https://files.catbox.moe/80wc90.png","fullbody":"https://files.catbox.moe/00yp2b.png","link":"https://aineop.neocities.org/characters/#AMBER",
+            "icon":"https://files.catbox.moe/80wc90.png","fullbody":"https://files.catbox.moe/00yp2b.png","link":"/universe/characters/amber.html",
             "description":"Amber is a Meowstic! They are dating Riley. Carves absurd things out of wood - one time, she made a whole mini-living room. One of Comet's mothers.",
             "created":"2020/07/29",
             "groups":["rahway"]
@@ -2121,7 +2130,7 @@
             {"info":{
                 "alias":"Mischa","name":"Mischa LeBlanc","month":"07","day":"10","year":"1968","pronouns":"He/Him","gender":"Male","orientation":"Bisexual","species":"Pokemon (Zorua)","occupation":"Hiver Cafe Owner","residence":"VG","height":"5'5"
                 },
-            "icon":"https://files.catbox.moe/igd3lr.png","fullbody":"https://files.catbox.moe/xqgkxw.png","link":"",
+            "icon":"https://files.catbox.moe/igd3lr.png","fullbody":"https://files.catbox.moe/xqgkxw.png","link":"https://aineop.neocities.org/characters/#MISCHA",
             "description":"Mischa is a zorua. He died on May 25, 2016. He was in an alternative rock band called Interior. Freddy Shit was his mentor before he went missing in 2007.",
             "created":"2026/06/19",
             "groups":["cherry_batter","hiver_cafe","reanimated","deceased"]
@@ -2130,9 +2139,18 @@
             {"info":{
                 "alias":"Hali","name":"Hali Granite Spike","month":"12","day":"24","year":"2007","pronouns":"Xe/It","gender":"Nonbinary","orientation":"Trixic","species":"Pokemon (Lycanroc)","occupation":"College Student","residence":"72 Dovehill Rd, Jadebark, VG","height":"5'1","weight":"92 lbs"
                 },
-            "icon":"https://files.catbox.moe/7shd4t.png","fullbody":"https://files.catbox.moe/7baxgu.png","link":"",
-            "description":"<p>Hali's a fresh-eyed high school graduate who just moved into Jadebark and is ready to take on the world! Xer apartment isn't in the nicest part of town, but it's within biking distance to its new university and the neighbors are only a little bit hostile, so it's good enough for xem.</p>",
+            "icon":"https://files.catbox.moe/7shd4t.png","fullbody":"https://files.catbox.moe/7baxgu.png","link":"https://aineop.neocities.org/characters/#HALI",
+            "description":"<p>Hali's a fresh-eyed high school graduate who just moved into Jadebark and is ready to take on the world!</p>",
             "created":"2026/07/11",
+            "groups":[]
+            },
+
+            {"info":{
+                "alias":"Phoebe","name":"Phoebe","month":"08","day":"04","year":"2007","pronouns":"She/Xe/It","gender":"Pangender","orientation":"Lesbian","species":"Pokemon (Mareanie)","occupation":"College Student","residence":"VG","height":"5'5","weight":"105 lbs"
+                },
+            "icon":"https://files.catbox.moe/7tcc96.png","fullbody":"https://files.catbox.moe/8odtqb.png","link":"",
+            "description":"<p>Phoebe is a motivated college freshman who's here to grip life by the throat until it shakes out everything it has to offer to her!</p>",
+            "created":"2026/09/27",
             "groups":[]
             },
 
